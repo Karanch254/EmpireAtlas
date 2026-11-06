@@ -82,7 +82,10 @@ const smoothCoast = (h: Float32Array, cols: number, rows: number) => {
   return src;
 };
 
-export const loadTerrain = async (folder: string): Promise<TerrainData> => {
+export const loadTerrain = async (
+  folder: string,
+  lightFile = "light.png",
+): Promise<TerrainData> => {
   const meta: TerrainMeta = await (
     await fetch(staticFile(`${folder}/meta.json`))
   ).json();
@@ -102,7 +105,7 @@ export const loadTerrain = async (folder: string): Promise<TerrainData> => {
       )
     : null;
   const [lightTex, normalTex, seaTex] = await Promise.all([
-    loadTexture(staticFile(`${folder}/light.png`)),
+    loadTexture(staticFile(`${folder}/${lightFile}`)),
     loadTexture(staticFile(`${folder}/normals.png`)),
     loadTexture(staticFile(`${folder}/sea.png`)),
   ]);

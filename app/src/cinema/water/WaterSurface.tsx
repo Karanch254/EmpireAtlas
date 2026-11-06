@@ -4,7 +4,7 @@ import * as THREE from "three";
 import { Reflector } from "three/examples/jsm/objects/Reflector.js";
 import { AtmosphereUniforms } from "../atmosphere";
 import { ATMOSPHERE_PARS_GLSL, NOISE_GLSL } from "../glsl";
-import { REFLECTION_PROXY_LAYER, WATER_LAYER } from "../layers";
+import { setReflectionCameraLayers, WATER_LAYER } from "../layers";
 import { SEA_LEVEL } from "../terrain/Terrain";
 import { TerrainData } from "../terrain/terrainData";
 
@@ -351,8 +351,7 @@ export const WaterSurface: React.FC<{
     const original = r.getReflectionCamera.bind(r);
     r.getReflectionCamera = (camera: THREE.Camera) => {
       const rc = original(camera);
-      rc.layers.set(0);
-      rc.layers.enable(REFLECTION_PROXY_LAYER);
+      setReflectionCameraLayers(rc, true);
       return rc;
     };
     return r;

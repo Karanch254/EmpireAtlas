@@ -23,7 +23,12 @@ corridor in the real terrain, not on surveyed project coordinates.
 
 Requirements: Python 3, numpy, Pillow, internet access for the first run.
 Usage (from app/):  python3 tools/prepare-terrain.py
+Extra lighting presets (writes only light-<name>.png, leaves all other
+files untouched):
+  python3 tools/prepare-terrain.py --light-only latemorning --sun 115 32
 """
+
+import argparse
 
 import json
 import math
@@ -120,6 +125,14 @@ def horizon_tan(h, cell, d_col, d_row, steps, stride=1.0):
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--light-only", metavar="NAME",
+                    help="only bake light-NAME.png for another sun position")
+    ap.add_argument("--sun", nargs=2, type=float, metavar=("AZIMUTH", "ELEVATION"),
+                    help="sun azimuth and elevation in degrees (with --light-only)")
+    args = ap.parse_args()
+    sun_az = args.sun[0] if args.light_only and args.sun else SUN_AZIMUTH_DEG
+    sun_el = args.sun[1] if args.light_only and args.sun else SUN_ELEVATION_DEG
     full = mosaic()
     lat = lat_of_row((CROP_Y[0] + CROP_Y[1]) / 2)
     cell = 40075016.686 * math.cos(math.radians(lat)) / (2 ** ZOOM * 256)
@@ -152,8 +165,8 @@ def main():
     # Lighting at LIGHT_DOWNSAMPLE resolution.
     hl = downsample(h, LIGHT_DOWNSAMPLE)
     lcell = cell * LIGHT_DOWNSAMPLE
-    az = math.radians(SUN_AZIMUTH_DEG)
-    el = math.radians(SUN_ELEVATION_DEG)
+    az = math.radians(sun_az)
+    el = math.radians(sun_el)
     sun_tan = math.tan(el)
     hz = horizon_tan(hl, lcell, math.sin(az), -math.cos(az), steps=380)
     sun_vis = np.clip((sun_tan - hz) / 0.02 + 0.5, 0, 1)
@@ -174,6 +187,11 @@ def main():
 
     os.makedirs(OUT, exist_ok=True)
     light = np.stack([sun_vis, sky, np.clip(slope * 3, 0, 1)], -1)
+    if args.light_only:
+        name = f"light-{args.light_only}.png"
+        Image.fromarray((light * 255 + 0.5).astype(np.uint8)).save(os.path.join(OUT, name))
+        print(f"wrote {name} for sun azimuth {sun_az} elevation {sun_el}")
+        return
     Image.fromarray((light * 255 + 0.5).astype(np.uint8)).save(os.path.join(OUT, "light.png"))
     Image.fromarray(((n * 0.5 + 0.5) * 255 + 0.5).astype(np.uint8)).save(os.path.join(OUT, "normals.png"))
     sea_l = downsample(sea.astype(np.float32), LIGHT_DOWNSAMPLE)

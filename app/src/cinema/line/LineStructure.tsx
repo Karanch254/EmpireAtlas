@@ -3,7 +3,11 @@ import { useMemo } from "react";
 import * as THREE from "three";
 import { Reflector } from "three/examples/jsm/objects/Reflector.js";
 import { AtmosphereUniforms, withAtmosphere } from "../atmosphere";
-import { MIRROR_FACADE_LAYER, REFLECTION_PROXY_LAYER } from "../layers";
+import {
+  MIRROR_FACADE_LAYER,
+  REFLECTION_PROXY_LAYER,
+  setReflectionCameraLayers,
+} from "../layers";
 import { facadeFragmentShader, facadeVertexShader } from "./facadeShader";
 import { moduleEdgesWithin } from "./modules";
 import { Route } from "./route";
@@ -229,6 +233,8 @@ export const LineStructure: React.FC<{
   // Which outer facade gets true (planar) mirror reflections.
   heroSide: "left" | "right";
   reflectionScale?: number;
+  // 0 = normal mirror; >0 blends in an illustrative heat-exposure map.
+  thermal?: number;
 }> = ({
   route,
   dims,
@@ -236,6 +242,7 @@ export const LineStructure: React.FC<{
   sunColor,
   heroSide,
   reflectionScale = 0.5,
+  thermal = 0,
 }) => {
   const size = useThree((s) => s.size);
   const dpr = useThree((s) => s.viewport.dpr);
@@ -284,6 +291,7 @@ export const LineStructure: React.FC<{
           lineProfile: { value: new THREE.Vector3(...route.profile) },
           lineLength: { value: route.length },
           alongSign: { value: sign },
+          thermal: { value: 0 },
           facadeNormal: { value: normal.clone() },
           sunColor: { value: sunColor },
           ...atmosphere,
@@ -306,13 +314,13 @@ export const LineStructure: React.FC<{
         0,
       ),
     );
-    r.frustumCulled = false;
+    r.frustumCulled = true; // the mirror pass only runs when it is in view
     r.layers.set(MIRROR_FACADE_LAYER);
     // The facade's reflection sees ordinary geometry only (not other mirrors).
     const original = r.getReflectionCamera.bind(r);
     r.getReflectionCamera = (camera: THREE.Camera) => {
       const rc = original(camera);
-      rc.layers.set(0);
+      setReflectionCameraLayers(rc, false);
       return rc;
     };
     // Cheap stand-in so the facade still appears inside other reflections.
@@ -330,7 +338,7 @@ export const LineStructure: React.FC<{
     proxy.quaternion.copy(r.quaternion);
     proxy.position.copy(r.position);
     proxy.layers.set(REFLECTION_PROXY_LAYER);
-    proxy.frustumCulled = false;
+    proxy.frustumCulled = true;
     return { reflector: r, proxy };
   }, [atmosphere, dims, dpr, heroSide, reflectionScale, route, size, sunColor]);
 
@@ -470,15 +478,17 @@ export const LineStructure: React.FC<{
         );
       }
     }
-    mesh.frustumCulled = false;
+    mesh.frustumCulled = true;
     return mesh;
   }, [atmosphere, dims, route]);
+
+  (reflector.material as THREE.ShaderMaterial).uniforms.thermal.value = thermal;
 
   return (
     <>
       <primitive object={reflector} />
       <primitive object={proxy} />
-      <mesh geometry={geometry} material={materials} frustumCulled={false} />
+      <mesh geometry={geometry} material={materials} />
       <primitive object={fins} />
     </>
   );

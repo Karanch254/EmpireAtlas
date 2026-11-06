@@ -1,6 +1,7 @@
 import { useMemo } from "react";
 import * as THREE from "three";
 import { AtmosphereUniforms, withAtmosphere } from "../atmosphere";
+import { MAIN_ONLY_LAYER, REFLECTION_ONLY_LAYER } from "../layers";
 import { ATMOSPHERE_PARS_GLSL, NOISE_GLSL } from "../glsl";
 import { Route } from "../line/route";
 import { TerrainData } from "./terrainData";
@@ -113,8 +114,13 @@ void main() {
   float dist = length(vWorld - cameraPosition);
   vec2 p = vWorld.xz;
 
-  // Close-up surface detail, faded out with distance.
+  // Close-up surface detail, faded out with distance. Skipped entirely in
+  // the lighter variant used inside reflections (TERRAIN_LITE).
+  #ifdef TERRAIN_LITE
+  float detail = 0.0;
+  #else
   float detail = 1.0 - smoothstep(1500.0, 9000.0, dist);
+  #endif
   if (detail > 0.0) {
     // Gentle undulation + gravel grain; the fine grain fades out before it
     // becomes smaller than a pixel to avoid shimmering.
@@ -200,9 +206,14 @@ void main() {
 }
 `;
 
-// Regular grid of height samples -> indexed triangle mesh. UVs map into the
-// lighting textures, which always cover the full terrain extent.
-const gridGeometry = (
+type Bounds = { minX: number; maxX: number; minZ: number; maxZ: number };
+
+// Regular grid of height samples -> square tiles of indexed triangles.
+// Each tile has its own bounding sphere, so three.js skips tiles outside a
+// camera's view (main camera and each mirror camera independently).
+// `step` > 1 builds a lighter version using every step-th sample.
+// UVs map into the lighting textures, which cover the full terrain extent.
+const gridTiles = (
   data: TerrainData,
   heights: Float32Array,
   cols: number,
@@ -210,59 +221,80 @@ const gridGeometry = (
   minX: number,
   minZ: number,
   cell: number,
-  lowerInside?: { minX: number; maxX: number; minZ: number; maxZ: number },
+  step: number,
+  lowerInside?: Bounds,
+  tileCells = 64,
 ) => {
   const { meta } = data;
-  const positions = new Float32Array(cols * rows * 3);
-  const uvs = new Float32Array(cols * rows * 2);
-  for (let r = 0; r < rows; r++) {
-    for (let c = 0; c < cols; c++) {
-      const i = r * cols + c;
-      const x = minX + (c + 0.5) * cell;
-      const z = minZ + (r + 0.5) * cell;
-      let y = meshHeight(heights[i]);
-      // Sink the coarse mesh under the detail patch so the patch wins.
-      if (
-        lowerInside &&
-        x > lowerInside.minX &&
-        x < lowerInside.maxX &&
-        z > lowerInside.minZ &&
-        z < lowerInside.maxZ
-      ) {
-        y -= 6;
+  const tiles: THREE.BufferGeometry[] = [];
+  const lastC = cols - 1;
+  const lastR = rows - 1;
+  const span = tileCells * step;
+  for (let tr = 0; tr < lastR; tr += span) {
+    for (let tc = 0; tc < lastC; tc += span) {
+      const cs: number[] = [];
+      const rs: number[] = [];
+      for (let c = tc; c < Math.min(tc + span, lastC); c += step) cs.push(c);
+      cs.push(Math.min(tc + span, lastC));
+      for (let r = tr; r < Math.min(tr + span, lastR); r += step) rs.push(r);
+      rs.push(Math.min(tr + span, lastR));
+      const w = cs.length;
+      const h = rs.length;
+      const positions = new Float32Array(w * h * 3);
+      const uvs = new Float32Array(w * h * 2);
+      for (let j = 0; j < h; j++) {
+        for (let i = 0; i < w; i++) {
+          const r = rs[j];
+          const c = cs[i];
+          const v = j * w + i;
+          const x = minX + (c + 0.5) * cell;
+          const z = minZ + (r + 0.5) * cell;
+          let y = meshHeight(heights[r * cols + c]);
+          // Sink the coarse mesh under the detail patch so the patch wins.
+          if (
+            lowerInside &&
+            x > lowerInside.minX &&
+            x < lowerInside.maxX &&
+            z > lowerInside.minZ &&
+            z < lowerInside.maxZ
+          ) {
+            y -= 6;
+          }
+          positions[v * 3] = x;
+          positions[v * 3 + 1] = y;
+          positions[v * 3 + 2] = z;
+          uvs[v * 2] = (x - meta.minX) / meta.widthM;
+          uvs[v * 2 + 1] = (z - meta.minZ) / meta.depthM;
+        }
       }
-      positions[i * 3] = x;
-      positions[i * 3 + 1] = y;
-      positions[i * 3 + 2] = z;
-      uvs[i * 2] = (x - meta.minX) / meta.widthM;
-      uvs[i * 2 + 1] = (z - meta.minZ) / meta.depthM;
+      const index = new Uint32Array((w - 1) * (h - 1) * 6);
+      let k = 0;
+      for (let j = 0; j < h - 1; j++) {
+        for (let i = 0; i < w - 1; i++) {
+          const a = j * w + i;
+          const b = a + 1;
+          const d = a + w;
+          const e = d + 1;
+          index[k++] = a;
+          index[k++] = d;
+          index[k++] = b;
+          index[k++] = b;
+          index[k++] = d;
+          index[k++] = e;
+        }
+      }
+      const g = new THREE.BufferGeometry();
+      g.setAttribute("position", new THREE.BufferAttribute(positions, 3));
+      g.setAttribute("uv", new THREE.BufferAttribute(uvs, 2));
+      g.setIndex(new THREE.BufferAttribute(index, 1));
+      g.computeBoundingSphere();
+      tiles.push(g);
     }
   }
-  const index = new Uint32Array((cols - 1) * (rows - 1) * 6);
-  let k = 0;
-  for (let r = 0; r < rows - 1; r++) {
-    for (let c = 0; c < cols - 1; c++) {
-      const a = r * cols + c;
-      const b = a + 1;
-      const d = a + cols;
-      const e = d + 1;
-      index[k++] = a;
-      index[k++] = d;
-      index[k++] = b;
-      index[k++] = b;
-      index[k++] = d;
-      index[k++] = e;
-    }
-  }
-  const g = new THREE.BufferGeometry();
-  g.setAttribute("position", new THREE.BufferAttribute(positions, 3));
-  g.setAttribute("uv", new THREE.BufferAttribute(uvs, 2));
-  g.setIndex(new THREE.BufferAttribute(index, 1));
-  g.computeBoundingSphere();
-  return g;
+  return tiles;
 };
 
-const buildGeometries = (data: TerrainData) => {
+const buildGeometries = (data: TerrainData, reflectionStep: number) => {
   const { meta } = data;
   const p = meta.patch;
   const bounds =
@@ -274,19 +306,21 @@ const buildGeometries = (data: TerrainData) => {
           maxZ: p.minZ + p.rows * meta.cellSizeM,
         }
       : undefined;
-  const coarse = gridGeometry(
+  const coarseCell = meta.widthM / meta.mesh.cols;
+  const coarse = gridTiles(
     data,
     data.heights,
     meta.mesh.cols,
     meta.mesh.rows,
     meta.minX,
     meta.minZ,
-    meta.widthM / meta.mesh.cols,
+    coarseCell,
+    1,
     bounds,
   );
   const detail =
     p && data.patchHeights
-      ? gridGeometry(
+      ? gridTiles(
           data,
           data.patchHeights,
           p.cols,
@@ -294,9 +328,25 @@ const buildGeometries = (data: TerrainData) => {
           p.minX,
           p.minZ,
           meta.cellSizeM,
+          1,
         )
-      : null;
-  return { coarse, detail };
+      : [];
+  // Lighter terrain seen only by mirror cameras (reflections are distorted
+  // by waves and glass panels, so the extra detail is not visible there).
+  const reflection =
+    reflectionStep > 0
+      ? gridTiles(
+          data,
+          data.heights,
+          meta.mesh.cols,
+          meta.mesh.rows,
+          meta.minX,
+          meta.minZ,
+          coarseCell,
+          reflectionStep,
+        )
+      : [];
+  return { main: [...coarse, ...detail], reflection };
 };
 
 export const Terrain: React.FC<{
@@ -304,8 +354,13 @@ export const Terrain: React.FC<{
   atmosphere: AtmosphereUniforms;
   lighting: TerrainLighting;
   caster: LineShadowCaster;
-}> = ({ data, atmosphere, lighting, caster }) => {
-  const { coarse, detail } = useMemo(() => buildGeometries(data), [data]);
+  // 0 = mirrors see the full main terrain; N = mirrors see every N-th sample.
+  reflectionStep?: number;
+}> = ({ data, atmosphere, lighting, caster, reflectionStep = 0 }) => {
+  const { main, reflection } = useMemo(
+    () => buildGeometries(data, reflectionStep),
+    [data, reflectionStep],
+  );
   const material = useMemo(() => {
     const { route } = caster;
     return new THREE.ShaderMaterial({
@@ -329,6 +384,24 @@ export const Terrain: React.FC<{
     });
   }, [atmosphere, caster, data, lighting]);
 
+  const meshes = useMemo(() => {
+    const mainLayer = reflectionStep > 0 ? MAIN_ONLY_LAYER : 0;
+    const out: THREE.Mesh[] = [];
+    for (const g of main) {
+      const m = new THREE.Mesh(g, material);
+      m.layers.set(mainLayer);
+      out.push(m);
+    }
+    const lite = material.clone();
+    lite.defines = { ...lite.defines, TERRAIN_LITE: 1 };
+    for (const g of reflection) {
+      const m = new THREE.Mesh(g, lite);
+      m.layers.set(REFLECTION_ONLY_LAYER);
+      out.push(m);
+    }
+    return out;
+  }, [main, reflection, material, reflectionStep]);
+
   const farMaterial = useMemo(
     () =>
       withAtmosphere(
@@ -342,10 +415,9 @@ export const Terrain: React.FC<{
 
   return (
     <>
-      <mesh geometry={coarse} material={material} frustumCulled={false} />
-      {detail ? (
-        <mesh geometry={detail} material={material} frustumCulled={false} />
-      ) : null}
+      {meshes.map((m, i) => (
+        <primitive key={i} object={m} />
+      ))}
       {/* Distant desert floor beyond the elevation data, lost in haze. */}
       <mesh
         rotation-x={-Math.PI / 2}

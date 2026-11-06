@@ -1,0 +1,30 @@
+{
+ "source": "AWS Terrain Tiles (Terrarium, zoom 6) - Mapzen/Tilezen, incl. NASA SRTM, ETOPO1",
+ "cellSizeM": 2157.976569990761,
+ "widthM": 3314652.011505809,
+ "depthM": 2762210.0095881745,
+ "minX": -660877.7733518147,
+ "minZ": -991253.3557161179,
+ "mesh": {
+  "cols": 1536,
+  "rows": 1280,
+  "file": "heights.f32"
+ },
+ "light": {
+  "cols": 1536,
+  "rows": 1280
+ },
+ "heightRange": [
+  -5608.0,
+  4970.0
+ ],
+ "sun": {
+  "azimuthDeg": 300.0,
+  "elevationDeg": 35.0
+ },
+ "origin": {
+  "lon": 34.8541,
+  "lat": 28.0847
+ },
+ "lines": "lines.json"
+}

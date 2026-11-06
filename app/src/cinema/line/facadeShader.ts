@@ -39,6 +39,8 @@ uniform float lineLength;
 uniform float alongSign;
 uniform vec3 facadeNormal;
 uniform vec3 sunColor;
+// 0 = normal look (Scene 1). >0 blends in a heat-exposure visualisation.
+uniform float thermal;
 varying vec4 vUvR;
 varying vec3 vLocal;
 varying vec3 vWorld;
@@ -123,6 +125,18 @@ void main() {
   float lamp = step(0.82, ea_hash12(floor(vec2(t / 9.0, h / 6.0)) + k)) * (1.0 - smoothstep(1500.0, 5000.0, dist));
   vec3 podiumCol = refl * 0.25 + vec3(1.0, 0.62, 0.32) * 0.05 * lamp;
   col = mix(col, podiumCol, podium * step(0.0, h));
+
+  if (thermal > 0.0) {
+    // Illustrative heat exposure: sun incidence on the facade, warmer low
+    // down where the desert floor re-radiates heat.
+    float inc = max(dot(facadeNormal, ea_sunDir), 0.0) + 0.35 * ea_sunDir.y;
+    float heat = clamp(inc * 0.9 + (1.0 - smoothstep(0.0, 350.0, h)) * 0.35, 0.0, 1.0);
+    vec3 cool = vec3(0.05, 0.12, 0.45);
+    vec3 mid = vec3(0.9, 0.75, 0.1);
+    vec3 hot = vec3(1.2, 0.18, 0.05);
+    vec3 heatCol = heat < 0.5 ? mix(cool, mid, heat * 2.0) : mix(mid, hot, heat * 2.0 - 1.0);
+    col = mix(col, heatCol * 0.9, thermal);
+  }
 
   col = ea_applyAtmosphere(col, vWorld);
   gl_FragColor = vec4(col, 1.0);

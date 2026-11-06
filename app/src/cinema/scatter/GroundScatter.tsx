@@ -1,6 +1,7 @@
 import { useMemo } from "react";
 import * as THREE from "three";
 import { AtmosphereUniforms, withAtmosphere } from "../atmosphere";
+import { MAIN_ONLY_LAYER } from "../layers";
 
 // Boulders and desert scrub scattered around a region, for close-up scale
 // and parallax during low flights. Deterministic placement.
@@ -49,7 +50,18 @@ export const GroundScatter: React.FC<{
   atmosphere: AtmosphereUniforms;
   rocks: number;
   shrubs: number;
-}> = ({ areas, heightAt, isSea, avoid, atmosphere, rocks, shrubs }) => {
+  // Hide from mirror cameras (small props are invisible in distorted reflections).
+  mainOnly?: boolean;
+}> = ({
+  areas,
+  heightAt,
+  isSea,
+  avoid,
+  atmosphere,
+  rocks,
+  shrubs,
+  mainOnly = false,
+}) => {
   const meshes = useMemo(() => {
     const rand = mulberry32(7);
     const place = (count: number, minS: number, maxS: number, sink: number) => {
@@ -112,8 +124,12 @@ export const GroundScatter: React.FC<{
     shrubMatrices.forEach((m, i) => shrubMesh.setMatrixAt(i, m));
     rockMesh.frustumCulled = false;
     shrubMesh.frustumCulled = false;
+    if (mainOnly) {
+      rockMesh.layers.set(MAIN_ONLY_LAYER);
+      shrubMesh.layers.set(MAIN_ONLY_LAYER);
+    }
     return [rockMesh, shrubMesh];
-  }, [areas, atmosphere, avoid, heightAt, isSea, rocks, shrubs]);
+  }, [areas, atmosphere, avoid, heightAt, isSea, mainOnly, rocks, shrubs]);
 
   return (
     <>
