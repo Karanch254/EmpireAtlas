@@ -31,7 +31,8 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "render:test": "remotion still AtlasScene out/atlas-test.png --frame=75"
   },
   "allowScripts": {
     "esbuild": false
