@@ -1,0 +1,42 @@
+{
+ "source": "AWS Terrain Tiles (Terrarium, zoom 12) - Mapzen/Tilezen, incl. NASA SRTM",
+ "cellSizeM": 33.673603496684876,
+ "widthM": 103445.30994181594,
+ "depthM": 68963.53996121063,
+ "minX": -13469.441398673951,
+ "minZ": -50308.363624047204,
+ "mesh": {
+  "cols": 768,
+  "rows": 512,
+  "file": "heights.f32"
+ },
+ "patch": {
+  "cols": 519,
+  "rows": 393,
+  "minX": -1751.0273818276146,
+  "minZ": -5657.165387443056,
+  "file": "patch-heights.f32"
+ },
+ "light": {
+  "cols": 1536,
+  "rows": 1024
+ },
+ "heightRange": [
+  -30.0,
+  2112.0
+ ],
+ "route": {
+  "bearingDeg": 70.0,
+  "lengthM": 45000.0,
+  "baseProfile": [
+   1.4937138996418504e-07,
+   -0.0024058711002846573,
+   25.168657323335516
+  ],
+  "note": "Illustrative alignment on real terrain, not surveyed coordinates."
+ },
+ "sun": {
+  "azimuthDeg": 88.0,
+  "elevationDeg": 5.5
+ }
+}

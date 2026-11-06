@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>EmpireAtlas GPU probe</title>
+  </head>
+  <body>
+    <script>
+      // Reports which graphics device WebGL is really using, and times a
+      // demanding full-HD shader workload. Run by tools/benchmark-render.ps1
+      // with Chrome's --dump-dom and --enable-logging.
+      (function () {
+        var result = { webgl2: false };
+        try {
+          var canvas = document.createElement("canvas");
+          canvas.width = 1920;
+          canvas.height = 1080;
+          var gl = canvas.getContext("webgl2", { antialias: false });
+          if (gl) {
+            result.webgl2 = true;
+            var info = gl.getExtension("WEBGL_debug_renderer_info");
+            result.vendor = info
+              ? gl.getParameter(info.UNMASKED_VENDOR_WEBGL)
+              : gl.getParameter(gl.VENDOR);
+            result.renderer = info
+              ? gl.getParameter(info.UNMASKED_RENDERER_WEBGL)
+              : gl.getParameter(gl.RENDERER);
+            result.maxTextureSize = gl.getParameter(gl.MAX_TEXTURE_SIZE);
+
+            // Informational only: Chrome reports no "performance caveat"
+            // even for SwiftShader when it was explicitly requested, so the
+            // verdict below relies on the renderer name instead.
+            var strict = document
+              .createElement("canvas")
+              .getContext("webgl2", { failIfMajorPerformanceCaveat: true });
+            result.noPerformanceCaveat = !!strict;
+
+            // Timed workload: 40 full-screen passes of a heavy fragment shader.
+            var vs =
+              "#version 300 es\nin vec2 p;void main(){gl_Position=vec4(p,0.,1.);}";
+            var fs =
+              "#version 300 es\nprecision highp float;uniform float t;out vec4 o;" +
+              "void main(){vec2 u=gl_FragCoord.xy/1080.;float a=0.;" +
+              "for(int i=0;i<48;i++){a+=sin(u.x*float(i)+t)*cos(u.y*float(i)-t);}" +
+              "o=vec4(vec3(a*0.02+0.5),1.);}";
+            var mk = function (type, src) {
+              var s = gl.createShader(type);
+              gl.shaderSource(s, src);
+              gl.compileShader(s);
+              return s;
+            };
+            var prog = gl.createProgram();
+            gl.attachShader(prog, mk(gl.VERTEX_SHADER, vs));
+            gl.attachShader(prog, mk(gl.FRAGMENT_SHADER, fs));
+            gl.linkProgram(prog);
+            gl.useProgram(prog);
+            var buf = gl.createBuffer();
+            gl.bindBuffer(gl.ARRAY_BUFFER, buf);
+            gl.bufferData(
+              gl.ARRAY_BUFFER,
+              new Float32Array([-1, -1, 3, -1, -1, 3]),
+              gl.STATIC_DRAW,
+            );
+            var loc = gl.getAttribLocation(prog, "p");
+            gl.enableVertexAttribArray(loc);
+            gl.vertexAttribPointer(loc, 2, gl.FLOAT, false, 0, 0);
+            var tl = gl.getUniformLocation(prog, "t");
+            gl.viewport(0, 0, 1920, 1080);
+            var px = new Uint8Array(4);
+            gl.drawArrays(gl.TRIANGLES, 0, 3);
+            gl.readPixels(0, 0, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, px);
+            var t0 = performance.now();
+            for (var i = 0; i < 40; i++) {
+              gl.uniform1f(tl, i * 0.1);
+              gl.drawArrays(gl.TRIANGLES, 0, 3);
+            }
+            gl.readPixels(0, 0, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, px);
+            result.workloadMs = Math.round(performance.now() - t0);
+          }
+        } catch (e) {
+          result.error = String(e);
+        }
+        var r = (result.renderer || "").toLowerCase();
+        result.verdict = !result.webgl2
+          ? "NO_WEBGL"
+          : r.indexOf("swiftshader") >= 0 ||
+              r.indexOf("software") >= 0 ||
+              r.indexOf("llvmpipe") >= 0
+            ? "SOFTWARE"
+            : r.indexOf("amd") >= 0 || r.indexOf("radeon") >= 0
+              ? "HARDWARE_AMD"
+              : "HARDWARE_OTHER";
+        // Reported twice: as the page text (read via --dump-dom) and as a
+        // console message (read from Chrome's log when stdout is unavailable).
+        var line = "EA_GPU_PROBE " + JSON.stringify(result);
+        document.body.textContent = line;
+        console.log(line);
+      })();
+    </script>
+  </body>
+</html>

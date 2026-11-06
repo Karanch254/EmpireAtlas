@@ -2,7 +2,8 @@ import { Composition } from "remotion";
 import { AtlasScene } from "./AtlasScene/AtlasScene";
 import { MyComposition } from "./Composition";
 import { TimingPreview } from "./neom/preview/TimingPreview";
-import { FPS, HEIGHT, TOTAL_FRAMES, WIDTH } from "./neom/timing";
+import { Scene01Composition } from "./neom/scenes/Scene01Composition";
+import { FPS, HEIGHT, SCENES, TOTAL_FRAMES, WIDTH } from "./neom/timing";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -20,6 +21,14 @@ export const RemotionRoot: React.FC = () => {
         id="NeomTimingPreview"
         component={TimingPreview}
         durationInFrames={TOTAL_FRAMES}
+        fps={FPS}
+        width={WIDTH}
+        height={HEIGHT}
+      />
+      <Composition
+        id="NeomScene01"
+        component={Scene01Composition}
+        durationInFrames={SCENES[0].durationInFrames}
         fps={FPS}
         width={WIDTH}
         height={HEIGHT}
