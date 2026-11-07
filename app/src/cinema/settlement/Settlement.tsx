@@ -64,6 +64,9 @@ export const Settlement: React.FC<{
   palms?: number;
   seed?: number;
   litFraction?: number;
+  // Optional 0..1 growth: reveals houses, windows and palms in the order
+  // they were placed. Omitted, everything is shown (unchanged behaviour).
+  grow?: number;
 }> = ({
   centre,
   radius,
@@ -73,8 +76,9 @@ export const Settlement: React.FC<{
   palms = 110,
   seed = 7,
   litFraction = 0.45,
+  grow,
 }) => {
-  const root = useMemo(() => {
+  const { root, meshes } = useMemo(() => {
     const rand = rng(seed);
     const group = new THREE.Group();
     const grid = rand() * Math.PI; // a common street orientation
@@ -339,8 +343,17 @@ export const Settlement: React.FC<{
     group.add(frondMesh);
 
     for (const child of group.children) child.frustumCulled = false;
-    return group;
+    return {
+      root: group,
+      meshes: [houseMesh, winMesh, trunkMesh, frondMesh],
+    };
   }, [centre, radius, heightAt, atmosphere, houses, palms, seed, litFraction]);
+  if (grow !== undefined) {
+    const g = THREE.MathUtils.clamp(grow, 0, 1);
+    for (const m of meshes) {
+      m.count = Math.round(m.instanceMatrix.count * g);
+    }
+  }
 
   return <primitive object={root} />;
 };

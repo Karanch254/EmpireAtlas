@@ -1,4 +1,4 @@
-// Shared GLSL snippets used by the EmpireAtlas cinematic shaders.
+// Shared GLSL snippets used by The Knowverse cinematic shaders.
 
 // Deterministic hash / value-noise / fbm (no textures, same result every render).
 export const NOISE_GLSL = /* glsl */ `

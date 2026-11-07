@@ -160,7 +160,10 @@ const Ground: React.FC = () => {
   }, []);
   return (
     <mesh rotation-x={-Math.PI / 2} material={mat}>
-      <planeGeometry args={[40000, 40000]} />
+      {/* Subdivided (100 m cells): a 2-triangle 40 km quad seen edge-on from
+          a 3 m camera loses float precision in its interpolated position and
+          UVs, which made the haze and texture pop from frame to frame. */}
+      <planeGeometry args={[40000, 40000, 400, 400]} />
     </mesh>
   );
 };

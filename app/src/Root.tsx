@@ -3,6 +3,7 @@ import { AtlasScene } from "./AtlasScene/AtlasScene";
 import { MyComposition } from "./Composition";
 import { TimingPreview } from "./neom/preview/TimingPreview";
 import { Batch1Compositions } from "./neom/scenes/Batch1";
+import { Batch2Compositions } from "./neom/scenes/Batch2";
 import { Scene01Composition } from "./neom/scenes/Scene01Composition";
 import { FPS, HEIGHT, SCENES, TOTAL_FRAMES, WIDTH } from "./neom/timing";
 
@@ -35,6 +36,7 @@ export const RemotionRoot: React.FC = () => {
         height={HEIGHT}
       />
       <Batch1Compositions />
+      <Batch2Compositions />
     </>
   );
 };

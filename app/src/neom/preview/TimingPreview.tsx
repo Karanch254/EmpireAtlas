@@ -174,7 +174,7 @@ const Header: React.FC = () => {
         fontVariantNumeric: "tabular-nums",
       }}
     >
-      <div>EMPIREATLAS · THE LINE · TIMING PREVIEW</div>
+      <div>THE KNOWVERSE · THE LINE · TIMING PREVIEW</div>
       <div style={{ color: "#ff8a5c" }}>{status}</div>
       <div style={{ color: TEXT }}>
         {formatTimecode(frame)} · frame {frame} / {TOTAL_FRAMES - 1}

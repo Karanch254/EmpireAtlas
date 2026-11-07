@@ -1,5 +1,5 @@
 <#
-EmpireAtlas render benchmark for Windows (Windows PowerShell 5.1 or PowerShell 7).
+The Knowverse render benchmark for Windows (Windows PowerShell 5.1 or PowerShell 7).
 
 What it does
   1. Makes sure Remotion's own Chrome is downloaded, then finds it.
