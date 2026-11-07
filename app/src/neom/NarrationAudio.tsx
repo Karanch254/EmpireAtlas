@@ -1,10 +1,12 @@
 import { Audio, Sequence, staticFile } from "remotion";
 import { MUSIC_TRACK } from "./music";
+import { CLOSING_LINE } from "./closing-line";
 import { NARRATION_AUDIO } from "./narration-timing";
 import {
   PART1_DURATION_FRAMES,
   PART1_FROM,
-  PART2_DURATION_FRAMES,
+  FPS,
+  PART2_ORIGINAL_FRAMES,
   PART2_FROM,
   TOTAL_FRAMES,
 } from "./timing";
@@ -25,11 +27,24 @@ export const NarrationAudio: React.FC = () => {
       <Sequence
         name="Narration - Part 2 (scenes 8-15)"
         from={PART2_FROM}
-        durationInFrames={PART2_DURATION_FRAMES}
+        durationInFrames={PART2_ORIGINAL_FRAMES}
         layout="none"
       >
         <Audio src={staticFile(NARRATION_AUDIO.part2.file)} />
       </Sequence>
+      {CLOSING_LINE ? (
+        <Sequence
+          name="Narration - closing line (The Knowverse)"
+          from={PART2_FROM + Math.round(CLOSING_LINE.offset * FPS)}
+          durationInFrames={Math.ceil(CLOSING_LINE.duration * FPS)}
+          layout="none"
+        >
+          <Audio
+            src={staticFile(CLOSING_LINE.file)}
+            volume={CLOSING_LINE.volume}
+          />
+        </Sequence>
+      ) : null}
       {MUSIC_TRACK ? (
         <Sequence
           name="Music"

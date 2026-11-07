@@ -1,3 +1,4 @@
+import { CLOSING_LINE, part2EffectiveDuration } from "./closing-line";
 import { NARRATION_AUDIO, NARRATION_SENTENCES } from "./narration-timing";
 
 // Master timeline for "The Line: The 170km City That Shrank to 2.4km".
@@ -26,14 +27,18 @@ const PART1_END_EXACT = PART1_FROM + toFrames(NARRATION_AUDIO.part1.duration);
 export const PART2_FROM = Math.round(
   PART1_END_EXACT + toFrames(PART_GAP_SECONDS),
 );
-const PART2_END_EXACT = PART2_FROM + toFrames(NARRATION_AUDIO.part2.duration);
+const PART2_LENGTH = part2EffectiveDuration(NARRATION_AUDIO.part2.duration);
+const PART2_END_EXACT = PART2_FROM + toFrames(PART2_LENGTH);
 
 export const PART1_DURATION_FRAMES = Math.ceil(
   toFrames(NARRATION_AUDIO.part1.duration),
 );
-export const PART2_DURATION_FRAMES = Math.ceil(
-  toFrames(NARRATION_AUDIO.part2.duration),
-);
+export const PART2_DURATION_FRAMES = Math.ceil(toFrames(PART2_LENGTH));
+// How much of the original Part 2 file plays: all of it, or up to the
+// splice point when the re-recorded closing line is in use.
+export const PART2_ORIGINAL_FRAMES = CLOSING_LINE
+  ? Math.round(toFrames(CLOSING_LINE.spliceAt))
+  : PART2_DURATION_FRAMES;
 export const NARRATION_END_FRAME = Math.ceil(PART2_END_EXACT);
 export const TOTAL_FRAMES = NARRATION_END_FRAME + END_CARD_FRAMES;
 

@@ -119,5 +119,5 @@ export const NARRATION_SENTENCES: NarrationSentence[] = [
   { scene: 15, part: 2, start: 265.947, end: 273.924, text: "Whether they become the first piece of a new kind of city, or a monument to the limits of ambition, may not be decided until the 2030s." },
   { scene: 15, part: 2, start: 273.924, end: 279.434, text: "Was The Line a vision ahead of its time, or a warning about building the future from the top down?" },
   { scene: 15, part: 2, start: 279.434, end: 281.413, text: "Tell us what you think in the comments." },
-  { scene: 15, part: 2, start: 281.413, end: 288.614, text: "And if you want more stories about the world's boldest megaprojects, and what really happened to them, subscribe to EmpireAtlas." },
+  { scene: 15, part: 2, start: 281.413, end: 288.637, text: "And if you want more stories about the world's boldest megaprojects, and what really happened to them, subscribe to The Knowverse." },
 ];
