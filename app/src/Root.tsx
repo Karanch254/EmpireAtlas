@@ -4,6 +4,7 @@ import { MyComposition } from "./Composition";
 import { TimingPreview } from "./neom/preview/TimingPreview";
 import { Batch1Compositions } from "./neom/scenes/Batch1";
 import { Batch2Compositions } from "./neom/scenes/Batch2";
+import { ShorelinePrototype } from "./caspian/prototype/ShorelinePrototype";
 import { Scene01Composition } from "./neom/scenes/Scene01Composition";
 import { FPS, HEIGHT, SCENES, TOTAL_FRAMES, WIDTH } from "./neom/timing";
 
@@ -37,6 +38,15 @@ export const RemotionRoot: React.FC = () => {
       />
       <Batch1Compositions />
       <Batch2Compositions />
+      {/* Documentary 4 (Caspian): Scene 8 shoreline prototype - not production. */}
+      <Composition
+        id="CaspianProto08"
+        component={ShorelinePrototype}
+        durationInFrames={10}
+        fps={FPS}
+        width={WIDTH}
+        height={HEIGHT}
+      />
     </>
   );
 };

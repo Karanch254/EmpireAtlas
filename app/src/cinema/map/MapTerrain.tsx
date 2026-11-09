@@ -118,6 +118,17 @@ uniform vec3 skyColor;
 uniform vec3 hazeColor;
 uniform float hazeDensity;
 uniform float coolGrade;
+#ifdef SHORELINE
+uniform float seaLevel;
+uniform float exposedFrom;
+uniform vec4 contourLevels;
+uniform vec4 contourDashed;
+uniform vec3 contourColor0;
+uniform vec3 contourColor1;
+uniform vec3 contourColor2;
+uniform vec3 contourColor3;
+uniform vec3 exposedColor;
+#endif
 varying vec3 vWorld;
 varying vec2 vUv;
 varying float vH;
@@ -151,12 +162,27 @@ void main() {
   float sunVis = L.r;
   float ndl = max(dot(N, sunDir), 0.0);
   vec3 col;
-  if (vH < 0.0) {
+#ifdef SHORELINE
+  // Inland sea whose surface is not at 0 m (e.g. the Caspian): water where
+  // the measured bed lies below the chosen water level.
+  float wl = seaLevel;
+  float shallowEnd = 0.5;
+  float deepEnd = 600.0;
+#else
+  float wl = 0.0;
+  float shallowEnd = 5.0;
+  float deepEnd = 900.0;
+#endif
+  if (vH < wl) {
     // Sea: depth tint over the real seabed relief.
-    float depth = -vH;
+    float depth = wl - vH;
     vec3 shallow = toLinear(vec3(0.10, 0.45, 0.50));
     vec3 deep = toLinear(vec3(0.01, 0.06, 0.14));
-    vec3 water = mix(shallow, deep, smoothstep(5.0, 900.0, depth));
+    vec3 water = mix(shallow, deep, smoothstep(shallowEnd, deepEnd, depth));
+#ifdef SHORELINE
+    // Very shallow water (a few metres, like the north Caspian) reads lighter.
+    water = mix(toLinear(vec3(0.36, 0.66, 0.60)), water, smoothstep(0.0, 8.0, depth));
+#endif
     if (useAlbedo) water = mix(water, albedo, 0.35);
     float relief = 0.75 + 0.5 * ndl;
     col = water * (sunColor * 0.25 * relief + skyColor * 0.6);
@@ -164,6 +190,25 @@ void main() {
     col = albedo * (sunColor * ndl * sunVis + skyColor * L.g * (0.55 + 0.45 * N.y));
   }
 
+#ifdef SHORELINE
+  // Seabed exposed since a reference level (between the reference and the
+  // current water level), and level contours (solid = measured, dashed =
+  // projection). Contour width is constant on screen (fwidth).
+  if (vH >= wl && vH < exposedFrom) {
+    float t = clamp((vH - wl) / max(exposedFrom - wl, 0.01), 0.0, 1.0);
+    col = mix(col, exposedColor * (0.55 + 0.45 * ndl * sunVis), 0.78 - 0.18 * t);
+  }
+  float fw = max(fwidth(vH), 1e-4);
+  vec3 cc[4];
+  cc[0] = contourColor0; cc[1] = contourColor1; cc[2] = contourColor2; cc[3] = contourColor3;
+  for (int i = 0; i < 4; i++) {
+    float lv = contourLevels[i];
+    if (lv > 9000.0) continue;
+    float line = 1.0 - smoothstep(0.6, 1.6, abs(vH - lv) / fw);
+    if (contourDashed[i] > 0.5) line *= step(0.45, fract((p.x + p.y) / 6000.0));
+    col = mix(col, cc[i], line);
+  }
+#endif
   // Light aerial haze by distance, and an optional cool cartographic grade.
   float d = length(vWorld - cameraPosition);
   col = mix(col, hazeColor, 1.0 - exp(-d * hazeDensity));
@@ -239,13 +284,23 @@ export type MapLook = {
   coolGrade: number;
 };
 
+export type ShorelineSpec = {
+  level: number; // water level, metres (same datum as the terrain data)
+  exposedFrom?: number; // shade seabed between this level and `level`
+  contours?: { level: number; color: THREE.Color; dashed?: boolean }[]; // max 4
+  exposedColor?: THREE.Color;
+};
+
 export const MapTerrain: React.FC<{
   data: RegionData;
   look: MapLook;
   exaggeration?: number;
   albedo?: THREE.Texture | null;
   step?: number;
-}> = ({ data, look, exaggeration = 1, albedo = null, step = 1 }) => {
+  // Optional: inland-sea water level and level contours (Caspian). When
+  // omitted the shader is compiled exactly as before.
+  shoreline?: ShorelineSpec;
+}> = ({ data, look, exaggeration = 1, albedo = null, step = 1, shoreline }) => {
   const tiles = useMemo(() => buildTiles(data, step), [data, step]);
   const material = useMemo(() => {
     const R = 6378137;
@@ -255,10 +310,36 @@ export const MapTerrain: React.FC<{
       R * Math.log(Math.tan(Math.PI / 4 + THREE.MathUtils.degToRad(lat) / 2));
     // Bounding spheres assume unexaggerated heights; scaling is small enough
     // relative to tile size that culling stays safe.
+    const sl = shoreline;
+    const c = sl?.contours ?? [];
+    const lev = (i: number) => (c[i] ? c[i].level : 9999);
+    const extra: Record<string, THREE.IUniform> = sl
+      ? {
+          seaLevel: { value: sl.level },
+          exposedFrom: { value: sl.exposedFrom ?? sl.level },
+          contourLevels: {
+            value: new THREE.Vector4(lev(0), lev(1), lev(2), lev(3)),
+          },
+          contourDashed: {
+            value: new THREE.Vector4(
+              ...[0, 1, 2, 3].map((i) => (c[i]?.dashed ? 1 : 0)),
+            ),
+          },
+          contourColor0: { value: c[0]?.color ?? new THREE.Color(1, 1, 1) },
+          contourColor1: { value: c[1]?.color ?? new THREE.Color(1, 1, 1) },
+          contourColor2: { value: c[2]?.color ?? new THREE.Color(1, 1, 1) },
+          contourColor3: { value: c[3]?.color ?? new THREE.Color(1, 1, 1) },
+          exposedColor: {
+            value: sl.exposedColor ?? new THREE.Color(0.85, 0.55, 0.18),
+          },
+        }
+      : {};
     return new THREE.ShaderMaterial({
       vertexShader,
       fragmentShader,
+      ...(sl ? { defines: { SHORELINE: "" } } : {}),
       uniforms: {
+        ...extra,
         tLight: { value: data.light },
         tNormal: { value: data.normals },
         tAlbedo: { value: albedo },
@@ -280,7 +361,7 @@ export const MapTerrain: React.FC<{
         coolGrade: { value: look.coolGrade },
       },
     });
-  }, [albedo, data, exaggeration, look]);
+  }, [albedo, data, exaggeration, look, shoreline]);
   return (
     <>
       {tiles.map((g, i) => (

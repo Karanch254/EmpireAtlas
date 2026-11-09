@@ -1,0 +1,31 @@
+{
+ "source": "GEBCO_2026 Grid (15 arc-second), GEBCO Compilation Group (2026); subset n48.0 s36.0 w46.0 e55.5; elevations relative to Mean Sea Level",
+ "cellSizeM": 500.0,
+ "widthM": 785500.0,
+ "depthM": 1342000.0,
+ "minX": -372269.2660100983,
+ "minZ": -702922.402245655,
+ "mesh": {
+  "cols": 1571,
+  "rows": 2684,
+  "file": "heights.f32"
+ },
+ "light": {
+  "cols": 1571,
+  "rows": 2684
+ },
+ "heightRange": [
+  -1046.910888671875,
+  4460.83984375
+ ],
+ "sun": {
+  "azimuthDeg": 230,
+  "elevationDeg": 35
+ },
+ "origin": {
+  "lon": 50.5,
+  "lat": 42.0
+ },
+ "processing": "bilinear resample to 500 m Mercator grid; 4 light 3x3 smoothing passes",
+ "lines": "lines.json"
+}
