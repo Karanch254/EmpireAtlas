@@ -1,6 +1,6 @@
 # Production Status: 9 Ancient Megastructures
 
-**Last checkpoint:** 2026-11-18 · Phase 2 voiceover: dictionary upload blocked by an API key permission · **0 credits used · waiting for you to update the key**
+**Last checkpoint:** 2026-11-18 · Phase 2 voiceover: pronunciation preview v1 ready (`voiceover/audio/preview/pronunciation-preview-v1.mp3`, 28.0 s) · **waiting for you to listen and approve** · 0 credits shown as used so far (241 characters expected)
 **Running right now:** nothing. No background or cloud task is active for this production.
 
 Any session (local or cloud) resuming this work: read this file first, continue from the first ⏳/⬜ stage, and update this file and commit at the end of every stage.
@@ -14,7 +14,7 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 | 3 | Script review & retention optimisation | ✅ Done (v1.2) | `05-quality-control.md` | 0 unresolved factual or visual issues |
 | 4 | Visual prompt generation | ✅ Done (v1.2) | `03-shot-list.md` | All 7 flags closed. 4 prompts corrected (Baalbek cutting, Sacsayhuamán cutting and placing, Derinkuyu cutaway). 5 existing prompts unchanged. 18 new |
 | 5 | Real-footage research | 🟡 Search terms ready | `03-shot-list.md` | Next: find specific clips and check licences (Pexels free; others may cost money and need your approval) |
-| 6 | Voiceover preparation | 🟥 Blocked | `voiceover/VOICEOVER-CONFIG.md`, `voiceover/spoken-form-v1.md`, `voiceover/pronunciation-aliases.pls` | ✅ Script approved (1,367 words). ✅ Cloud read-only check: Creator plan, 101,184 credits left, Dan + eleven_v4 OK, ffmpeg OK. ✅ b7d39d2 pushed. ❌ Dictionary upload refused: key lacks `pronunciation_dictionaries_write`. Preview not generated. 0 credits used |
+| 6 | Voiceover preparation | 🟡 Preview ready, awaiting approval | `voiceover/VOICEOVER-CONFIG.md`, `voiceover/spoken-form-v1.md`, `voiceover/pronunciation-aliases.pls`, `voiceover/pronunciation-dictionary.json`, `voiceover/audio/preview/` | ✅ Dictionary `YhYGilJIn6Cp0jpwFo0A` (version `cRnXhGnUiGoPtmD1cHcS`, 24 rules) created. ✅ One 241-character preview (Dan, eleven_v4, seed 4), 28.0 s, per-name timings in the preview `.json`. Credits: counter showed 0 used (21,345 / 122,529 before and after), 241 expected. Full narration NOT generated: needs your approval |
 | 7 | Video editing & rendering | ⬜ Not started | — | Needs a machine with the editor/Remotion and the footage. **Can't run in the cloud as currently set up** (see below) |
 | 8 | Final quality checks | ⬜ Not started | — | |
 | 9 | YouTube upload package | ✅ Draft done | `04-upload-package.md` | Re-time chapters after voiceover. **Never published without your explicit approval** |
@@ -28,6 +28,7 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 | v1.2 | 2026-11-18 | Sacsayhuamán P-3A → rough shaping at quarry, final fit at the wall (F-4). Derinkuyu P-2A cutaway → ~85 m to match the narration (F-7). F-2, F-3 and F-6 closed with no change. QC audit: 0 open accuracy issues |
 | P2-S2 | 2026-11-18 | Voiceover Step 2 proposal: spoken-form copy (9 number/date/italic changes, wording otherwise identical), 24-entry pronunciation dictionary, settings and credit estimate. Approved script untouched |
 | P2-S3 | 2026-11-18 | Cloud read-only check passed. b7d39d2 pushed. Dictionary upload attempted in the cloud: HTTP 401 missing `pronunciation_dictionaries_write`. Preview not sent, nothing saved or pushed, 0 credits used (21,345 / 122,529 before and after) |
+| P2-S4 | 2026-11-18 | Write permission worked: dictionary `YhYGilJIn6Cp0jpwFo0A` / `cRnXhGnUiGoPtmD1cHcS` created (24 rules). One preview request (241 characters, 244 bytes), HTTP 200, 28.0 s MP3 + alignment + name timings saved. Credits counter unchanged right after (21,345 used); ~241 expected |
 
 **Push status:** ✅ **Pushed** to GitHub on 2026-11-18, with your approval.
 - Remote branch: `origin/claude/relaxed-johnson-o8xlkc` (https://github.com/Karanch254/EmpireAtlas/tree/claude/relaxed-johnson-o8xlkc)
