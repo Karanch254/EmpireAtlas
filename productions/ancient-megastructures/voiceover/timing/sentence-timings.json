@@ -1,0 +1,863 @@
+{
+ "audio": "audio/ancient-megastructures-narration-full.mp3",
+ "timeline": "full file, seconds",
+ "duration_s": 572.907,
+ "note": "Word times come from ElevenLabs character alignment, offset by each section's placement after trimming. Last-word end times are capped at the section end.",
+ "sentence_count": 122,
+ "sentences": [
+  {
+   "section": "01",
+   "index": 0,
+   "text": "How did people with no cranes, no wheels, and no steel move stones heavier than a blue whale?",
+   "start_s": 0.0,
+   "end_s": 6.32
+  },
+  {
+   "section": "01",
+   "index": 1,
+   "text": "Some of these builders never had the wheel.",
+   "start_s": 6.88,
+   "end_s": 8.96
+  },
+  {
+   "section": "01",
+   "index": 2,
+   "text": "Others had it, and it barely helped.",
+   "start_s": 9.36,
+   "end_s": 11.44
+  },
+  {
+   "section": "01",
+   "index": 3,
+   "text": "A city built on the sea from columns of black rock.",
+   "start_s": 12.0,
+   "end_s": 15.52
+  },
+  {
+   "section": "01",
+   "index": 4,
+   "text": "Three temple blocks, each heavier than a loaded jumbo jet.",
+   "start_s": 15.76,
+   "end_s": 19.56
+  },
+  {
+   "section": "01",
+   "index": 5,
+   "text": "And giant carved pillars, raised before farming took hold.",
+   "start_s": 19.76,
+   "end_s": 23.6
+  },
+  {
+   "section": "01",
+   "index": 6,
+   "text": "Nine structures.",
+   "start_s": 24.08,
+   "end_s": 25.44
+  },
+  {
+   "section": "01",
+   "index": 7,
+   "text": "And the real answers are stranger than the myths.",
+   "start_s": 25.68,
+   "end_s": 28.435
+  },
+  {
+   "section": "02",
+   "index": 0,
+   "text": "We're counting down from nine to one.",
+   "start_s": 29.435,
+   "end_s": 32.035
+  },
+  {
+   "section": "02",
+   "index": 1,
+   "text": "For each site: what survives today, how it was most likely built, and what nobody knows yet.",
+   "start_s": 32.075,
+   "end_s": 38.835
+  },
+  {
+   "section": "02",
+   "index": 2,
+   "text": "And number one holds some of the largest stones ever set into a building.",
+   "start_s": 38.875,
+   "end_s": 43.264
+  },
+  {
+   "section": "03",
+   "index": 0,
+   "text": "Number nine.",
+   "start_s": 43.864,
+   "end_s": 44.984
+  },
+  {
+   "section": "03",
+   "index": 1,
+   "text": "Off the coast of Pohnpei, in Micronesia, more than a hundred artificial islets sit in a shallow lagoon.",
+   "start_s": 45.064,
+   "end_s": 51.904
+  },
+  {
+   "section": "03",
+   "index": 2,
+   "text": "Their walls are long, six-sided basalt columns, stacked crosswise like a log cabin and packed with coral.",
+   "start_s": 51.944,
+   "end_s": 59.224
+  },
+  {
+   "section": "03",
+   "index": 3,
+   "text": "This was the seat of the Saudeleur rulers, and its monumental building is associated especially with about twelve hundred to fifteen hundred C.E.",
+   "start_s": 59.304,
+   "end_s": 68.184
+  },
+  {
+   "section": "03",
+   "index": 4,
+   "text": "The basalt was quarried elsewhere on Pohnpei, where volcanic rock naturally cools into columns.",
+   "start_s": 68.264,
+   "end_s": 74.264
+  },
+  {
+   "section": "03",
+   "index": 5,
+   "text": "Then it was moved, possibly by raft, and stacked, one heavy column at a time.",
+   "start_s": 74.424,
+   "end_s": 79.904
+  },
+  {
+   "section": "03",
+   "index": 6,
+   "text": "Exactly how is uncertain.",
+   "start_s": 79.944,
+   "end_s": 81.984
+  },
+  {
+   "section": "03",
+   "index": 7,
+   "text": "Rafts, ramps and levers have all been proposed, and no written record settles it.",
+   "start_s": 82.024,
+   "end_s": 87.024
+  },
+  {
+   "section": "03",
+   "index": 8,
+   "text": "What's clear is the organisation behind it: rulers who could command labour for generations.",
+   "start_s": 87.064,
+   "end_s": 93.091
+  },
+  {
+   "section": "03",
+   "index": 9,
+   "text": "Moving stone around one island is hard.",
+   "start_s": 93.197,
+   "end_s": 95.504
+  },
+  {
+   "section": "03",
+   "index": 10,
+   "text": "Try moving it across a country, five thousand years ago.",
+   "start_s": 95.544,
+   "end_s": 98.859
+  },
+  {
+   "section": "04",
+   "index": 0,
+   "text": "Number eight: Stonehenge, built in phases over more than a thousand years.",
+   "start_s": 99.459,
+   "end_s": 105.019
+  },
+  {
+   "section": "04",
+   "index": 1,
+   "text": "Its stones didn't all travel the same distance.",
+   "start_s": 105.059,
+   "end_s": 107.912
+  },
+  {
+   "section": "04",
+   "index": 2,
+   "text": "The giant sarsens came from the Marlborough Downs area, largely West Woods, about twenty miles away.",
+   "start_s": 107.966,
+   "end_s": 114.299
+  },
+  {
+   "section": "04",
+   "index": 3,
+   "text": "The smaller bluestones came from the Preseli Hills in south-west Wales, roughly a hundred and fifty miles away.",
+   "start_s": 114.339,
+   "end_s": 121.099
+  },
+  {
+   "section": "04",
+   "index": 4,
+   "text": "Archaeologists believe builders used wooden sledges, timber tracks and big teams on ropes.",
+   "start_s": 121.139,
+   "end_s": 127.166
+  },
+  {
+   "section": "04",
+   "index": 5,
+   "text": "But the exact routes, overland or partly by water, are still debated.",
+   "start_s": 127.192,
+   "end_s": 131.739
+  },
+  {
+   "section": "04",
+   "index": 6,
+   "text": "But the strangest part is still coming.",
+   "start_s": 131.779,
+   "end_s": 134.232
+  },
+  {
+   "section": "04",
+   "index": 7,
+   "text": "In twenty twenty-four, a study in Nature traced the Altar Stone, at the monument's centre, to north-east Scotland, roughly seven hundred kilometres away.",
+   "start_s": 134.286,
+   "end_s": 143.739
+  },
+  {
+   "section": "04",
+   "index": 8,
+   "text": "How it got here is unknown.",
+   "start_s": 143.779,
+   "end_s": 145.899
+  },
+  {
+   "section": "04",
+   "index": 9,
+   "text": "Stonehenge's builders dragged their stones.",
+   "start_s": 145.939,
+   "end_s": 148.619
+  },
+  {
+   "section": "04",
+   "index": 10,
+   "text": "On one Pacific island, people say the stones walked.",
+   "start_s": 148.659,
+   "end_s": 151.87
+  },
+  {
+   "section": "05",
+   "index": 0,
+   "text": "Number seven: the Moai of Rapa Nui, a remote Pacific island that is part of Chile.",
+   "start_s": 152.47,
+   "end_s": 158.59
+  },
+  {
+   "section": "05",
+   "index": 1,
+   "text": "Nearly a thousand statues were carved here, most from one volcanic quarry, Rano Raraku.",
+   "start_s": 158.63,
+   "end_s": 164.79
+  },
+  {
+   "section": "05",
+   "index": 2,
+   "text": "Most are a few metres tall, but some are huge.",
+   "start_s": 164.95,
+   "end_s": 168.19
+  },
+  {
+   "section": "05",
+   "index": 3,
+   "text": "Paro, one of the largest ever erected, is estimated at around eighty tonnes.",
+   "start_s": 168.23,
+   "end_s": 173.39
+  },
+  {
+   "section": "05",
+   "index": 4,
+   "text": "Rapa Nui tradition says the Moai walked.",
+   "start_s": 173.43,
+   "end_s": 176.43
+  },
+  {
+   "section": "05",
+   "index": 5,
+   "text": "In twenty twelve, archaeologists Terry Hunt and Carl Lipo tested that with a replica of about five tonnes.",
+   "start_s": 176.47,
+   "end_s": 183.07
+  },
+  {
+   "section": "05",
+   "index": 6,
+   "text": "Eighteen people, three ropes, and the upright statue rocked forward, step by step.",
+   "start_s": 183.11,
+   "end_s": 188.67
+  },
+  {
+   "section": "05",
+   "index": 7,
+   "text": "Statues abandoned along ancient roads fit that picture.",
+   "start_s": 188.71,
+   "end_s": 191.95
+  },
+  {
+   "section": "05",
+   "index": 8,
+   "text": "It's a strongly supported explanation, but not proven for every statue, especially the heaviest.",
+   "start_s": 191.99,
+   "end_s": 197.63
+  },
+  {
+   "section": "05",
+   "index": 9,
+   "text": "And in the quarry lies one giant, around twenty metres long, that was never finished.",
+   "start_s": 197.67,
+   "end_s": 203.003
+  },
+  {
+   "section": "05",
+   "index": 10,
+   "text": "On Rapa Nui, the challenge was about a thousand statues.",
+   "start_s": 203.057,
+   "end_s": 206.59
+  },
+  {
+   "section": "05",
+   "index": 11,
+   "text": "In Egypt, it was over two million blocks.",
+   "start_s": 206.63,
+   "end_s": 209.511
+  },
+  {
+   "section": "06",
+   "index": 0,
+   "text": "Number six: the Great Pyramid, built for the pharaoh Khufu around four thousand five hundred years ago.",
+   "start_s": 210.111,
+   "end_s": 217.031
+  },
+  {
+   "section": "06",
+   "index": 1,
+   "text": "It originally stood about a hundred and forty-six point six metres tall, from an estimated two point three million blocks, its sides aligned to the cardinal directions with remarkable, though not perfect, accuracy.",
+   "start_s": 217.071,
+   "end_s": 229.831
+  },
+  {
+   "section": "06",
+   "index": 2,
+   "text": "Here, the evidence is strong.",
+   "start_s": 229.871,
+   "end_s": 232.071
+  },
+  {
+   "section": "06",
+   "index": 3,
+   "text": "Most core limestone was quarried on the plateau itself.",
+   "start_s": 232.111,
+   "end_s": 235.431
+  },
+  {
+   "section": "06",
+   "index": 4,
+   "text": "Finer casing stone came from Tura, across the Nile.",
+   "start_s": 235.471,
+   "end_s": 238.951
+  },
+  {
+   "section": "06",
+   "index": 5,
+   "text": "Papyri found at Wadi al-Jarf include the logbook of an official named Merer, recording his crew shipping that limestone to Giza by boat.",
+   "start_s": 238.991,
+   "end_s": 247.511
+  },
+  {
+   "section": "06",
+   "index": 6,
+   "text": "Egyptian art shows loads dragged on sledges, and a workers' town has been excavated nearby.",
+   "start_s": 247.551,
+   "end_s": 253.271
+  },
+  {
+   "section": "06",
+   "index": 7,
+   "text": "What we don't know is the ramp system.",
+   "start_s": 253.311,
+   "end_s": 255.871
+  },
+  {
+   "section": "06",
+   "index": 8,
+   "text": "Straight, zigzag, spiralling: each has supporters.",
+   "start_s": 255.951,
+   "end_s": 259.911
+  },
+  {
+   "section": "06",
+   "index": 9,
+   "text": "None is proven.",
+   "start_s": 259.951,
+   "end_s": 261.191
+  },
+  {
+   "section": "06",
+   "index": 10,
+   "text": "But so far, every builder had farming behind them.",
+   "start_s": 261.231,
+   "end_s": 264.551
+  },
+  {
+   "section": "06",
+   "index": 11,
+   "text": "The next site breaks that rule.",
+   "start_s": 264.591,
+   "end_s": 266.373
+  },
+  {
+   "section": "07",
+   "index": 0,
+   "text": "Number five: Göbekli Tepe, in south-eastern Türkiye.",
+   "start_s": 266.973,
+   "end_s": 271.373
+  },
+  {
+   "section": "07",
+   "index": 1,
+   "text": "Its monumental enclosures date to roughly ninety-six hundred to eighty-two hundred B.C.E., around seven thousand years before the Great Pyramid.",
+   "start_s": 271.453,
+   "end_s": 280.733
+  },
+  {
+   "section": "07",
+   "index": 2,
+   "text": "Giant T-shaped limestone pillars, some over five metres tall, stand in rings, carved with foxes, boars, snakes and vultures.",
+   "start_s": 280.813,
+   "end_s": 290.093
+  },
+  {
+   "section": "07",
+   "index": 3,
+   "text": "Some even have arms and hands.",
+   "start_s": 290.173,
+   "end_s": 292.546
+  },
+  {
+   "section": "07",
+   "index": 4,
+   "text": "The builders were hunter-gatherer communities, before fully established farming in the region.",
+   "start_s": 292.6,
+   "end_s": 297.573
+  },
+  {
+   "section": "07",
+   "index": 5,
+   "text": "They quarried the pillars with stone tools.",
+   "start_s": 297.613,
+   "end_s": 300.213
+  },
+  {
+   "section": "07",
+   "index": 6,
+   "text": "One unfinished pillar still lies in the bedrock.",
+   "start_s": 300.253,
+   "end_s": 303.373
+  },
+  {
+   "section": "07",
+   "index": 7,
+   "text": "Why build it?",
+   "start_s": 303.493,
+   "end_s": 304.453
+  },
+  {
+   "section": "07",
+   "index": 8,
+   "text": "Ritual and communal gathering are the leading interpretations, but the debate is open.",
+   "start_s": 304.493,
+   "end_s": 309.493
+  },
+  {
+   "section": "07",
+   "index": 9,
+   "text": "Some researchers even suggest gatherings like these helped push people toward farming.",
+   "start_s": 309.533,
+   "end_s": 314.533
+  },
+  {
+   "section": "07",
+   "index": 10,
+   "text": "Göbekli Tepe shows ambition.",
+   "start_s": 314.573,
+   "end_s": 316.933
+  },
+  {
+   "section": "07",
+   "index": 11,
+   "text": "The next site shows precision, and more wild theories than almost anywhere on Earth.",
+   "start_s": 316.973,
+   "end_s": 322.362
+  },
+  {
+   "section": "08",
+   "index": 0,
+   "text": "Number four: Puma Punku, part of the larger Tiwanaku complex near Lake Titicaca, in Bolivia.",
+   "start_s": 322.962,
+   "end_s": 330.162
+  },
+  {
+   "section": "08",
+   "index": 1,
+   "text": "Its stones now lie toppled.",
+   "start_s": 330.242,
+   "end_s": 332.375
+  },
+  {
+   "section": "08",
+   "index": 2,
+   "text": "But look closely: flat faces, crisp interior angles, and the famous H-shaped blocks, repeated so consistently they look standardised.",
+   "start_s": 332.429,
+   "end_s": 342.029
+  },
+  {
+   "section": "08",
+   "index": 3,
+   "text": "It's tempting to jump to lasers.",
+   "start_s": 342.055,
+   "end_s": 344.122
+  },
+  {
+   "section": "08",
+   "index": 4,
+   "text": "The evidence points elsewhere.",
+   "start_s": 344.162,
+   "end_s": 346.202
+  },
+  {
+   "section": "08",
+   "index": 5,
+   "text": "The largest slabs are red sandstone, traced to a quarry about ten kilometres away.",
+   "start_s": 346.242,
+   "end_s": 351.482
+  },
+  {
+   "section": "08",
+   "index": 6,
+   "text": "Andesite came from volcanic sources across the lake.",
+   "start_s": 351.522,
+   "end_s": 354.962
+  },
+  {
+   "section": "08",
+   "index": 7,
+   "text": "Researchers have found hammerstones and studied tool marks consistent with pecking, grinding and polishing.",
+   "start_s": 355.042,
+   "end_s": 361.389
+  },
+  {
+   "section": "08",
+   "index": 8,
+   "text": "Repeated shapes suggest templates and skilled specialists.",
+   "start_s": 361.575,
+   "end_s": 365.002
+  },
+  {
+   "section": "08",
+   "index": 9,
+   "text": "What's uncertain is exactly how such consistent angles were achieved, and how the complex looked before collapse and looting.",
+   "start_s": 365.042,
+   "end_s": 372.682
+  },
+  {
+   "section": "08",
+   "index": 10,
+   "text": "These stones don't need lost technology.",
+   "start_s": 372.722,
+   "end_s": 375.402
+  },
+  {
+   "section": "08",
+   "index": 11,
+   "text": "They needed extraordinary skill.",
+   "start_s": 375.442,
+   "end_s": 377.802
+  },
+  {
+   "section": "08",
+   "index": 12,
+   "text": "Centuries later, the Inca took fitted stone to an extreme.",
+   "start_s": 377.842,
+   "end_s": 381.699
+  },
+  {
+   "section": "09",
+   "index": 0,
+   "text": "Number three: Sacsayhuamán, the Inca complex above Cusco.",
+   "start_s": 382.299,
+   "end_s": 387.259
+  },
+  {
+   "section": "09",
+   "index": 1,
+   "text": "Its zigzag walls are built from enormous polygonal stones, the largest with weight estimates ranging from about one hundred to two hundred tonnes, fitted without mortar.",
+   "start_s": 387.379,
+   "end_s": 398.099
+  },
+  {
+   "section": "09",
+   "index": 2,
+   "text": "One leading explanation for the tight joints is patient repetition: shape a stone, test it against its neighbour, mark where it touches, adjust, and test again.",
+   "start_s": 398.139,
+   "end_s": 408.979
+  },
+  {
+   "section": "09",
+   "index": 3,
+   "text": "Experiments with hammerstones show how effective that can be.",
+   "start_s": 409.019,
+   "end_s": 412.659
+  },
+  {
+   "section": "09",
+   "index": 4,
+   "text": "How the largest blocks were moved and lifted is still uncertain.",
+   "start_s": 412.699,
+   "end_s": 416.739
+  },
+  {
+   "section": "09",
+   "index": 5,
+   "text": "And earthquakes?",
+   "start_s": 416.779,
+   "end_s": 418.019
+  },
+  {
+   "section": "09",
+   "index": 6,
+   "text": "Interlocking walls have helped many Inca structures survive centuries of tremors, but they aren't indestructible.",
+   "start_s": 418.059,
+   "end_s": 424.779
+  },
+  {
+   "section": "09",
+   "index": 7,
+   "text": "Much of Sacsayhuamán was dismantled by the Spanish to build colonial Cusco.",
+   "start_s": 424.899,
+   "end_s": 429.539
+  },
+  {
+   "section": "09",
+   "index": 8,
+   "text": "The biggest stones stayed, too heavy to take.",
+   "start_s": 429.579,
+   "end_s": 432.779
+  },
+  {
+   "section": "09",
+   "index": 9,
+   "text": "So far, everything went up.",
+   "start_s": 432.899,
+   "end_s": 434.899
+  },
+  {
+   "section": "09",
+   "index": 10,
+   "text": "Number two goes down.",
+   "start_s": 434.939,
+   "end_s": 436.611
+  },
+  {
+   "section": "10",
+   "index": 0,
+   "text": "Number two: Derinkuyu, in Cappadocia.",
+   "start_s": 437.211,
+   "end_s": 440.811
+  },
+  {
+   "section": "10",
+   "index": 1,
+   "text": "Beneath the town lies an underground complex of multiple levels.",
+   "start_s": 440.851,
+   "end_s": 444.944
+  },
+  {
+   "section": "10",
+   "index": 2,
+   "text": "The parts open today go down more than fifty metres, and the full complex is estimated to reach around eighty-five.",
+   "start_s": 444.998,
+   "end_s": 451.851
+  },
+  {
+   "section": "10",
+   "index": 3,
+   "text": "Rooms, stables, storage areas, wells, and ventilation shafts carrying air to the deepest levels.",
+   "start_s": 452.131,
+   "end_s": 458.731
+  },
+  {
+   "section": "10",
+   "index": 4,
+   "text": "Huge round stone doors could be rolled shut from inside.",
+   "start_s": 458.811,
+   "end_s": 462.611
+  },
+  {
+   "section": "10",
+   "index": 5,
+   "text": "The rock is soft volcanic tuff, carved by hand.",
+   "start_s": 462.651,
+   "end_s": 466.291
+  },
+  {
+   "section": "10",
+   "index": 6,
+   "text": "The complex grew over centuries and was greatly expanded in the Byzantine era as shelter in dangerous times.",
+   "start_s": 466.331,
+   "end_s": 472.931
+  },
+  {
+   "section": "10",
+   "index": 7,
+   "text": "You'll often hear it held twenty thousand people.",
+   "start_s": 472.971,
+   "end_s": 475.651
+  },
+  {
+   "section": "10",
+   "index": 8,
+   "text": "That number isn't securely established, and it isn't a proven population living here at once.",
+   "start_s": 475.691,
+   "end_s": 481.171
+  },
+  {
+   "section": "10",
+   "index": 9,
+   "text": "Derinkuyu was carved out a basket at a time.",
+   "start_s": 481.211,
+   "end_s": 484.451
+  },
+  {
+   "section": "10",
+   "index": 10,
+   "text": "Number one went the other way: single stones of almost unbelievable size.",
+   "start_s": 484.491,
+   "end_s": 489.397
+  },
+  {
+   "section": "11",
+   "index": 0,
+   "text": "Number one: Baalbek, in Lebanon's Beqaa Valley.",
+   "start_s": 490.397,
+   "end_s": 494.477
+  },
+  {
+   "section": "11",
+   "index": 1,
+   "text": "Beneath the Roman Temple of Jupiter lies a stone platform.",
+   "start_s": 494.517,
+   "end_s": 498.357
+  },
+  {
+   "section": "11",
+   "index": 2,
+   "text": "In one course of its wall sit three limestone blocks side by side: the Trilithon.",
+   "start_s": 498.397,
+   "end_s": 504.037
+  },
+  {
+   "section": "11",
+   "index": 3,
+   "text": "Each is about nineteen metres long, and commonly estimated at around eight hundred tonnes.",
+   "start_s": 504.077,
+   "end_s": 509.637
+  },
+  {
+   "section": "11",
+   "index": 4,
+   "text": "They were cut about two thousand years ago, from a limestone quarry nearby.",
+   "start_s": 509.677,
+   "end_s": 513.997
+  },
+  {
+   "section": "11",
+   "index": 5,
+   "text": "Many researchers believe they were moved on timber tracks or rollers by enormous teams, using levers and capstans, giant winches turned by people or animals.",
+   "start_s": 514.077,
+   "end_s": 523.957
+  },
+  {
+   "section": "11",
+   "index": 6,
+   "text": "And the strangest part is waiting in that quarry: even larger blocks, never finished.",
+   "start_s": 523.997,
+   "end_s": 529.517
+  },
+  {
+   "section": "11",
+   "index": 7,
+   "text": "One, the Stone of the Pregnant Woman, is estimated at around a thousand tonnes.",
+   "start_s": 529.597,
+   "end_s": 534.277
+  },
+  {
+   "section": "11",
+   "index": 8,
+   "text": "In twenty fourteen, German archaeologists exposed another, estimated at around sixteen hundred and fifty.",
+   "start_s": 534.317,
+   "end_s": 540.517
+  },
+  {
+   "section": "11",
+   "index": 9,
+   "text": "Modern cranes can lift heavier loads.",
+   "start_s": 540.557,
+   "end_s": 542.917
+  },
+  {
+   "section": "11",
+   "index": 10,
+   "text": "The real question is how Roman-era engineers did it with rope, timber, muscle and mechanical advantage, and why they left the biggest stones behind.",
+   "start_s": 542.957,
+   "end_s": 551.748
+  },
+  {
+   "section": "12",
+   "index": 0,
+   "text": "Nine sites, thousands of years apart.",
+   "start_s": 552.548,
+   "end_s": 555.508
+  },
+  {
+   "section": "12",
+   "index": 1,
+   "text": "No lost civilisation required.",
+   "start_s": 555.588,
+   "end_s": 557.748
+  },
+  {
+   "section": "12",
+   "index": 2,
+   "text": "Just people who understood their materials, organised enormous workforces, and refused to build small.",
+   "start_s": 557.828,
+   "end_s": 564.668
+  },
+  {
+   "section": "12",
+   "index": 3,
+   "text": "That might be the most remarkable answer of all.",
+   "start_s": 564.708,
+   "end_s": 567.628
+  },
+  {
+   "section": "12",
+   "index": 4,
+   "text": "Which one still puzzles you most?",
+   "start_s": 567.668,
+   "end_s": 569.868
+  },
+  {
+   "section": "12",
+   "index": 5,
+   "text": "Tell us in the comments.",
+   "start_s": 569.908,
+   "end_s": 571.388
+  },
+  {
+   "section": "12",
+   "index": 6,
+   "text": "This is The Knowverse.",
+   "start_s": 571.428,
+   "end_s": 572.907
+  }
+ ]
+}

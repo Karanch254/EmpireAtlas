@@ -1,0 +1,11081 @@
+{
+ "audio": "audio/ancient-megastructures-narration-full.mp3",
+ "timeline": "full file, seconds",
+ "duration_s": 572.907,
+ "note": "Word times come from ElevenLabs character alignment, offset by each section's placement after trimming. Last-word end times are capped at the section end.",
+ "word_count": 1384,
+ "words": [
+  {
+   "global_index": 0,
+   "section": "01",
+   "index": 0,
+   "word": "How",
+   "start_s": 0.0,
+   "end_s": 0.16
+  },
+  {
+   "global_index": 1,
+   "section": "01",
+   "index": 1,
+   "word": "did",
+   "start_s": 0.24,
+   "end_s": 0.32
+  },
+  {
+   "global_index": 2,
+   "section": "01",
+   "index": 2,
+   "word": "people",
+   "start_s": 0.4,
+   "end_s": 0.64
+  },
+  {
+   "global_index": 3,
+   "section": "01",
+   "index": 3,
+   "word": "with",
+   "start_s": 0.72,
+   "end_s": 0.88
+  },
+  {
+   "global_index": 4,
+   "section": "01",
+   "index": 4,
+   "word": "no",
+   "start_s": 1.04,
+   "end_s": 1.2
+  },
+  {
+   "global_index": 5,
+   "section": "01",
+   "index": 5,
+   "word": "cranes,",
+   "start_s": 1.28,
+   "end_s": 2.0
+  },
+  {
+   "global_index": 6,
+   "section": "01",
+   "index": 6,
+   "word": "no",
+   "start_s": 2.08,
+   "end_s": 2.24
+  },
+  {
+   "global_index": 7,
+   "section": "01",
+   "index": 7,
+   "word": "wheels,",
+   "start_s": 2.32,
+   "end_s": 2.88
+  },
+  {
+   "global_index": 8,
+   "section": "01",
+   "index": 8,
+   "word": "and",
+   "start_s": 2.96,
+   "end_s": 3.04
+  },
+  {
+   "global_index": 9,
+   "section": "01",
+   "index": 9,
+   "word": "no",
+   "start_s": 3.12,
+   "end_s": 3.28
+  },
+  {
+   "global_index": 10,
+   "section": "01",
+   "index": 10,
+   "word": "steel",
+   "start_s": 3.44,
+   "end_s": 3.92
+  },
+  {
+   "global_index": 11,
+   "section": "01",
+   "index": 11,
+   "word": "move",
+   "start_s": 4.16,
+   "end_s": 4.32
+  },
+  {
+   "global_index": 12,
+   "section": "01",
+   "index": 12,
+   "word": "stones",
+   "start_s": 4.4,
+   "end_s": 4.8
+  },
+  {
+   "global_index": 13,
+   "section": "01",
+   "index": 13,
+   "word": "heavier",
+   "start_s": 4.88,
+   "end_s": 5.2
+  },
+  {
+   "global_index": 14,
+   "section": "01",
+   "index": 14,
+   "word": "than",
+   "start_s": 5.28,
+   "end_s": 5.36
+  },
+  {
+   "global_index": 15,
+   "section": "01",
+   "index": 15,
+   "word": "a",
+   "start_s": 5.4,
+   "end_s": 5.44
+  },
+  {
+   "global_index": 16,
+   "section": "01",
+   "index": 16,
+   "word": "blue",
+   "start_s": 5.52,
+   "end_s": 5.76
+  },
+  {
+   "global_index": 17,
+   "section": "01",
+   "index": 17,
+   "word": "whale?",
+   "start_s": 5.84,
+   "end_s": 6.32
+  },
+  {
+   "global_index": 18,
+   "section": "01",
+   "index": 18,
+   "word": "Some",
+   "start_s": 6.88,
+   "end_s": 7.04
+  },
+  {
+   "global_index": 19,
+   "section": "01",
+   "index": 19,
+   "word": "of",
+   "start_s": 7.08,
+   "end_s": 7.12
+  },
+  {
+   "global_index": 20,
+   "section": "01",
+   "index": 20,
+   "word": "these",
+   "start_s": 7.2,
+   "end_s": 7.36
+  },
+  {
+   "global_index": 21,
+   "section": "01",
+   "index": 21,
+   "word": "builders",
+   "start_s": 7.44,
+   "end_s": 7.84
+  },
+  {
+   "global_index": 22,
+   "section": "01",
+   "index": 22,
+   "word": "never",
+   "start_s": 8.0,
+   "end_s": 8.24
+  },
+  {
+   "global_index": 23,
+   "section": "01",
+   "index": 23,
+   "word": "had",
+   "start_s": 8.32,
+   "end_s": 8.48
+  },
+  {
+   "global_index": 24,
+   "section": "01",
+   "index": 24,
+   "word": "the",
+   "start_s": 8.52,
+   "end_s": 8.56
+  },
+  {
+   "global_index": 25,
+   "section": "01",
+   "index": 25,
+   "word": "wheel.",
+   "start_s": 8.64,
+   "end_s": 8.96
+  },
+  {
+   "global_index": 26,
+   "section": "01",
+   "index": 26,
+   "word": "Others",
+   "start_s": 9.36,
+   "end_s": 9.68
+  },
+  {
+   "global_index": 27,
+   "section": "01",
+   "index": 27,
+   "word": "had",
+   "start_s": 9.8,
+   "end_s": 9.92
+  },
+  {
+   "global_index": 28,
+   "section": "01",
+   "index": 28,
+   "word": "it,",
+   "start_s": 10.0,
+   "end_s": 10.24
+  },
+  {
+   "global_index": 29,
+   "section": "01",
+   "index": 29,
+   "word": "and",
+   "start_s": 10.32,
+   "end_s": 10.4
+  },
+  {
+   "global_index": 30,
+   "section": "01",
+   "index": 30,
+   "word": "it",
+   "start_s": 10.44,
+   "end_s": 10.48
+  },
+  {
+   "global_index": 31,
+   "section": "01",
+   "index": 31,
+   "word": "barely",
+   "start_s": 10.64,
+   "end_s": 10.96
+  },
+  {
+   "global_index": 32,
+   "section": "01",
+   "index": 32,
+   "word": "helped.",
+   "start_s": 11.04,
+   "end_s": 11.44
+  },
+  {
+   "global_index": 33,
+   "section": "01",
+   "index": 33,
+   "word": "A",
+   "start_s": 12.0,
+   "end_s": 12.08
+  },
+  {
+   "global_index": 34,
+   "section": "01",
+   "index": 34,
+   "word": "city",
+   "start_s": 12.16,
+   "end_s": 12.4
+  },
+  {
+   "global_index": 35,
+   "section": "01",
+   "index": 35,
+   "word": "built",
+   "start_s": 12.56,
+   "end_s": 12.8
+  },
+  {
+   "global_index": 36,
+   "section": "01",
+   "index": 36,
+   "word": "on",
+   "start_s": 12.88,
+   "end_s": 12.96
+  },
+  {
+   "global_index": 37,
+   "section": "01",
+   "index": 37,
+   "word": "the",
+   "start_s": 13.0,
+   "end_s": 13.04
+  },
+  {
+   "global_index": 38,
+   "section": "01",
+   "index": 38,
+   "word": "sea",
+   "start_s": 13.2,
+   "end_s": 13.44
+  },
+  {
+   "global_index": 39,
+   "section": "01",
+   "index": 39,
+   "word": "from",
+   "start_s": 13.52,
+   "end_s": 13.68
+  },
+  {
+   "global_index": 40,
+   "section": "01",
+   "index": 40,
+   "word": "columns",
+   "start_s": 13.76,
+   "end_s": 14.24
+  },
+  {
+   "global_index": 41,
+   "section": "01",
+   "index": 41,
+   "word": "of",
+   "start_s": 14.32,
+   "end_s": 14.4
+  },
+  {
+   "global_index": 42,
+   "section": "01",
+   "index": 42,
+   "word": "black",
+   "start_s": 14.48,
+   "end_s": 14.8
+  },
+  {
+   "global_index": 43,
+   "section": "01",
+   "index": 43,
+   "word": "rock.",
+   "start_s": 14.88,
+   "end_s": 15.52
+  },
+  {
+   "global_index": 44,
+   "section": "01",
+   "index": 44,
+   "word": "Three",
+   "start_s": 15.76,
+   "end_s": 16.0
+  },
+  {
+   "global_index": 45,
+   "section": "01",
+   "index": 45,
+   "word": "temple",
+   "start_s": 16.08,
+   "end_s": 16.4
+  },
+  {
+   "global_index": 46,
+   "section": "01",
+   "index": 46,
+   "word": "blocks,",
+   "start_s": 16.48,
+   "end_s": 17.12
+  },
+  {
+   "global_index": 47,
+   "section": "01",
+   "index": 47,
+   "word": "each",
+   "start_s": 17.24,
+   "end_s": 17.36
+  },
+  {
+   "global_index": 48,
+   "section": "01",
+   "index": 48,
+   "word": "heavier",
+   "start_s": 17.44,
+   "end_s": 17.76
+  },
+  {
+   "global_index": 49,
+   "section": "01",
+   "index": 49,
+   "word": "than",
+   "start_s": 17.84,
+   "end_s": 17.92
+  },
+  {
+   "global_index": 50,
+   "section": "01",
+   "index": 50,
+   "word": "a",
+   "start_s": 18.0,
+   "end_s": 18.08
+  },
+  {
+   "global_index": 51,
+   "section": "01",
+   "index": 51,
+   "word": "loaded",
+   "start_s": 18.16,
+   "end_s": 18.48
+  },
+  {
+   "global_index": 52,
+   "section": "01",
+   "index": 52,
+   "word": "jumbo",
+   "start_s": 18.64,
+   "end_s": 18.96
+  },
+  {
+   "global_index": 53,
+   "section": "01",
+   "index": 53,
+   "word": "jet.",
+   "start_s": 19.04,
+   "end_s": 19.56
+  },
+  {
+   "global_index": 54,
+   "section": "01",
+   "index": 54,
+   "word": "And",
+   "start_s": 19.76,
+   "end_s": 19.92
+  },
+  {
+   "global_index": 55,
+   "section": "01",
+   "index": 55,
+   "word": "giant",
+   "start_s": 20.08,
+   "end_s": 20.4
+  },
+  {
+   "global_index": 56,
+   "section": "01",
+   "index": 56,
+   "word": "carved",
+   "start_s": 20.56,
+   "end_s": 20.88
+  },
+  {
+   "global_index": 57,
+   "section": "01",
+   "index": 57,
+   "word": "pillars,",
+   "start_s": 20.96,
+   "end_s": 21.68
+  },
+  {
+   "global_index": 58,
+   "section": "01",
+   "index": 58,
+   "word": "raised",
+   "start_s": 21.76,
+   "end_s": 22.08
+  },
+  {
+   "global_index": 59,
+   "section": "01",
+   "index": 59,
+   "word": "before",
+   "start_s": 22.28,
+   "end_s": 22.48
+  },
+  {
+   "global_index": 60,
+   "section": "01",
+   "index": 60,
+   "word": "farming",
+   "start_s": 22.56,
+   "end_s": 22.96
+  },
+  {
+   "global_index": 61,
+   "section": "01",
+   "index": 61,
+   "word": "took",
+   "start_s": 23.08,
+   "end_s": 23.2
+  },
+  {
+   "global_index": 62,
+   "section": "01",
+   "index": 62,
+   "word": "hold.",
+   "start_s": 23.36,
+   "end_s": 23.6
+  },
+  {
+   "global_index": 63,
+   "section": "01",
+   "index": 63,
+   "word": "Nine",
+   "start_s": 24.08,
+   "end_s": 24.4
+  },
+  {
+   "global_index": 64,
+   "section": "01",
+   "index": 64,
+   "word": "structures.",
+   "start_s": 24.56,
+   "end_s": 25.44
+  },
+  {
+   "global_index": 65,
+   "section": "01",
+   "index": 65,
+   "word": "And",
+   "start_s": 25.68,
+   "end_s": 25.76
+  },
+  {
+   "global_index": 66,
+   "section": "01",
+   "index": 66,
+   "word": "the",
+   "start_s": 25.84,
+   "end_s": 25.92
+  },
+  {
+   "global_index": 67,
+   "section": "01",
+   "index": 67,
+   "word": "real",
+   "start_s": 26.0,
+   "end_s": 26.16
+  },
+  {
+   "global_index": 68,
+   "section": "01",
+   "index": 68,
+   "word": "answers",
+   "start_s": 26.24,
+   "end_s": 26.72
+  },
+  {
+   "global_index": 69,
+   "section": "01",
+   "index": 69,
+   "word": "are",
+   "start_s": 26.8,
+   "end_s": 26.96
+  },
+  {
+   "global_index": 70,
+   "section": "01",
+   "index": 70,
+   "word": "stranger",
+   "start_s": 27.04,
+   "end_s": 27.6
+  },
+  {
+   "global_index": 71,
+   "section": "01",
+   "index": 71,
+   "word": "than",
+   "start_s": 27.68,
+   "end_s": 27.76
+  },
+  {
+   "global_index": 72,
+   "section": "01",
+   "index": 72,
+   "word": "the",
+   "start_s": 27.84,
+   "end_s": 27.88
+  },
+  {
+   "global_index": 73,
+   "section": "01",
+   "index": 73,
+   "word": "myths.",
+   "start_s": 27.92,
+   "end_s": 28.435
+  },
+  {
+   "global_index": 74,
+   "section": "02",
+   "index": 0,
+   "word": "We're",
+   "start_s": 29.435,
+   "end_s": 29.675
+  },
+  {
+   "global_index": 75,
+   "section": "02",
+   "index": 1,
+   "word": "counting",
+   "start_s": 29.795,
+   "end_s": 30.075
+  },
+  {
+   "global_index": 76,
+   "section": "02",
+   "index": 2,
+   "word": "down",
+   "start_s": 30.235,
+   "end_s": 30.395
+  },
+  {
+   "global_index": 77,
+   "section": "02",
+   "index": 3,
+   "word": "from",
+   "start_s": 30.515,
+   "end_s": 30.635
+  },
+  {
+   "global_index": 78,
+   "section": "02",
+   "index": 4,
+   "word": "nine",
+   "start_s": 30.715,
+   "end_s": 31.035
+  },
+  {
+   "global_index": 79,
+   "section": "02",
+   "index": 5,
+   "word": "to",
+   "start_s": 31.115,
+   "end_s": 31.275
+  },
+  {
+   "global_index": 80,
+   "section": "02",
+   "index": 6,
+   "word": "one.",
+   "start_s": 31.355,
+   "end_s": 32.035
+  },
+  {
+   "global_index": 81,
+   "section": "02",
+   "index": 7,
+   "word": "For",
+   "start_s": 32.075,
+   "end_s": 32.235
+  },
+  {
+   "global_index": 82,
+   "section": "02",
+   "index": 8,
+   "word": "each",
+   "start_s": 32.315,
+   "end_s": 32.475
+  },
+  {
+   "global_index": 83,
+   "section": "02",
+   "index": 9,
+   "word": "site:",
+   "start_s": 32.555,
+   "end_s": 33.195
+  },
+  {
+   "global_index": 84,
+   "section": "02",
+   "index": 10,
+   "word": "what",
+   "start_s": 33.275,
+   "end_s": 33.355
+  },
+  {
+   "global_index": 85,
+   "section": "02",
+   "index": 11,
+   "word": "survives",
+   "start_s": 33.435,
+   "end_s": 33.835
+  },
+  {
+   "global_index": 86,
+   "section": "02",
+   "index": 12,
+   "word": "today,",
+   "start_s": 33.915,
+   "end_s": 34.675
+  },
+  {
+   "global_index": 87,
+   "section": "02",
+   "index": 13,
+   "word": "how",
+   "start_s": 34.715,
+   "end_s": 34.875
+  },
+  {
+   "global_index": 88,
+   "section": "02",
+   "index": 14,
+   "word": "it",
+   "start_s": 34.915,
+   "end_s": 34.955
+  },
+  {
+   "global_index": 89,
+   "section": "02",
+   "index": 15,
+   "word": "was",
+   "start_s": 35.035,
+   "end_s": 35.195
+  },
+  {
+   "global_index": 90,
+   "section": "02",
+   "index": 16,
+   "word": "most",
+   "start_s": 35.275,
+   "end_s": 35.515
+  },
+  {
+   "global_index": 91,
+   "section": "02",
+   "index": 17,
+   "word": "likely",
+   "start_s": 35.715,
+   "end_s": 35.915
+  },
+  {
+   "global_index": 92,
+   "section": "02",
+   "index": 18,
+   "word": "built,",
+   "start_s": 36.235,
+   "end_s": 36.595
+  },
+  {
+   "global_index": 93,
+   "section": "02",
+   "index": 19,
+   "word": "and",
+   "start_s": 36.635,
+   "end_s": 37.035
+  },
+  {
+   "global_index": 94,
+   "section": "02",
+   "index": 20,
+   "word": "what",
+   "start_s": 37.155,
+   "end_s": 37.275
+  },
+  {
+   "global_index": 95,
+   "section": "02",
+   "index": 21,
+   "word": "nobody",
+   "start_s": 37.355,
+   "end_s": 37.755
+  },
+  {
+   "global_index": 96,
+   "section": "02",
+   "index": 22,
+   "word": "knows",
+   "start_s": 37.875,
+   "end_s": 38.035
+  },
+  {
+   "global_index": 97,
+   "section": "02",
+   "index": 23,
+   "word": "yet.",
+   "start_s": 38.075,
+   "end_s": 38.835
+  },
+  {
+   "global_index": 98,
+   "section": "02",
+   "index": 24,
+   "word": "And",
+   "start_s": 38.875,
+   "end_s": 39.035
+  },
+  {
+   "global_index": 99,
+   "section": "02",
+   "index": 25,
+   "word": "number",
+   "start_s": 39.195,
+   "end_s": 39.355
+  },
+  {
+   "global_index": 100,
+   "section": "02",
+   "index": 26,
+   "word": "one",
+   "start_s": 39.435,
+   "end_s": 39.835
+  },
+  {
+   "global_index": 101,
+   "section": "02",
+   "index": 27,
+   "word": "holds",
+   "start_s": 39.915,
+   "end_s": 40.155
+  },
+  {
+   "global_index": 102,
+   "section": "02",
+   "index": 28,
+   "word": "some",
+   "start_s": 40.235,
+   "end_s": 40.315
+  },
+  {
+   "global_index": 103,
+   "section": "02",
+   "index": 29,
+   "word": "of",
+   "start_s": 40.395,
+   "end_s": 40.475
+  },
+  {
+   "global_index": 104,
+   "section": "02",
+   "index": 30,
+   "word": "the",
+   "start_s": 40.595,
+   "end_s": 40.715
+  },
+  {
+   "global_index": 105,
+   "section": "02",
+   "index": 31,
+   "word": "largest",
+   "start_s": 40.835,
+   "end_s": 41.195
+  },
+  {
+   "global_index": 106,
+   "section": "02",
+   "index": 32,
+   "word": "stones",
+   "start_s": 41.275,
+   "end_s": 41.755
+  },
+  {
+   "global_index": 107,
+   "section": "02",
+   "index": 33,
+   "word": "ever",
+   "start_s": 41.835,
+   "end_s": 42.155
+  },
+  {
+   "global_index": 108,
+   "section": "02",
+   "index": 34,
+   "word": "set",
+   "start_s": 42.235,
+   "end_s": 42.395
+  },
+  {
+   "global_index": 109,
+   "section": "02",
+   "index": 35,
+   "word": "into",
+   "start_s": 42.515,
+   "end_s": 42.635
+  },
+  {
+   "global_index": 110,
+   "section": "02",
+   "index": 36,
+   "word": "a",
+   "start_s": 42.675,
+   "end_s": 42.715
+  },
+  {
+   "global_index": 111,
+   "section": "02",
+   "index": 37,
+   "word": "building.",
+   "start_s": 42.795,
+   "end_s": 43.264
+  },
+  {
+   "global_index": 112,
+   "section": "03",
+   "index": 0,
+   "word": "Number",
+   "start_s": 43.864,
+   "end_s": 44.104
+  },
+  {
+   "global_index": 113,
+   "section": "03",
+   "index": 1,
+   "word": "nine.",
+   "start_s": 44.184,
+   "end_s": 44.984
+  },
+  {
+   "global_index": 114,
+   "section": "03",
+   "index": 2,
+   "word": "Off",
+   "start_s": 45.064,
+   "end_s": 45.144
+  },
+  {
+   "global_index": 115,
+   "section": "03",
+   "index": 3,
+   "word": "the",
+   "start_s": 45.224,
+   "end_s": 45.304
+  },
+  {
+   "global_index": 116,
+   "section": "03",
+   "index": 4,
+   "word": "coast",
+   "start_s": 45.384,
+   "end_s": 45.624
+  },
+  {
+   "global_index": 117,
+   "section": "03",
+   "index": 5,
+   "word": "of",
+   "start_s": 45.704,
+   "end_s": 45.784
+  },
+  {
+   "global_index": 118,
+   "section": "03",
+   "index": 6,
+   "word": "Pohnpei,",
+   "start_s": 45.864,
+   "end_s": 46.584
+  },
+  {
+   "global_index": 119,
+   "section": "03",
+   "index": 7,
+   "word": "in",
+   "start_s": 46.664,
+   "end_s": 46.744
+  },
+  {
+   "global_index": 120,
+   "section": "03",
+   "index": 8,
+   "word": "Micronesia,",
+   "start_s": 46.824,
+   "end_s": 47.704
+  },
+  {
+   "global_index": 121,
+   "section": "03",
+   "index": 9,
+   "word": "more",
+   "start_s": 47.784,
+   "end_s": 47.944
+  },
+  {
+   "global_index": 122,
+   "section": "03",
+   "index": 10,
+   "word": "than",
+   "start_s": 47.984,
+   "end_s": 48.024
+  },
+  {
+   "global_index": 123,
+   "section": "03",
+   "index": 11,
+   "word": "a",
+   "start_s": 48.104,
+   "end_s": 48.184
+  },
+  {
+   "global_index": 124,
+   "section": "03",
+   "index": 12,
+   "word": "hundred",
+   "start_s": 48.264,
+   "end_s": 48.584
+  },
+  {
+   "global_index": 125,
+   "section": "03",
+   "index": 13,
+   "word": "artificial",
+   "start_s": 48.744,
+   "end_s": 49.224
+  },
+  {
+   "global_index": 126,
+   "section": "03",
+   "index": 14,
+   "word": "islets",
+   "start_s": 49.384,
+   "end_s": 49.784
+  },
+  {
+   "global_index": 127,
+   "section": "03",
+   "index": 15,
+   "word": "sit",
+   "start_s": 50.024,
+   "end_s": 50.264
+  },
+  {
+   "global_index": 128,
+   "section": "03",
+   "index": 16,
+   "word": "in",
+   "start_s": 50.344,
+   "end_s": 50.384
+  },
+  {
+   "global_index": 129,
+   "section": "03",
+   "index": 17,
+   "word": "a",
+   "start_s": 50.424,
+   "end_s": 50.504
+  },
+  {
+   "global_index": 130,
+   "section": "03",
+   "index": 18,
+   "word": "shallow",
+   "start_s": 50.584,
+   "end_s": 50.904
+  },
+  {
+   "global_index": 131,
+   "section": "03",
+   "index": 19,
+   "word": "lagoon.",
+   "start_s": 50.944,
+   "end_s": 51.904
+  },
+  {
+   "global_index": 132,
+   "section": "03",
+   "index": 20,
+   "word": "Their",
+   "start_s": 51.944,
+   "end_s": 52.104
+  },
+  {
+   "global_index": 133,
+   "section": "03",
+   "index": 21,
+   "word": "walls",
+   "start_s": 52.304,
+   "end_s": 52.504
+  },
+  {
+   "global_index": 134,
+   "section": "03",
+   "index": 22,
+   "word": "are",
+   "start_s": 52.584,
+   "end_s": 52.744
+  },
+  {
+   "global_index": 135,
+   "section": "03",
+   "index": 23,
+   "word": "long,",
+   "start_s": 52.824,
+   "end_s": 53.304
+  },
+  {
+   "global_index": 136,
+   "section": "03",
+   "index": 24,
+   "word": "six-sided",
+   "start_s": 53.424,
+   "end_s": 53.944
+  },
+  {
+   "global_index": 137,
+   "section": "03",
+   "index": 25,
+   "word": "basalt",
+   "start_s": 54.064,
+   "end_s": 54.424
+  },
+  {
+   "global_index": 138,
+   "section": "03",
+   "index": 26,
+   "word": "columns,",
+   "start_s": 54.824,
+   "end_s": 55.264
+  },
+  {
+   "global_index": 139,
+   "section": "03",
+   "index": 27,
+   "word": "stacked",
+   "start_s": 55.304,
+   "end_s": 55.624
+  },
+  {
+   "global_index": 140,
+   "section": "03",
+   "index": 28,
+   "word": "crosswise",
+   "start_s": 55.704,
+   "end_s": 56.344
+  },
+  {
+   "global_index": 141,
+   "section": "03",
+   "index": 29,
+   "word": "like",
+   "start_s": 56.424,
+   "end_s": 56.504
+  },
+  {
+   "global_index": 142,
+   "section": "03",
+   "index": 30,
+   "word": "a",
+   "start_s": 56.584,
+   "end_s": 56.624
+  },
+  {
+   "global_index": 143,
+   "section": "03",
+   "index": 31,
+   "word": "log",
+   "start_s": 56.664,
+   "end_s": 56.904
+  },
+  {
+   "global_index": 144,
+   "section": "03",
+   "index": 32,
+   "word": "cabin",
+   "start_s": 56.984,
+   "end_s": 57.544
+  },
+  {
+   "global_index": 145,
+   "section": "03",
+   "index": 33,
+   "word": "and",
+   "start_s": 57.624,
+   "end_s": 57.784
+  },
+  {
+   "global_index": 146,
+   "section": "03",
+   "index": 34,
+   "word": "packed",
+   "start_s": 57.864,
+   "end_s": 58.184
+  },
+  {
+   "global_index": 147,
+   "section": "03",
+   "index": 35,
+   "word": "with",
+   "start_s": 58.264,
+   "end_s": 58.344
+  },
+  {
+   "global_index": 148,
+   "section": "03",
+   "index": 36,
+   "word": "coral.",
+   "start_s": 58.424,
+   "end_s": 59.224
+  },
+  {
+   "global_index": 149,
+   "section": "03",
+   "index": 37,
+   "word": "This",
+   "start_s": 59.304,
+   "end_s": 59.464
+  },
+  {
+   "global_index": 150,
+   "section": "03",
+   "index": 38,
+   "word": "was",
+   "start_s": 59.544,
+   "end_s": 59.624
+  },
+  {
+   "global_index": 151,
+   "section": "03",
+   "index": 39,
+   "word": "the",
+   "start_s": 59.704,
+   "end_s": 59.864
+  },
+  {
+   "global_index": 152,
+   "section": "03",
+   "index": 40,
+   "word": "seat",
+   "start_s": 59.984,
+   "end_s": 60.104
+  },
+  {
+   "global_index": 153,
+   "section": "03",
+   "index": 41,
+   "word": "of",
+   "start_s": 60.184,
+   "end_s": 60.264
+  },
+  {
+   "global_index": 154,
+   "section": "03",
+   "index": 42,
+   "word": "the",
+   "start_s": 60.344,
+   "end_s": 60.424
+  },
+  {
+   "global_index": 155,
+   "section": "03",
+   "index": 43,
+   "word": "Saudeleur",
+   "start_s": 60.504,
+   "end_s": 61.064
+  },
+  {
+   "global_index": 156,
+   "section": "03",
+   "index": 44,
+   "word": "rulers,",
+   "start_s": 61.144,
+   "end_s": 61.891
+  },
+  {
+   "global_index": 157,
+   "section": "03",
+   "index": 45,
+   "word": "and",
+   "start_s": 61.917,
+   "end_s": 61.944
+  },
+  {
+   "global_index": 158,
+   "section": "03",
+   "index": 46,
+   "word": "its",
+   "start_s": 62.064,
+   "end_s": 62.184
+  },
+  {
+   "global_index": 159,
+   "section": "03",
+   "index": 47,
+   "word": "monumental",
+   "start_s": 62.264,
+   "end_s": 62.824
+  },
+  {
+   "global_index": 160,
+   "section": "03",
+   "index": 48,
+   "word": "building",
+   "start_s": 62.904,
+   "end_s": 63.304
+  },
+  {
+   "global_index": 161,
+   "section": "03",
+   "index": 49,
+   "word": "is",
+   "start_s": 63.384,
+   "end_s": 63.464
+  },
+  {
+   "global_index": 162,
+   "section": "03",
+   "index": 50,
+   "word": "associated",
+   "start_s": 63.784,
+   "end_s": 64.104
+  },
+  {
+   "global_index": 163,
+   "section": "03",
+   "index": 51,
+   "word": "especially",
+   "start_s": 64.264,
+   "end_s": 64.904
+  },
+  {
+   "global_index": 164,
+   "section": "03",
+   "index": 52,
+   "word": "with",
+   "start_s": 64.984,
+   "end_s": 65.064
+  },
+  {
+   "global_index": 165,
+   "section": "03",
+   "index": 53,
+   "word": "about",
+   "start_s": 65.144,
+   "end_s": 65.384
+  },
+  {
+   "global_index": 166,
+   "section": "03",
+   "index": 54,
+   "word": "twelve",
+   "start_s": 65.464,
+   "end_s": 65.704
+  },
+  {
+   "global_index": 167,
+   "section": "03",
+   "index": 55,
+   "word": "hundred",
+   "start_s": 65.784,
+   "end_s": 66.184
+  },
+  {
+   "global_index": 168,
+   "section": "03",
+   "index": 56,
+   "word": "to",
+   "start_s": 66.264,
+   "end_s": 66.344
+  },
+  {
+   "global_index": 169,
+   "section": "03",
+   "index": 57,
+   "word": "fifteen",
+   "start_s": 66.424,
+   "end_s": 66.824
+  },
+  {
+   "global_index": 170,
+   "section": "03",
+   "index": 58,
+   "word": "hundred",
+   "start_s": 66.904,
+   "end_s": 67.224
+  },
+  {
+   "global_index": 171,
+   "section": "03",
+   "index": 59,
+   "word": "C.E.",
+   "start_s": 67.304,
+   "end_s": 68.184
+  },
+  {
+   "global_index": 172,
+   "section": "03",
+   "index": 60,
+   "word": "The",
+   "start_s": 68.264,
+   "end_s": 68.344
+  },
+  {
+   "global_index": 173,
+   "section": "03",
+   "index": 61,
+   "word": "basalt",
+   "start_s": 68.464,
+   "end_s": 68.744
+  },
+  {
+   "global_index": 174,
+   "section": "03",
+   "index": 62,
+   "word": "was",
+   "start_s": 68.824,
+   "end_s": 68.984
+  },
+  {
+   "global_index": 175,
+   "section": "03",
+   "index": 63,
+   "word": "quarried",
+   "start_s": 69.064,
+   "end_s": 69.464
+  },
+  {
+   "global_index": 176,
+   "section": "03",
+   "index": 64,
+   "word": "elsewhere",
+   "start_s": 69.544,
+   "end_s": 69.944
+  },
+  {
+   "global_index": 177,
+   "section": "03",
+   "index": 65,
+   "word": "on",
+   "start_s": 70.024,
+   "end_s": 70.104
+  },
+  {
+   "global_index": 178,
+   "section": "03",
+   "index": 66,
+   "word": "Pohnpei,",
+   "start_s": 70.144,
+   "end_s": 70.957
+  },
+  {
+   "global_index": 179,
+   "section": "03",
+   "index": 67,
+   "word": "where",
+   "start_s": 71.011,
+   "end_s": 71.064
+  },
+  {
+   "global_index": 180,
+   "section": "03",
+   "index": 68,
+   "word": "volcanic",
+   "start_s": 71.184,
+   "end_s": 71.624
+  },
+  {
+   "global_index": 181,
+   "section": "03",
+   "index": 69,
+   "word": "rock",
+   "start_s": 71.704,
+   "end_s": 72.024
+  },
+  {
+   "global_index": 182,
+   "section": "03",
+   "index": 70,
+   "word": "naturally",
+   "start_s": 72.104,
+   "end_s": 72.664
+  },
+  {
+   "global_index": 183,
+   "section": "03",
+   "index": 71,
+   "word": "cools",
+   "start_s": 72.744,
+   "end_s": 73.064
+  },
+  {
+   "global_index": 184,
+   "section": "03",
+   "index": 72,
+   "word": "into",
+   "start_s": 73.184,
+   "end_s": 73.304
+  },
+  {
+   "global_index": 185,
+   "section": "03",
+   "index": 73,
+   "word": "columns.",
+   "start_s": 73.744,
+   "end_s": 74.264
+  },
+  {
+   "global_index": 186,
+   "section": "03",
+   "index": 74,
+   "word": "Then",
+   "start_s": 74.424,
+   "end_s": 74.584
+  },
+  {
+   "global_index": 187,
+   "section": "03",
+   "index": 75,
+   "word": "it",
+   "start_s": 74.624,
+   "end_s": 74.664
+  },
+  {
+   "global_index": 188,
+   "section": "03",
+   "index": 76,
+   "word": "was",
+   "start_s": 74.744,
+   "end_s": 74.904
+  },
+  {
+   "global_index": 189,
+   "section": "03",
+   "index": 77,
+   "word": "moved,",
+   "start_s": 75.224,
+   "end_s": 75.584
+  },
+  {
+   "global_index": 190,
+   "section": "03",
+   "index": 78,
+   "word": "possibly",
+   "start_s": 75.624,
+   "end_s": 76.024
+  },
+  {
+   "global_index": 191,
+   "section": "03",
+   "index": 79,
+   "word": "by",
+   "start_s": 76.144,
+   "end_s": 76.264
+  },
+  {
+   "global_index": 192,
+   "section": "03",
+   "index": 80,
+   "word": "raft,",
+   "start_s": 76.584,
+   "end_s": 76.944
+  },
+  {
+   "global_index": 193,
+   "section": "03",
+   "index": 81,
+   "word": "and",
+   "start_s": 76.984,
+   "end_s": 77.144
+  },
+  {
+   "global_index": 194,
+   "section": "03",
+   "index": 82,
+   "word": "stacked,",
+   "start_s": 77.224,
+   "end_s": 77.944
+  },
+  {
+   "global_index": 195,
+   "section": "03",
+   "index": 83,
+   "word": "one",
+   "start_s": 78.024,
+   "end_s": 78.264
+  },
+  {
+   "global_index": 196,
+   "section": "03",
+   "index": 84,
+   "word": "heavy",
+   "start_s": 78.424,
+   "end_s": 78.584
+  },
+  {
+   "global_index": 197,
+   "section": "03",
+   "index": 85,
+   "word": "column",
+   "start_s": 78.744,
+   "end_s": 78.904
+  },
+  {
+   "global_index": 198,
+   "section": "03",
+   "index": 86,
+   "word": "at",
+   "start_s": 78.984,
+   "end_s": 79.064
+  },
+  {
+   "global_index": 199,
+   "section": "03",
+   "index": 87,
+   "word": "a",
+   "start_s": 79.144,
+   "end_s": 79.384
+  },
+  {
+   "global_index": 200,
+   "section": "03",
+   "index": 88,
+   "word": "time.",
+   "start_s": 79.624,
+   "end_s": 79.904
+  },
+  {
+   "global_index": 201,
+   "section": "03",
+   "index": 89,
+   "word": "Exactly",
+   "start_s": 79.944,
+   "end_s": 80.504
+  },
+  {
+   "global_index": 202,
+   "section": "03",
+   "index": 90,
+   "word": "how",
+   "start_s": 80.584,
+   "end_s": 80.824
+  },
+  {
+   "global_index": 203,
+   "section": "03",
+   "index": 91,
+   "word": "is",
+   "start_s": 80.904,
+   "end_s": 80.984
+  },
+  {
+   "global_index": 204,
+   "section": "03",
+   "index": 92,
+   "word": "uncertain.",
+   "start_s": 81.064,
+   "end_s": 81.984
+  },
+  {
+   "global_index": 205,
+   "section": "03",
+   "index": 93,
+   "word": "Rafts,",
+   "start_s": 82.024,
+   "end_s": 82.624
+  },
+  {
+   "global_index": 206,
+   "section": "03",
+   "index": 94,
+   "word": "ramps",
+   "start_s": 82.664,
+   "end_s": 82.984
+  },
+  {
+   "global_index": 207,
+   "section": "03",
+   "index": 95,
+   "word": "and",
+   "start_s": 83.064,
+   "end_s": 83.224
+  },
+  {
+   "global_index": 208,
+   "section": "03",
+   "index": 96,
+   "word": "levers",
+   "start_s": 83.304,
+   "end_s": 83.624
+  },
+  {
+   "global_index": 209,
+   "section": "03",
+   "index": 97,
+   "word": "have",
+   "start_s": 83.704,
+   "end_s": 83.784
+  },
+  {
+   "global_index": 210,
+   "section": "03",
+   "index": 98,
+   "word": "all",
+   "start_s": 83.864,
+   "end_s": 83.944
+  },
+  {
+   "global_index": 211,
+   "section": "03",
+   "index": 99,
+   "word": "been",
+   "start_s": 84.024,
+   "end_s": 84.104
+  },
+  {
+   "global_index": 212,
+   "section": "03",
+   "index": 100,
+   "word": "proposed,",
+   "start_s": 84.224,
+   "end_s": 85.024
+  },
+  {
+   "global_index": 213,
+   "section": "03",
+   "index": 101,
+   "word": "and",
+   "start_s": 85.064,
+   "end_s": 85.144
+  },
+  {
+   "global_index": 214,
+   "section": "03",
+   "index": 102,
+   "word": "no",
+   "start_s": 85.224,
+   "end_s": 85.464
+  },
+  {
+   "global_index": 215,
+   "section": "03",
+   "index": 103,
+   "word": "written",
+   "start_s": 85.624,
+   "end_s": 85.784
+  },
+  {
+   "global_index": 216,
+   "section": "03",
+   "index": 104,
+   "word": "record",
+   "start_s": 85.984,
+   "end_s": 86.184
+  },
+  {
+   "global_index": 217,
+   "section": "03",
+   "index": 105,
+   "word": "settles",
+   "start_s": 86.264,
+   "end_s": 86.504
+  },
+  {
+   "global_index": 218,
+   "section": "03",
+   "index": 106,
+   "word": "it.",
+   "start_s": 86.584,
+   "end_s": 87.024
+  },
+  {
+   "global_index": 219,
+   "section": "03",
+   "index": 107,
+   "word": "What's",
+   "start_s": 87.064,
+   "end_s": 87.304
+  },
+  {
+   "global_index": 220,
+   "section": "03",
+   "index": 108,
+   "word": "clear",
+   "start_s": 87.384,
+   "end_s": 87.784
+  },
+  {
+   "global_index": 221,
+   "section": "03",
+   "index": 109,
+   "word": "is",
+   "start_s": 87.864,
+   "end_s": 87.944
+  },
+  {
+   "global_index": 222,
+   "section": "03",
+   "index": 110,
+   "word": "the",
+   "start_s": 88.024,
+   "end_s": 88.104
+  },
+  {
+   "global_index": 223,
+   "section": "03",
+   "index": 111,
+   "word": "organisation",
+   "start_s": 88.504,
+   "end_s": 88.904
+  },
+  {
+   "global_index": 224,
+   "section": "03",
+   "index": 112,
+   "word": "behind",
+   "start_s": 89.024,
+   "end_s": 89.304
+  },
+  {
+   "global_index": 225,
+   "section": "03",
+   "index": 113,
+   "word": "it:",
+   "start_s": 89.504,
+   "end_s": 89.784
+  },
+  {
+   "global_index": 226,
+   "section": "03",
+   "index": 114,
+   "word": "rulers",
+   "start_s": 89.864,
+   "end_s": 90.264
+  },
+  {
+   "global_index": 227,
+   "section": "03",
+   "index": 115,
+   "word": "who",
+   "start_s": 90.304,
+   "end_s": 90.344
+  },
+  {
+   "global_index": 228,
+   "section": "03",
+   "index": 116,
+   "word": "could",
+   "start_s": 90.424,
+   "end_s": 90.504
+  },
+  {
+   "global_index": 229,
+   "section": "03",
+   "index": 117,
+   "word": "command",
+   "start_s": 90.584,
+   "end_s": 90.984
+  },
+  {
+   "global_index": 230,
+   "section": "03",
+   "index": 118,
+   "word": "labour",
+   "start_s": 91.064,
+   "end_s": 91.384
+  },
+  {
+   "global_index": 231,
+   "section": "03",
+   "index": 119,
+   "word": "for",
+   "start_s": 91.464,
+   "end_s": 91.624
+  },
+  {
+   "global_index": 232,
+   "section": "03",
+   "index": 120,
+   "word": "generations.",
+   "start_s": 91.704,
+   "end_s": 93.091
+  },
+  {
+   "global_index": 233,
+   "section": "03",
+   "index": 121,
+   "word": "Moving",
+   "start_s": 93.197,
+   "end_s": 93.304
+  },
+  {
+   "global_index": 234,
+   "section": "03",
+   "index": 122,
+   "word": "stone",
+   "start_s": 93.384,
+   "end_s": 93.624
+  },
+  {
+   "global_index": 235,
+   "section": "03",
+   "index": 123,
+   "word": "around",
+   "start_s": 93.704,
+   "end_s": 94.104
+  },
+  {
+   "global_index": 236,
+   "section": "03",
+   "index": 124,
+   "word": "one",
+   "start_s": 94.184,
+   "end_s": 94.264
+  },
+  {
+   "global_index": 237,
+   "section": "03",
+   "index": 125,
+   "word": "island",
+   "start_s": 94.344,
+   "end_s": 94.664
+  },
+  {
+   "global_index": 238,
+   "section": "03",
+   "index": 126,
+   "word": "is",
+   "start_s": 94.744,
+   "end_s": 94.824
+  },
+  {
+   "global_index": 239,
+   "section": "03",
+   "index": 127,
+   "word": "hard.",
+   "start_s": 94.904,
+   "end_s": 95.504
+  },
+  {
+   "global_index": 240,
+   "section": "03",
+   "index": 128,
+   "word": "Try",
+   "start_s": 95.544,
+   "end_s": 95.784
+  },
+  {
+   "global_index": 241,
+   "section": "03",
+   "index": 129,
+   "word": "moving",
+   "start_s": 95.904,
+   "end_s": 96.024
+  },
+  {
+   "global_index": 242,
+   "section": "03",
+   "index": 130,
+   "word": "it",
+   "start_s": 96.064,
+   "end_s": 96.104
+  },
+  {
+   "global_index": 243,
+   "section": "03",
+   "index": 131,
+   "word": "across",
+   "start_s": 96.184,
+   "end_s": 96.504
+  },
+  {
+   "global_index": 244,
+   "section": "03",
+   "index": 132,
+   "word": "a",
+   "start_s": 96.584,
+   "end_s": 96.664
+  },
+  {
+   "global_index": 245,
+   "section": "03",
+   "index": 133,
+   "word": "country,",
+   "start_s": 97.024,
+   "end_s": 97.424
+  },
+  {
+   "global_index": 246,
+   "section": "03",
+   "index": 134,
+   "word": "five",
+   "start_s": 97.464,
+   "end_s": 97.784
+  },
+  {
+   "global_index": 247,
+   "section": "03",
+   "index": 135,
+   "word": "thousand",
+   "start_s": 97.824,
+   "end_s": 98.184
+  },
+  {
+   "global_index": 248,
+   "section": "03",
+   "index": 136,
+   "word": "years",
+   "start_s": 98.264,
+   "end_s": 98.424
+  },
+  {
+   "global_index": 249,
+   "section": "03",
+   "index": 137,
+   "word": "ago.",
+   "start_s": 98.504,
+   "end_s": 98.859
+  },
+  {
+   "global_index": 250,
+   "section": "04",
+   "index": 0,
+   "word": "Number",
+   "start_s": 99.459,
+   "end_s": 99.779
+  },
+  {
+   "global_index": 251,
+   "section": "04",
+   "index": 1,
+   "word": "eight:",
+   "start_s": 99.859,
+   "end_s": 100.659
+  },
+  {
+   "global_index": 252,
+   "section": "04",
+   "index": 2,
+   "word": "Stonehenge,",
+   "start_s": 100.739,
+   "end_s": 101.779
+  },
+  {
+   "global_index": 253,
+   "section": "04",
+   "index": 3,
+   "word": "built",
+   "start_s": 101.859,
+   "end_s": 102.019
+  },
+  {
+   "global_index": 254,
+   "section": "04",
+   "index": 4,
+   "word": "in",
+   "start_s": 102.099,
+   "end_s": 102.259
+  },
+  {
+   "global_index": 255,
+   "section": "04",
+   "index": 5,
+   "word": "phases",
+   "start_s": 102.339,
+   "end_s": 102.819
+  },
+  {
+   "global_index": 256,
+   "section": "04",
+   "index": 6,
+   "word": "over",
+   "start_s": 102.899,
+   "end_s": 103.139
+  },
+  {
+   "global_index": 257,
+   "section": "04",
+   "index": 7,
+   "word": "more",
+   "start_s": 103.219,
+   "end_s": 103.299
+  },
+  {
+   "global_index": 258,
+   "section": "04",
+   "index": 8,
+   "word": "than",
+   "start_s": 103.379,
+   "end_s": 103.459
+  },
+  {
+   "global_index": 259,
+   "section": "04",
+   "index": 9,
+   "word": "a",
+   "start_s": 103.699,
+   "end_s": 103.726
+  },
+  {
+   "global_index": 260,
+   "section": "04",
+   "index": 10,
+   "word": "thousand",
+   "start_s": 103.752,
+   "end_s": 104.179
+  },
+  {
+   "global_index": 261,
+   "section": "04",
+   "index": 11,
+   "word": "years.",
+   "start_s": 104.259,
+   "end_s": 105.019
+  },
+  {
+   "global_index": 262,
+   "section": "04",
+   "index": 12,
+   "word": "Its",
+   "start_s": 105.059,
+   "end_s": 105.139
+  },
+  {
+   "global_index": 263,
+   "section": "04",
+   "index": 13,
+   "word": "stones",
+   "start_s": 105.219,
+   "end_s": 105.619
+  },
+  {
+   "global_index": 264,
+   "section": "04",
+   "index": 14,
+   "word": "didn't",
+   "start_s": 105.699,
+   "end_s": 105.939
+  },
+  {
+   "global_index": 265,
+   "section": "04",
+   "index": 15,
+   "word": "all",
+   "start_s": 106.019,
+   "end_s": 106.179
+  },
+  {
+   "global_index": 266,
+   "section": "04",
+   "index": 16,
+   "word": "travel",
+   "start_s": 106.259,
+   "end_s": 106.579
+  },
+  {
+   "global_index": 267,
+   "section": "04",
+   "index": 17,
+   "word": "the",
+   "start_s": 106.619,
+   "end_s": 106.659
+  },
+  {
+   "global_index": 268,
+   "section": "04",
+   "index": 18,
+   "word": "same",
+   "start_s": 106.739,
+   "end_s": 106.979
+  },
+  {
+   "global_index": 269,
+   "section": "04",
+   "index": 19,
+   "word": "distance.",
+   "start_s": 107.419,
+   "end_s": 107.912
+  },
+  {
+   "global_index": 270,
+   "section": "04",
+   "index": 20,
+   "word": "The",
+   "start_s": 107.966,
+   "end_s": 108.019
+  },
+  {
+   "global_index": 271,
+   "section": "04",
+   "index": 21,
+   "word": "giant",
+   "start_s": 108.059,
+   "end_s": 108.339
+  },
+  {
+   "global_index": 272,
+   "section": "04",
+   "index": 22,
+   "word": "sarsens",
+   "start_s": 108.419,
+   "end_s": 108.979
+  },
+  {
+   "global_index": 273,
+   "section": "04",
+   "index": 23,
+   "word": "came",
+   "start_s": 109.059,
+   "end_s": 109.299
+  },
+  {
+   "global_index": 274,
+   "section": "04",
+   "index": 24,
+   "word": "from",
+   "start_s": 109.379,
+   "end_s": 109.459
+  },
+  {
+   "global_index": 275,
+   "section": "04",
+   "index": 25,
+   "word": "the",
+   "start_s": 109.539,
+   "end_s": 109.619
+  },
+  {
+   "global_index": 276,
+   "section": "04",
+   "index": 26,
+   "word": "Marlborough",
+   "start_s": 109.699,
+   "end_s": 110.179
+  },
+  {
+   "global_index": 277,
+   "section": "04",
+   "index": 27,
+   "word": "Downs",
+   "start_s": 110.259,
+   "end_s": 110.579
+  },
+  {
+   "global_index": 278,
+   "section": "04",
+   "index": 28,
+   "word": "area,",
+   "start_s": 110.659,
+   "end_s": 111.259
+  },
+  {
+   "global_index": 279,
+   "section": "04",
+   "index": 29,
+   "word": "largely",
+   "start_s": 111.299,
+   "end_s": 111.699
+  },
+  {
+   "global_index": 280,
+   "section": "04",
+   "index": 30,
+   "word": "West",
+   "start_s": 111.819,
+   "end_s": 111.939
+  },
+  {
+   "global_index": 281,
+   "section": "04",
+   "index": 31,
+   "word": "Woods,",
+   "start_s": 112.019,
+   "end_s": 112.619
+  },
+  {
+   "global_index": 282,
+   "section": "04",
+   "index": 32,
+   "word": "about",
+   "start_s": 112.659,
+   "end_s": 112.899
+  },
+  {
+   "global_index": 283,
+   "section": "04",
+   "index": 33,
+   "word": "twenty",
+   "start_s": 112.979,
+   "end_s": 113.139
+  },
+  {
+   "global_index": 284,
+   "section": "04",
+   "index": 34,
+   "word": "miles",
+   "start_s": 113.219,
+   "end_s": 113.459
+  },
+  {
+   "global_index": 285,
+   "section": "04",
+   "index": 35,
+   "word": "away.",
+   "start_s": 113.619,
+   "end_s": 114.299
+  },
+  {
+   "global_index": 286,
+   "section": "04",
+   "index": 36,
+   "word": "The",
+   "start_s": 114.339,
+   "end_s": 114.419
+  },
+  {
+   "global_index": 287,
+   "section": "04",
+   "index": 37,
+   "word": "smaller",
+   "start_s": 114.499,
+   "end_s": 114.819
+  },
+  {
+   "global_index": 288,
+   "section": "04",
+   "index": 38,
+   "word": "bluestones",
+   "start_s": 114.899,
+   "end_s": 115.619
+  },
+  {
+   "global_index": 289,
+   "section": "04",
+   "index": 39,
+   "word": "came",
+   "start_s": 115.739,
+   "end_s": 115.859
+  },
+  {
+   "global_index": 290,
+   "section": "04",
+   "index": 40,
+   "word": "from",
+   "start_s": 115.939,
+   "end_s": 116.019
+  },
+  {
+   "global_index": 291,
+   "section": "04",
+   "index": 41,
+   "word": "the",
+   "start_s": 116.099,
+   "end_s": 116.179
+  },
+  {
+   "global_index": 292,
+   "section": "04",
+   "index": 42,
+   "word": "Preseli",
+   "start_s": 116.259,
+   "end_s": 116.819
+  },
+  {
+   "global_index": 293,
+   "section": "04",
+   "index": 43,
+   "word": "Hills",
+   "start_s": 116.899,
+   "end_s": 117.219
+  },
+  {
+   "global_index": 294,
+   "section": "04",
+   "index": 44,
+   "word": "in",
+   "start_s": 117.299,
+   "end_s": 117.459
+  },
+  {
+   "global_index": 295,
+   "section": "04",
+   "index": 45,
+   "word": "south-west",
+   "start_s": 117.539,
+   "end_s": 118.019
+  },
+  {
+   "global_index": 296,
+   "section": "04",
+   "index": 46,
+   "word": "Wales,",
+   "start_s": 118.059,
+   "end_s": 118.779
+  },
+  {
+   "global_index": 297,
+   "section": "04",
+   "index": 47,
+   "word": "roughly",
+   "start_s": 118.819,
+   "end_s": 119.059
+  },
+  {
+   "global_index": 298,
+   "section": "04",
+   "index": 48,
+   "word": "a",
+   "start_s": 119.219,
+   "end_s": 119.246
+  },
+  {
+   "global_index": 299,
+   "section": "04",
+   "index": 49,
+   "word": "hundred",
+   "start_s": 119.272,
+   "end_s": 119.459
+  },
+  {
+   "global_index": 300,
+   "section": "04",
+   "index": 50,
+   "word": "and",
+   "start_s": 119.579,
+   "end_s": 119.699
+  },
+  {
+   "global_index": 301,
+   "section": "04",
+   "index": 51,
+   "word": "fifty",
+   "start_s": 119.779,
+   "end_s": 120.019
+  },
+  {
+   "global_index": 302,
+   "section": "04",
+   "index": 52,
+   "word": "miles",
+   "start_s": 120.099,
+   "end_s": 120.339
+  },
+  {
+   "global_index": 303,
+   "section": "04",
+   "index": 53,
+   "word": "away.",
+   "start_s": 120.419,
+   "end_s": 121.099
+  },
+  {
+   "global_index": 304,
+   "section": "04",
+   "index": 54,
+   "word": "Archaeologists",
+   "start_s": 121.139,
+   "end_s": 121.939
+  },
+  {
+   "global_index": 305,
+   "section": "04",
+   "index": 55,
+   "word": "believe",
+   "start_s": 122.019,
+   "end_s": 122.339
+  },
+  {
+   "global_index": 306,
+   "section": "04",
+   "index": 56,
+   "word": "builders",
+   "start_s": 122.539,
+   "end_s": 122.739
+  },
+  {
+   "global_index": 307,
+   "section": "04",
+   "index": 57,
+   "word": "used",
+   "start_s": 122.819,
+   "end_s": 123.059
+  },
+  {
+   "global_index": 308,
+   "section": "04",
+   "index": 58,
+   "word": "wooden",
+   "start_s": 123.139,
+   "end_s": 123.459
+  },
+  {
+   "global_index": 309,
+   "section": "04",
+   "index": 59,
+   "word": "sledges,",
+   "start_s": 123.539,
+   "end_s": 124.299
+  },
+  {
+   "global_index": 310,
+   "section": "04",
+   "index": 60,
+   "word": "timber",
+   "start_s": 124.339,
+   "end_s": 124.579
+  },
+  {
+   "global_index": 311,
+   "section": "04",
+   "index": 61,
+   "word": "tracks",
+   "start_s": 124.659,
+   "end_s": 125.219
+  },
+  {
+   "global_index": 312,
+   "section": "04",
+   "index": 62,
+   "word": "and",
+   "start_s": 125.339,
+   "end_s": 125.459
+  },
+  {
+   "global_index": 313,
+   "section": "04",
+   "index": 63,
+   "word": "big",
+   "start_s": 125.539,
+   "end_s": 125.779
+  },
+  {
+   "global_index": 314,
+   "section": "04",
+   "index": 64,
+   "word": "teams",
+   "start_s": 125.859,
+   "end_s": 126.179
+  },
+  {
+   "global_index": 315,
+   "section": "04",
+   "index": 65,
+   "word": "on",
+   "start_s": 126.259,
+   "end_s": 126.419
+  },
+  {
+   "global_index": 316,
+   "section": "04",
+   "index": 66,
+   "word": "ropes.",
+   "start_s": 126.539,
+   "end_s": 127.166
+  },
+  {
+   "global_index": 317,
+   "section": "04",
+   "index": 67,
+   "word": "But",
+   "start_s": 127.192,
+   "end_s": 127.219
+  },
+  {
+   "global_index": 318,
+   "section": "04",
+   "index": 68,
+   "word": "the",
+   "start_s": 127.299,
+   "end_s": 127.339
+  },
+  {
+   "global_index": 319,
+   "section": "04",
+   "index": 69,
+   "word": "exact",
+   "start_s": 127.379,
+   "end_s": 127.779
+  },
+  {
+   "global_index": 320,
+   "section": "04",
+   "index": 70,
+   "word": "routes,",
+   "start_s": 127.859,
+   "end_s": 128.459
+  },
+  {
+   "global_index": 321,
+   "section": "04",
+   "index": 71,
+   "word": "overland",
+   "start_s": 128.499,
+   "end_s": 129.059
+  },
+  {
+   "global_index": 322,
+   "section": "04",
+   "index": 72,
+   "word": "or",
+   "start_s": 129.179,
+   "end_s": 129.299
+  },
+  {
+   "global_index": 323,
+   "section": "04",
+   "index": 73,
+   "word": "partly",
+   "start_s": 129.419,
+   "end_s": 129.619
+  },
+  {
+   "global_index": 324,
+   "section": "04",
+   "index": 74,
+   "word": "by",
+   "start_s": 129.699,
+   "end_s": 129.859
+  },
+  {
+   "global_index": 325,
+   "section": "04",
+   "index": 75,
+   "word": "water,",
+   "start_s": 129.939,
+   "end_s": 130.472
+  },
+  {
+   "global_index": 326,
+   "section": "04",
+   "index": 76,
+   "word": "are",
+   "start_s": 130.526,
+   "end_s": 130.579
+  },
+  {
+   "global_index": 327,
+   "section": "04",
+   "index": 77,
+   "word": "still",
+   "start_s": 130.739,
+   "end_s": 130.899
+  },
+  {
+   "global_index": 328,
+   "section": "04",
+   "index": 78,
+   "word": "debated.",
+   "start_s": 131.019,
+   "end_s": 131.739
+  },
+  {
+   "global_index": 329,
+   "section": "04",
+   "index": 79,
+   "word": "But",
+   "start_s": 131.779,
+   "end_s": 131.859
+  },
+  {
+   "global_index": 330,
+   "section": "04",
+   "index": 80,
+   "word": "the",
+   "start_s": 131.939,
+   "end_s": 132.019
+  },
+  {
+   "global_index": 331,
+   "section": "04",
+   "index": 81,
+   "word": "strangest",
+   "start_s": 132.099,
+   "end_s": 132.579
+  },
+  {
+   "global_index": 332,
+   "section": "04",
+   "index": 82,
+   "word": "part",
+   "start_s": 132.659,
+   "end_s": 132.899
+  },
+  {
+   "global_index": 333,
+   "section": "04",
+   "index": 83,
+   "word": "is",
+   "start_s": 132.979,
+   "end_s": 133.139
+  },
+  {
+   "global_index": 334,
+   "section": "04",
+   "index": 84,
+   "word": "still",
+   "start_s": 133.219,
+   "end_s": 133.459
+  },
+  {
+   "global_index": 335,
+   "section": "04",
+   "index": 85,
+   "word": "coming.",
+   "start_s": 133.819,
+   "end_s": 134.232
+  },
+  {
+   "global_index": 336,
+   "section": "04",
+   "index": 86,
+   "word": "In",
+   "start_s": 134.286,
+   "end_s": 134.339
+  },
+  {
+   "global_index": 337,
+   "section": "04",
+   "index": 87,
+   "word": "twenty",
+   "start_s": 134.499,
+   "end_s": 134.659
+  },
+  {
+   "global_index": 338,
+   "section": "04",
+   "index": 88,
+   "word": "twenty-four,",
+   "start_s": 134.819,
+   "end_s": 135.499
+  },
+  {
+   "global_index": 339,
+   "section": "04",
+   "index": 89,
+   "word": "a",
+   "start_s": 135.539,
+   "end_s": 135.619
+  },
+  {
+   "global_index": 340,
+   "section": "04",
+   "index": 90,
+   "word": "study",
+   "start_s": 135.699,
+   "end_s": 135.939
+  },
+  {
+   "global_index": 341,
+   "section": "04",
+   "index": 91,
+   "word": "in",
+   "start_s": 136.019,
+   "end_s": 136.099
+  },
+  {
+   "global_index": 342,
+   "section": "04",
+   "index": 92,
+   "word": "Nature",
+   "start_s": 136.179,
+   "end_s": 136.579
+  },
+  {
+   "global_index": 343,
+   "section": "04",
+   "index": 93,
+   "word": "traced",
+   "start_s": 136.659,
+   "end_s": 136.979
+  },
+  {
+   "global_index": 344,
+   "section": "04",
+   "index": 94,
+   "word": "the",
+   "start_s": 137.059,
+   "end_s": 137.139
+  },
+  {
+   "global_index": 345,
+   "section": "04",
+   "index": 95,
+   "word": "Altar",
+   "start_s": 137.219,
+   "end_s": 137.459
+  },
+  {
+   "global_index": 346,
+   "section": "04",
+   "index": 96,
+   "word": "Stone,",
+   "start_s": 137.539,
+   "end_s": 138.126
+  },
+  {
+   "global_index": 347,
+   "section": "04",
+   "index": 97,
+   "word": "at",
+   "start_s": 138.152,
+   "end_s": 138.179
+  },
+  {
+   "global_index": 348,
+   "section": "04",
+   "index": 98,
+   "word": "the",
+   "start_s": 138.259,
+   "end_s": 138.339
+  },
+  {
+   "global_index": 349,
+   "section": "04",
+   "index": 99,
+   "word": "monument's",
+   "start_s": 138.419,
+   "end_s": 138.819
+  },
+  {
+   "global_index": 350,
+   "section": "04",
+   "index": 100,
+   "word": "centre,",
+   "start_s": 139.139,
+   "end_s": 139.499
+  },
+  {
+   "global_index": 351,
+   "section": "04",
+   "index": 101,
+   "word": "to",
+   "start_s": 139.539,
+   "end_s": 139.619
+  },
+  {
+   "global_index": 352,
+   "section": "04",
+   "index": 102,
+   "word": "north-east",
+   "start_s": 139.699,
+   "end_s": 140.339
+  },
+  {
+   "global_index": 353,
+   "section": "04",
+   "index": 103,
+   "word": "Scotland,",
+   "start_s": 140.499,
+   "end_s": 141.259
+  },
+  {
+   "global_index": 354,
+   "section": "04",
+   "index": 104,
+   "word": "roughly",
+   "start_s": 141.299,
+   "end_s": 141.699
+  },
+  {
+   "global_index": 355,
+   "section": "04",
+   "index": 105,
+   "word": "seven",
+   "start_s": 141.779,
+   "end_s": 142.019
+  },
+  {
+   "global_index": 356,
+   "section": "04",
+   "index": 106,
+   "word": "hundred",
+   "start_s": 142.099,
+   "end_s": 142.419
+  },
+  {
+   "global_index": 357,
+   "section": "04",
+   "index": 107,
+   "word": "kilometres",
+   "start_s": 142.499,
+   "end_s": 142.979
+  },
+  {
+   "global_index": 358,
+   "section": "04",
+   "index": 108,
+   "word": "away.",
+   "start_s": 143.059,
+   "end_s": 143.739
+  },
+  {
+   "global_index": 359,
+   "section": "04",
+   "index": 109,
+   "word": "How",
+   "start_s": 143.779,
+   "end_s": 143.939
+  },
+  {
+   "global_index": 360,
+   "section": "04",
+   "index": 110,
+   "word": "it",
+   "start_s": 143.979,
+   "end_s": 144.019
+  },
+  {
+   "global_index": 361,
+   "section": "04",
+   "index": 111,
+   "word": "got",
+   "start_s": 144.099,
+   "end_s": 144.259
+  },
+  {
+   "global_index": 362,
+   "section": "04",
+   "index": 112,
+   "word": "here",
+   "start_s": 144.339,
+   "end_s": 144.739
+  },
+  {
+   "global_index": 363,
+   "section": "04",
+   "index": 113,
+   "word": "is",
+   "start_s": 144.819,
+   "end_s": 144.899
+  },
+  {
+   "global_index": 364,
+   "section": "04",
+   "index": 114,
+   "word": "unknown.",
+   "start_s": 144.979,
+   "end_s": 145.899
+  },
+  {
+   "global_index": 365,
+   "section": "04",
+   "index": 115,
+   "word": "Stonehenge's",
+   "start_s": 145.939,
+   "end_s": 146.579
+  },
+  {
+   "global_index": 366,
+   "section": "04",
+   "index": 116,
+   "word": "builders",
+   "start_s": 146.659,
+   "end_s": 147.139
+  },
+  {
+   "global_index": 367,
+   "section": "04",
+   "index": 117,
+   "word": "dragged",
+   "start_s": 147.219,
+   "end_s": 147.539
+  },
+  {
+   "global_index": 368,
+   "section": "04",
+   "index": 118,
+   "word": "their",
+   "start_s": 147.659,
+   "end_s": 147.779
+  },
+  {
+   "global_index": 369,
+   "section": "04",
+   "index": 119,
+   "word": "stones.",
+   "start_s": 148.179,
+   "end_s": 148.619
+  },
+  {
+   "global_index": 370,
+   "section": "04",
+   "index": 120,
+   "word": "On",
+   "start_s": 148.659,
+   "end_s": 148.819
+  },
+  {
+   "global_index": 371,
+   "section": "04",
+   "index": 121,
+   "word": "one",
+   "start_s": 148.899,
+   "end_s": 148.979
+  },
+  {
+   "global_index": 372,
+   "section": "04",
+   "index": 122,
+   "word": "Pacific",
+   "start_s": 149.059,
+   "end_s": 149.459
+  },
+  {
+   "global_index": 373,
+   "section": "04",
+   "index": 123,
+   "word": "island,",
+   "start_s": 149.539,
+   "end_s": 150.059
+  },
+  {
+   "global_index": 374,
+   "section": "04",
+   "index": 124,
+   "word": "people",
+   "start_s": 150.099,
+   "end_s": 150.339
+  },
+  {
+   "global_index": 375,
+   "section": "04",
+   "index": 125,
+   "word": "say",
+   "start_s": 150.419,
+   "end_s": 150.579
+  },
+  {
+   "global_index": 376,
+   "section": "04",
+   "index": 126,
+   "word": "the",
+   "start_s": 150.659,
+   "end_s": 150.739
+  },
+  {
+   "global_index": 377,
+   "section": "04",
+   "index": 127,
+   "word": "stones",
+   "start_s": 150.819,
+   "end_s": 151.379
+  },
+  {
+   "global_index": 378,
+   "section": "04",
+   "index": 128,
+   "word": "walked.",
+   "start_s": 151.539,
+   "end_s": 151.87
+  },
+  {
+   "global_index": 379,
+   "section": "05",
+   "index": 0,
+   "word": "Number",
+   "start_s": 152.47,
+   "end_s": 152.71
+  },
+  {
+   "global_index": 380,
+   "section": "05",
+   "index": 1,
+   "word": "seven:",
+   "start_s": 152.79,
+   "end_s": 153.59
+  },
+  {
+   "global_index": 381,
+   "section": "05",
+   "index": 2,
+   "word": "the",
+   "start_s": 153.67,
+   "end_s": 153.75
+  },
+  {
+   "global_index": 382,
+   "section": "05",
+   "index": 3,
+   "word": "Moai",
+   "start_s": 153.83,
+   "end_s": 154.39
+  },
+  {
+   "global_index": 383,
+   "section": "05",
+   "index": 4,
+   "word": "of",
+   "start_s": 154.47,
+   "end_s": 154.63
+  },
+  {
+   "global_index": 384,
+   "section": "05",
+   "index": 5,
+   "word": "Rapa",
+   "start_s": 154.71,
+   "end_s": 154.99
+  },
+  {
+   "global_index": 385,
+   "section": "05",
+   "index": 6,
+   "word": "Nui,",
+   "start_s": 155.07,
+   "end_s": 155.71
+  },
+  {
+   "global_index": 386,
+   "section": "05",
+   "index": 7,
+   "word": "a",
+   "start_s": 155.75,
+   "end_s": 155.79
+  },
+  {
+   "global_index": 387,
+   "section": "05",
+   "index": 8,
+   "word": "remote",
+   "start_s": 155.83,
+   "end_s": 156.23
+  },
+  {
+   "global_index": 388,
+   "section": "05",
+   "index": 9,
+   "word": "Pacific",
+   "start_s": 156.43,
+   "end_s": 156.63
+  },
+  {
+   "global_index": 389,
+   "section": "05",
+   "index": 10,
+   "word": "island",
+   "start_s": 156.71,
+   "end_s": 157.11
+  },
+  {
+   "global_index": 390,
+   "section": "05",
+   "index": 11,
+   "word": "that",
+   "start_s": 157.15,
+   "end_s": 157.19
+  },
+  {
+   "global_index": 391,
+   "section": "05",
+   "index": 12,
+   "word": "is",
+   "start_s": 157.27,
+   "end_s": 157.35
+  },
+  {
+   "global_index": 392,
+   "section": "05",
+   "index": 13,
+   "word": "part",
+   "start_s": 157.43,
+   "end_s": 157.59
+  },
+  {
+   "global_index": 393,
+   "section": "05",
+   "index": 14,
+   "word": "of",
+   "start_s": 157.67,
+   "end_s": 157.75
+  },
+  {
+   "global_index": 394,
+   "section": "05",
+   "index": 15,
+   "word": "Chile.",
+   "start_s": 157.79,
+   "end_s": 158.59
+  },
+  {
+   "global_index": 395,
+   "section": "05",
+   "index": 16,
+   "word": "Nearly",
+   "start_s": 158.63,
+   "end_s": 158.87
+  },
+  {
+   "global_index": 396,
+   "section": "05",
+   "index": 17,
+   "word": "a",
+   "start_s": 158.99,
+   "end_s": 159.11
+  },
+  {
+   "global_index": 397,
+   "section": "05",
+   "index": 18,
+   "word": "thousand",
+   "start_s": 159.19,
+   "end_s": 159.59
+  },
+  {
+   "global_index": 398,
+   "section": "05",
+   "index": 19,
+   "word": "statues",
+   "start_s": 159.67,
+   "end_s": 160.15
+  },
+  {
+   "global_index": 399,
+   "section": "05",
+   "index": 20,
+   "word": "were",
+   "start_s": 160.23,
+   "end_s": 160.31
+  },
+  {
+   "global_index": 400,
+   "section": "05",
+   "index": 21,
+   "word": "carved",
+   "start_s": 160.39,
+   "end_s": 160.71
+  },
+  {
+   "global_index": 401,
+   "section": "05",
+   "index": 22,
+   "word": "here,",
+   "start_s": 160.79,
+   "end_s": 161.377
+  },
+  {
+   "global_index": 402,
+   "section": "05",
+   "index": 23,
+   "word": "most",
+   "start_s": 161.483,
+   "end_s": 161.59
+  },
+  {
+   "global_index": 403,
+   "section": "05",
+   "index": 24,
+   "word": "from",
+   "start_s": 161.67,
+   "end_s": 161.91
+  },
+  {
+   "global_index": 404,
+   "section": "05",
+   "index": 25,
+   "word": "one",
+   "start_s": 161.99,
+   "end_s": 162.15
+  },
+  {
+   "global_index": 405,
+   "section": "05",
+   "index": 26,
+   "word": "volcanic",
+   "start_s": 162.27,
+   "end_s": 162.71
+  },
+  {
+   "global_index": 406,
+   "section": "05",
+   "index": 27,
+   "word": "quarry,",
+   "start_s": 162.79,
+   "end_s": 163.39
+  },
+  {
+   "global_index": 407,
+   "section": "05",
+   "index": 28,
+   "word": "Rano",
+   "start_s": 163.43,
+   "end_s": 163.83
+  },
+  {
+   "global_index": 408,
+   "section": "05",
+   "index": 29,
+   "word": "Raraku.",
+   "start_s": 163.87,
+   "end_s": 164.79
+  },
+  {
+   "global_index": 409,
+   "section": "05",
+   "index": 30,
+   "word": "Most",
+   "start_s": 164.95,
+   "end_s": 165.11
+  },
+  {
+   "global_index": 410,
+   "section": "05",
+   "index": 31,
+   "word": "are",
+   "start_s": 165.15,
+   "end_s": 165.19
+  },
+  {
+   "global_index": 411,
+   "section": "05",
+   "index": 32,
+   "word": "a",
+   "start_s": 165.35,
+   "end_s": 165.43
+  },
+  {
+   "global_index": 412,
+   "section": "05",
+   "index": 33,
+   "word": "few",
+   "start_s": 165.51,
+   "end_s": 165.59
+  },
+  {
+   "global_index": 413,
+   "section": "05",
+   "index": 34,
+   "word": "metres",
+   "start_s": 165.67,
+   "end_s": 165.91
+  },
+  {
+   "global_index": 414,
+   "section": "05",
+   "index": 35,
+   "word": "tall,",
+   "start_s": 165.99,
+   "end_s": 166.55
+  },
+  {
+   "global_index": 415,
+   "section": "05",
+   "index": 36,
+   "word": "but",
+   "start_s": 166.63,
+   "end_s": 166.71
+  },
+  {
+   "global_index": 416,
+   "section": "05",
+   "index": 37,
+   "word": "some",
+   "start_s": 166.79,
+   "end_s": 167.11
+  },
+  {
+   "global_index": 417,
+   "section": "05",
+   "index": 38,
+   "word": "are",
+   "start_s": 167.23,
+   "end_s": 167.35
+  },
+  {
+   "global_index": 418,
+   "section": "05",
+   "index": 39,
+   "word": "huge.",
+   "start_s": 167.43,
+   "end_s": 168.19
+  },
+  {
+   "global_index": 419,
+   "section": "05",
+   "index": 40,
+   "word": "Paro,",
+   "start_s": 168.23,
+   "end_s": 168.843
+  },
+  {
+   "global_index": 420,
+   "section": "05",
+   "index": 41,
+   "word": "one",
+   "start_s": 168.87,
+   "end_s": 168.95
+  },
+  {
+   "global_index": 421,
+   "section": "05",
+   "index": 42,
+   "word": "of",
+   "start_s": 168.99,
+   "end_s": 169.03
+  },
+  {
+   "global_index": 422,
+   "section": "05",
+   "index": 43,
+   "word": "the",
+   "start_s": 169.11,
+   "end_s": 169.19
+  },
+  {
+   "global_index": 423,
+   "section": "05",
+   "index": 44,
+   "word": "largest",
+   "start_s": 169.27,
+   "end_s": 169.75
+  },
+  {
+   "global_index": 424,
+   "section": "05",
+   "index": 45,
+   "word": "ever",
+   "start_s": 169.83,
+   "end_s": 170.07
+  },
+  {
+   "global_index": 425,
+   "section": "05",
+   "index": 46,
+   "word": "erected,",
+   "start_s": 170.15,
+   "end_s": 170.83
+  },
+  {
+   "global_index": 426,
+   "section": "05",
+   "index": 47,
+   "word": "is",
+   "start_s": 170.87,
+   "end_s": 171.03
+  },
+  {
+   "global_index": 427,
+   "section": "05",
+   "index": 48,
+   "word": "estimated",
+   "start_s": 171.11,
+   "end_s": 171.59
+  },
+  {
+   "global_index": 428,
+   "section": "05",
+   "index": 49,
+   "word": "at",
+   "start_s": 171.67,
+   "end_s": 171.75
+  },
+  {
+   "global_index": 429,
+   "section": "05",
+   "index": 50,
+   "word": "around",
+   "start_s": 171.83,
+   "end_s": 172.15
+  },
+  {
+   "global_index": 430,
+   "section": "05",
+   "index": 51,
+   "word": "eighty",
+   "start_s": 172.23,
+   "end_s": 172.47
+  },
+  {
+   "global_index": 431,
+   "section": "05",
+   "index": 52,
+   "word": "tonnes.",
+   "start_s": 172.63,
+   "end_s": 173.39
+  },
+  {
+   "global_index": 432,
+   "section": "05",
+   "index": 53,
+   "word": "Rapa",
+   "start_s": 173.43,
+   "end_s": 173.69
+  },
+  {
+   "global_index": 433,
+   "section": "05",
+   "index": 54,
+   "word": "Nui",
+   "start_s": 173.75,
+   "end_s": 173.99
+  },
+  {
+   "global_index": 434,
+   "section": "05",
+   "index": 55,
+   "word": "tradition",
+   "start_s": 174.11,
+   "end_s": 174.55
+  },
+  {
+   "global_index": 435,
+   "section": "05",
+   "index": 56,
+   "word": "says",
+   "start_s": 174.63,
+   "end_s": 174.87
+  },
+  {
+   "global_index": 436,
+   "section": "05",
+   "index": 57,
+   "word": "the",
+   "start_s": 174.95,
+   "end_s": 175.03
+  },
+  {
+   "global_index": 437,
+   "section": "05",
+   "index": 58,
+   "word": "Moai",
+   "start_s": 175.15,
+   "end_s": 175.67
+  },
+  {
+   "global_index": 438,
+   "section": "05",
+   "index": 59,
+   "word": "walked.",
+   "start_s": 175.75,
+   "end_s": 176.43
+  },
+  {
+   "global_index": 439,
+   "section": "05",
+   "index": 60,
+   "word": "In",
+   "start_s": 176.47,
+   "end_s": 176.55
+  },
+  {
+   "global_index": 440,
+   "section": "05",
+   "index": 61,
+   "word": "twenty",
+   "start_s": 176.63,
+   "end_s": 176.87
+  },
+  {
+   "global_index": 441,
+   "section": "05",
+   "index": 62,
+   "word": "twelve,",
+   "start_s": 176.95,
+   "end_s": 177.47
+  },
+  {
+   "global_index": 442,
+   "section": "05",
+   "index": 63,
+   "word": "archaeologists",
+   "start_s": 177.51,
+   "end_s": 178.31
+  },
+  {
+   "global_index": 443,
+   "section": "05",
+   "index": 64,
+   "word": "Terry",
+   "start_s": 178.39,
+   "end_s": 178.63
+  },
+  {
+   "global_index": 444,
+   "section": "05",
+   "index": 65,
+   "word": "Hunt",
+   "start_s": 178.71,
+   "end_s": 178.95
+  },
+  {
+   "global_index": 445,
+   "section": "05",
+   "index": 66,
+   "word": "and",
+   "start_s": 179.03,
+   "end_s": 179.19
+  },
+  {
+   "global_index": 446,
+   "section": "05",
+   "index": 67,
+   "word": "Carl",
+   "start_s": 179.35,
+   "end_s": 179.51
+  },
+  {
+   "global_index": 447,
+   "section": "05",
+   "index": 68,
+   "word": "Lipo",
+   "start_s": 179.63,
+   "end_s": 179.95
+  },
+  {
+   "global_index": 448,
+   "section": "05",
+   "index": 69,
+   "word": "tested",
+   "start_s": 180.15,
+   "end_s": 180.47
+  },
+  {
+   "global_index": 449,
+   "section": "05",
+   "index": 70,
+   "word": "that",
+   "start_s": 180.55,
+   "end_s": 180.79
+  },
+  {
+   "global_index": 450,
+   "section": "05",
+   "index": 71,
+   "word": "with",
+   "start_s": 180.83,
+   "end_s": 180.87
+  },
+  {
+   "global_index": 451,
+   "section": "05",
+   "index": 72,
+   "word": "a",
+   "start_s": 180.95,
+   "end_s": 181.03
+  },
+  {
+   "global_index": 452,
+   "section": "05",
+   "index": 73,
+   "word": "replica",
+   "start_s": 181.11,
+   "end_s": 181.59
+  },
+  {
+   "global_index": 453,
+   "section": "05",
+   "index": 74,
+   "word": "of",
+   "start_s": 181.63,
+   "end_s": 181.67
+  },
+  {
+   "global_index": 454,
+   "section": "05",
+   "index": 75,
+   "word": "about",
+   "start_s": 181.75,
+   "end_s": 182.07
+  },
+  {
+   "global_index": 455,
+   "section": "05",
+   "index": 76,
+   "word": "five",
+   "start_s": 182.15,
+   "end_s": 182.39
+  },
+  {
+   "global_index": 456,
+   "section": "05",
+   "index": 77,
+   "word": "tonnes.",
+   "start_s": 182.51,
+   "end_s": 183.07
+  },
+  {
+   "global_index": 457,
+   "section": "05",
+   "index": 78,
+   "word": "Eighteen",
+   "start_s": 183.11,
+   "end_s": 183.59
+  },
+  {
+   "global_index": 458,
+   "section": "05",
+   "index": 79,
+   "word": "people,",
+   "start_s": 183.87,
+   "end_s": 184.19
+  },
+  {
+   "global_index": 459,
+   "section": "05",
+   "index": 80,
+   "word": "three",
+   "start_s": 184.23,
+   "end_s": 184.47
+  },
+  {
+   "global_index": 460,
+   "section": "05",
+   "index": 81,
+   "word": "ropes,",
+   "start_s": 184.55,
+   "end_s": 185.057
+  },
+  {
+   "global_index": 461,
+   "section": "05",
+   "index": 82,
+   "word": "and",
+   "start_s": 185.083,
+   "end_s": 185.11
+  },
+  {
+   "global_index": 462,
+   "section": "05",
+   "index": 83,
+   "word": "the",
+   "start_s": 185.19,
+   "end_s": 185.27
+  },
+  {
+   "global_index": 463,
+   "section": "05",
+   "index": 84,
+   "word": "upright",
+   "start_s": 185.35,
+   "end_s": 185.67
+  },
+  {
+   "global_index": 464,
+   "section": "05",
+   "index": 85,
+   "word": "statue",
+   "start_s": 185.75,
+   "end_s": 186.31
+  },
+  {
+   "global_index": 465,
+   "section": "05",
+   "index": 86,
+   "word": "rocked",
+   "start_s": 186.39,
+   "end_s": 186.71
+  },
+  {
+   "global_index": 466,
+   "section": "05",
+   "index": 87,
+   "word": "forward,",
+   "start_s": 186.79,
+   "end_s": 187.43
+  },
+  {
+   "global_index": 467,
+   "section": "05",
+   "index": 88,
+   "word": "step",
+   "start_s": 187.51,
+   "end_s": 187.75
+  },
+  {
+   "global_index": 468,
+   "section": "05",
+   "index": 89,
+   "word": "by",
+   "start_s": 187.87,
+   "end_s": 187.99
+  },
+  {
+   "global_index": 469,
+   "section": "05",
+   "index": 90,
+   "word": "step.",
+   "start_s": 188.07,
+   "end_s": 188.67
+  },
+  {
+   "global_index": 470,
+   "section": "05",
+   "index": 91,
+   "word": "Statues",
+   "start_s": 188.71,
+   "end_s": 189.11
+  },
+  {
+   "global_index": 471,
+   "section": "05",
+   "index": 92,
+   "word": "abandoned",
+   "start_s": 189.23,
+   "end_s": 189.59
+  },
+  {
+   "global_index": 472,
+   "section": "05",
+   "index": 93,
+   "word": "along",
+   "start_s": 189.67,
+   "end_s": 189.99
+  },
+  {
+   "global_index": 473,
+   "section": "05",
+   "index": 94,
+   "word": "ancient",
+   "start_s": 190.07,
+   "end_s": 190.39
+  },
+  {
+   "global_index": 474,
+   "section": "05",
+   "index": 95,
+   "word": "roads",
+   "start_s": 190.59,
+   "end_s": 190.79
+  },
+  {
+   "global_index": 475,
+   "section": "05",
+   "index": 96,
+   "word": "fit",
+   "start_s": 190.87,
+   "end_s": 191.03
+  },
+  {
+   "global_index": 476,
+   "section": "05",
+   "index": 97,
+   "word": "that",
+   "start_s": 191.11,
+   "end_s": 191.27
+  },
+  {
+   "global_index": 477,
+   "section": "05",
+   "index": 98,
+   "word": "picture.",
+   "start_s": 191.59,
+   "end_s": 191.95
+  },
+  {
+   "global_index": 478,
+   "section": "05",
+   "index": 99,
+   "word": "It's",
+   "start_s": 191.99,
+   "end_s": 192.07
+  },
+  {
+   "global_index": 479,
+   "section": "05",
+   "index": 100,
+   "word": "a",
+   "start_s": 192.23,
+   "end_s": 192.27
+  },
+  {
+   "global_index": 480,
+   "section": "05",
+   "index": 101,
+   "word": "strongly",
+   "start_s": 192.31,
+   "end_s": 192.71
+  },
+  {
+   "global_index": 481,
+   "section": "05",
+   "index": 102,
+   "word": "supported",
+   "start_s": 192.95,
+   "end_s": 193.19
+  },
+  {
+   "global_index": 482,
+   "section": "05",
+   "index": 103,
+   "word": "explanation,",
+   "start_s": 193.27,
+   "end_s": 194.23
+  },
+  {
+   "global_index": 483,
+   "section": "05",
+   "index": 104,
+   "word": "but",
+   "start_s": 194.31,
+   "end_s": 194.39
+  },
+  {
+   "global_index": 484,
+   "section": "05",
+   "index": 105,
+   "word": "not",
+   "start_s": 194.51,
+   "end_s": 194.63
+  },
+  {
+   "global_index": 485,
+   "section": "05",
+   "index": 106,
+   "word": "proven",
+   "start_s": 194.71,
+   "end_s": 195.03
+  },
+  {
+   "global_index": 486,
+   "section": "05",
+   "index": 107,
+   "word": "for",
+   "start_s": 195.11,
+   "end_s": 195.19
+  },
+  {
+   "global_index": 487,
+   "section": "05",
+   "index": 108,
+   "word": "every",
+   "start_s": 195.27,
+   "end_s": 195.51
+  },
+  {
+   "global_index": 488,
+   "section": "05",
+   "index": 109,
+   "word": "statue,",
+   "start_s": 195.59,
+   "end_s": 196.417
+  },
+  {
+   "global_index": 489,
+   "section": "05",
+   "index": 110,
+   "word": "especially",
+   "start_s": 196.603,
+   "end_s": 196.79
+  },
+  {
+   "global_index": 490,
+   "section": "05",
+   "index": 111,
+   "word": "the",
+   "start_s": 196.83,
+   "end_s": 196.87
+  },
+  {
+   "global_index": 491,
+   "section": "05",
+   "index": 112,
+   "word": "heaviest.",
+   "start_s": 196.95,
+   "end_s": 197.63
+  },
+  {
+   "global_index": 492,
+   "section": "05",
+   "index": 113,
+   "word": "And",
+   "start_s": 197.67,
+   "end_s": 197.75
+  },
+  {
+   "global_index": 493,
+   "section": "05",
+   "index": 114,
+   "word": "in",
+   "start_s": 197.83,
+   "end_s": 197.91
+  },
+  {
+   "global_index": 494,
+   "section": "05",
+   "index": 115,
+   "word": "the",
+   "start_s": 197.95,
+   "end_s": 197.99
+  },
+  {
+   "global_index": 495,
+   "section": "05",
+   "index": 116,
+   "word": "quarry",
+   "start_s": 198.07,
+   "end_s": 198.47
+  },
+  {
+   "global_index": 496,
+   "section": "05",
+   "index": 117,
+   "word": "lies",
+   "start_s": 198.67,
+   "end_s": 198.87
+  },
+  {
+   "global_index": 497,
+   "section": "05",
+   "index": 118,
+   "word": "one",
+   "start_s": 198.95,
+   "end_s": 199.27
+  },
+  {
+   "global_index": 498,
+   "section": "05",
+   "index": 119,
+   "word": "giant,",
+   "start_s": 199.35,
+   "end_s": 199.95
+  },
+  {
+   "global_index": 499,
+   "section": "05",
+   "index": 120,
+   "word": "around",
+   "start_s": 199.99,
+   "end_s": 200.31
+  },
+  {
+   "global_index": 500,
+   "section": "05",
+   "index": 121,
+   "word": "twenty",
+   "start_s": 200.39,
+   "end_s": 200.63
+  },
+  {
+   "global_index": 501,
+   "section": "05",
+   "index": 122,
+   "word": "metres",
+   "start_s": 200.71,
+   "end_s": 201.03
+  },
+  {
+   "global_index": 502,
+   "section": "05",
+   "index": 123,
+   "word": "long,",
+   "start_s": 201.11,
+   "end_s": 201.55
+  },
+  {
+   "global_index": 503,
+   "section": "05",
+   "index": 124,
+   "word": "that",
+   "start_s": 201.59,
+   "end_s": 201.67
+  },
+  {
+   "global_index": 504,
+   "section": "05",
+   "index": 125,
+   "word": "was",
+   "start_s": 201.79,
+   "end_s": 201.91
+  },
+  {
+   "global_index": 505,
+   "section": "05",
+   "index": 126,
+   "word": "never",
+   "start_s": 202.07,
+   "end_s": 202.23
+  },
+  {
+   "global_index": 506,
+   "section": "05",
+   "index": 127,
+   "word": "finished.",
+   "start_s": 202.59,
+   "end_s": 203.003
+  },
+  {
+   "global_index": 507,
+   "section": "05",
+   "index": 128,
+   "word": "On",
+   "start_s": 203.057,
+   "end_s": 203.11
+  },
+  {
+   "global_index": 508,
+   "section": "05",
+   "index": 129,
+   "word": "Rapa",
+   "start_s": 203.15,
+   "end_s": 203.37
+  },
+  {
+   "global_index": 509,
+   "section": "05",
+   "index": 130,
+   "word": "Nui,",
+   "start_s": 203.43,
+   "end_s": 203.963
+  },
+  {
+   "global_index": 510,
+   "section": "05",
+   "index": 131,
+   "word": "the",
+   "start_s": 204.017,
+   "end_s": 204.07
+  },
+  {
+   "global_index": 511,
+   "section": "05",
+   "index": 132,
+   "word": "challenge",
+   "start_s": 204.27,
+   "end_s": 204.47
+  },
+  {
+   "global_index": 512,
+   "section": "05",
+   "index": 133,
+   "word": "was",
+   "start_s": 204.55,
+   "end_s": 204.63
+  },
+  {
+   "global_index": 513,
+   "section": "05",
+   "index": 134,
+   "word": "about",
+   "start_s": 204.79,
+   "end_s": 204.95
+  },
+  {
+   "global_index": 514,
+   "section": "05",
+   "index": 135,
+   "word": "a",
+   "start_s": 205.11,
+   "end_s": 205.15
+  },
+  {
+   "global_index": 515,
+   "section": "05",
+   "index": 136,
+   "word": "thousand",
+   "start_s": 205.19,
+   "end_s": 205.59
+  },
+  {
+   "global_index": 516,
+   "section": "05",
+   "index": 137,
+   "word": "statues.",
+   "start_s": 205.67,
+   "end_s": 206.59
+  },
+  {
+   "global_index": 517,
+   "section": "05",
+   "index": 138,
+   "word": "In",
+   "start_s": 206.63,
+   "end_s": 206.71
+  },
+  {
+   "global_index": 518,
+   "section": "05",
+   "index": 139,
+   "word": "Egypt,",
+   "start_s": 206.79,
+   "end_s": 207.457
+  },
+  {
+   "global_index": 519,
+   "section": "05",
+   "index": 140,
+   "word": "it",
+   "start_s": 207.483,
+   "end_s": 207.51
+  },
+  {
+   "global_index": 520,
+   "section": "05",
+   "index": 141,
+   "word": "was",
+   "start_s": 207.59,
+   "end_s": 207.67
+  },
+  {
+   "global_index": 521,
+   "section": "05",
+   "index": 142,
+   "word": "over",
+   "start_s": 207.75,
+   "end_s": 208.07
+  },
+  {
+   "global_index": 522,
+   "section": "05",
+   "index": 143,
+   "word": "two",
+   "start_s": 208.15,
+   "end_s": 208.39
+  },
+  {
+   "global_index": 523,
+   "section": "05",
+   "index": 144,
+   "word": "million",
+   "start_s": 208.47,
+   "end_s": 208.95
+  },
+  {
+   "global_index": 524,
+   "section": "05",
+   "index": 145,
+   "word": "blocks.",
+   "start_s": 209.47,
+   "end_s": 209.511
+  },
+  {
+   "global_index": 525,
+   "section": "06",
+   "index": 0,
+   "word": "Number",
+   "start_s": 210.111,
+   "end_s": 210.351
+  },
+  {
+   "global_index": 526,
+   "section": "06",
+   "index": 1,
+   "word": "six:",
+   "start_s": 210.511,
+   "end_s": 211.311
+  },
+  {
+   "global_index": 527,
+   "section": "06",
+   "index": 2,
+   "word": "the",
+   "start_s": 211.391,
+   "end_s": 211.471
+  },
+  {
+   "global_index": 528,
+   "section": "06",
+   "index": 3,
+   "word": "Great",
+   "start_s": 211.551,
+   "end_s": 211.791
+  },
+  {
+   "global_index": 529,
+   "section": "06",
+   "index": 4,
+   "word": "Pyramid,",
+   "start_s": 211.871,
+   "end_s": 212.751
+  },
+  {
+   "global_index": 530,
+   "section": "06",
+   "index": 5,
+   "word": "built",
+   "start_s": 212.831,
+   "end_s": 212.991
+  },
+  {
+   "global_index": 531,
+   "section": "06",
+   "index": 6,
+   "word": "for",
+   "start_s": 213.071,
+   "end_s": 213.151
+  },
+  {
+   "global_index": 532,
+   "section": "06",
+   "index": 7,
+   "word": "the",
+   "start_s": 213.231,
+   "end_s": 213.311
+  },
+  {
+   "global_index": 533,
+   "section": "06",
+   "index": 8,
+   "word": "pharaoh",
+   "start_s": 213.351,
+   "end_s": 213.711
+  },
+  {
+   "global_index": 534,
+   "section": "06",
+   "index": 9,
+   "word": "Khufu",
+   "start_s": 213.751,
+   "end_s": 214.271
+  },
+  {
+   "global_index": 535,
+   "section": "06",
+   "index": 10,
+   "word": "around",
+   "start_s": 214.351,
+   "end_s": 214.671
+  },
+  {
+   "global_index": 536,
+   "section": "06",
+   "index": 11,
+   "word": "four",
+   "start_s": 214.751,
+   "end_s": 214.831
+  },
+  {
+   "global_index": 537,
+   "section": "06",
+   "index": 12,
+   "word": "thousand",
+   "start_s": 214.991,
+   "end_s": 215.471
+  },
+  {
+   "global_index": 538,
+   "section": "06",
+   "index": 13,
+   "word": "five",
+   "start_s": 215.551,
+   "end_s": 215.711
+  },
+  {
+   "global_index": 539,
+   "section": "06",
+   "index": 14,
+   "word": "hundred",
+   "start_s": 215.791,
+   "end_s": 216.031
+  },
+  {
+   "global_index": 540,
+   "section": "06",
+   "index": 15,
+   "word": "years",
+   "start_s": 216.151,
+   "end_s": 216.271
+  },
+  {
+   "global_index": 541,
+   "section": "06",
+   "index": 16,
+   "word": "ago.",
+   "start_s": 216.351,
+   "end_s": 217.031
+  },
+  {
+   "global_index": 542,
+   "section": "06",
+   "index": 17,
+   "word": "It",
+   "start_s": 217.071,
+   "end_s": 217.111
+  },
+  {
+   "global_index": 543,
+   "section": "06",
+   "index": 18,
+   "word": "originally",
+   "start_s": 217.151,
+   "end_s": 217.711
+  },
+  {
+   "global_index": 544,
+   "section": "06",
+   "index": 19,
+   "word": "stood",
+   "start_s": 217.791,
+   "end_s": 217.951
+  },
+  {
+   "global_index": 545,
+   "section": "06",
+   "index": 20,
+   "word": "about",
+   "start_s": 218.031,
+   "end_s": 218.191
+  },
+  {
+   "global_index": 546,
+   "section": "06",
+   "index": 21,
+   "word": "a",
+   "start_s": 218.351,
+   "end_s": 218.378
+  },
+  {
+   "global_index": 547,
+   "section": "06",
+   "index": 22,
+   "word": "hundred",
+   "start_s": 218.404,
+   "end_s": 218.591
+  },
+  {
+   "global_index": 548,
+   "section": "06",
+   "index": 23,
+   "word": "and",
+   "start_s": 218.671,
+   "end_s": 218.751
+  },
+  {
+   "global_index": 549,
+   "section": "06",
+   "index": 24,
+   "word": "forty-six",
+   "start_s": 218.831,
+   "end_s": 219.391
+  },
+  {
+   "global_index": 550,
+   "section": "06",
+   "index": 25,
+   "word": "point",
+   "start_s": 219.551,
+   "end_s": 219.711
+  },
+  {
+   "global_index": 551,
+   "section": "06",
+   "index": 26,
+   "word": "six",
+   "start_s": 219.791,
+   "end_s": 220.031
+  },
+  {
+   "global_index": 552,
+   "section": "06",
+   "index": 27,
+   "word": "metres",
+   "start_s": 220.111,
+   "end_s": 220.431
+  },
+  {
+   "global_index": 553,
+   "section": "06",
+   "index": 28,
+   "word": "tall,",
+   "start_s": 220.511,
+   "end_s": 221.098
+  },
+  {
+   "global_index": 554,
+   "section": "06",
+   "index": 29,
+   "word": "from",
+   "start_s": 221.124,
+   "end_s": 221.151
+  },
+  {
+   "global_index": 555,
+   "section": "06",
+   "index": 30,
+   "word": "an",
+   "start_s": 221.231,
+   "end_s": 221.311
+  },
+  {
+   "global_index": 556,
+   "section": "06",
+   "index": 31,
+   "word": "estimated",
+   "start_s": 221.591,
+   "end_s": 221.871
+  },
+  {
+   "global_index": 557,
+   "section": "06",
+   "index": 32,
+   "word": "two",
+   "start_s": 221.951,
+   "end_s": 222.031
+  },
+  {
+   "global_index": 558,
+   "section": "06",
+   "index": 33,
+   "word": "point",
+   "start_s": 222.191,
+   "end_s": 222.431
+  },
+  {
+   "global_index": 559,
+   "section": "06",
+   "index": 34,
+   "word": "three",
+   "start_s": 222.511,
+   "end_s": 222.831
+  },
+  {
+   "global_index": 560,
+   "section": "06",
+   "index": 35,
+   "word": "million",
+   "start_s": 222.911,
+   "end_s": 223.311
+  },
+  {
+   "global_index": 561,
+   "section": "06",
+   "index": 36,
+   "word": "blocks,",
+   "start_s": 223.711,
+   "end_s": 224.151
+  },
+  {
+   "global_index": 562,
+   "section": "06",
+   "index": 37,
+   "word": "its",
+   "start_s": 224.191,
+   "end_s": 224.351
+  },
+  {
+   "global_index": 563,
+   "section": "06",
+   "index": 38,
+   "word": "sides",
+   "start_s": 224.431,
+   "end_s": 224.751
+  },
+  {
+   "global_index": 564,
+   "section": "06",
+   "index": 39,
+   "word": "aligned",
+   "start_s": 224.831,
+   "end_s": 225.151
+  },
+  {
+   "global_index": 565,
+   "section": "06",
+   "index": 40,
+   "word": "to",
+   "start_s": 225.191,
+   "end_s": 225.231
+  },
+  {
+   "global_index": 566,
+   "section": "06",
+   "index": 41,
+   "word": "the",
+   "start_s": 225.311,
+   "end_s": 225.391
+  },
+  {
+   "global_index": 567,
+   "section": "06",
+   "index": 42,
+   "word": "cardinal",
+   "start_s": 225.471,
+   "end_s": 225.871
+  },
+  {
+   "global_index": 568,
+   "section": "06",
+   "index": 43,
+   "word": "directions",
+   "start_s": 226.151,
+   "end_s": 226.471
+  },
+  {
+   "global_index": 569,
+   "section": "06",
+   "index": 44,
+   "word": "with",
+   "start_s": 226.511,
+   "end_s": 226.671
+  },
+  {
+   "global_index": 570,
+   "section": "06",
+   "index": 45,
+   "word": "remarkable,",
+   "start_s": 226.911,
+   "end_s": 227.658
+  },
+  {
+   "global_index": 571,
+   "section": "06",
+   "index": 46,
+   "word": "though",
+   "start_s": 227.764,
+   "end_s": 227.871
+  },
+  {
+   "global_index": 572,
+   "section": "06",
+   "index": 47,
+   "word": "not",
+   "start_s": 227.991,
+   "end_s": 228.111
+  },
+  {
+   "global_index": 573,
+   "section": "06",
+   "index": 48,
+   "word": "perfect,",
+   "start_s": 228.191,
+   "end_s": 228.711
+  },
+  {
+   "global_index": 574,
+   "section": "06",
+   "index": 49,
+   "word": "accuracy.",
+   "start_s": 228.751,
+   "end_s": 229.831
+  },
+  {
+   "global_index": 575,
+   "section": "06",
+   "index": 50,
+   "word": "Here,",
+   "start_s": 229.871,
+   "end_s": 230.311
+  },
+  {
+   "global_index": 576,
+   "section": "06",
+   "index": 51,
+   "word": "the",
+   "start_s": 230.351,
+   "end_s": 230.511
+  },
+  {
+   "global_index": 577,
+   "section": "06",
+   "index": 52,
+   "word": "evidence",
+   "start_s": 230.591,
+   "end_s": 230.991
+  },
+  {
+   "global_index": 578,
+   "section": "06",
+   "index": 53,
+   "word": "is",
+   "start_s": 231.071,
+   "end_s": 231.231
+  },
+  {
+   "global_index": 579,
+   "section": "06",
+   "index": 54,
+   "word": "strong.",
+   "start_s": 231.311,
+   "end_s": 232.071
+  },
+  {
+   "global_index": 580,
+   "section": "06",
+   "index": 55,
+   "word": "Most",
+   "start_s": 232.111,
+   "end_s": 232.351
+  },
+  {
+   "global_index": 581,
+   "section": "06",
+   "index": 56,
+   "word": "core",
+   "start_s": 232.431,
+   "end_s": 232.671
+  },
+  {
+   "global_index": 582,
+   "section": "06",
+   "index": 57,
+   "word": "limestone",
+   "start_s": 232.711,
+   "end_s": 233.231
+  },
+  {
+   "global_index": 583,
+   "section": "06",
+   "index": 58,
+   "word": "was",
+   "start_s": 233.311,
+   "end_s": 233.471
+  },
+  {
+   "global_index": 584,
+   "section": "06",
+   "index": 59,
+   "word": "quarried",
+   "start_s": 233.551,
+   "end_s": 233.871
+  },
+  {
+   "global_index": 585,
+   "section": "06",
+   "index": 60,
+   "word": "on",
+   "start_s": 233.911,
+   "end_s": 233.951
+  },
+  {
+   "global_index": 586,
+   "section": "06",
+   "index": 61,
+   "word": "the",
+   "start_s": 234.031,
+   "end_s": 234.111
+  },
+  {
+   "global_index": 587,
+   "section": "06",
+   "index": 62,
+   "word": "plateau",
+   "start_s": 234.271,
+   "end_s": 234.511
+  },
+  {
+   "global_index": 588,
+   "section": "06",
+   "index": 63,
+   "word": "itself.",
+   "start_s": 234.631,
+   "end_s": 235.431
+  },
+  {
+   "global_index": 589,
+   "section": "06",
+   "index": 64,
+   "word": "Finer",
+   "start_s": 235.471,
+   "end_s": 235.791
+  },
+  {
+   "global_index": 590,
+   "section": "06",
+   "index": 65,
+   "word": "casing",
+   "start_s": 235.831,
+   "end_s": 236.191
+  },
+  {
+   "global_index": 591,
+   "section": "06",
+   "index": 66,
+   "word": "stone",
+   "start_s": 236.271,
+   "end_s": 236.591
+  },
+  {
+   "global_index": 592,
+   "section": "06",
+   "index": 67,
+   "word": "came",
+   "start_s": 236.711,
+   "end_s": 236.831
+  },
+  {
+   "global_index": 593,
+   "section": "06",
+   "index": 68,
+   "word": "from",
+   "start_s": 236.951,
+   "end_s": 237.071
+  },
+  {
+   "global_index": 594,
+   "section": "06",
+   "index": 69,
+   "word": "Tura,",
+   "start_s": 237.151,
+   "end_s": 237.764
+  },
+  {
+   "global_index": 595,
+   "section": "06",
+   "index": 70,
+   "word": "across",
+   "start_s": 237.818,
+   "end_s": 238.031
+  },
+  {
+   "global_index": 596,
+   "section": "06",
+   "index": 71,
+   "word": "the",
+   "start_s": 238.111,
+   "end_s": 238.191
+  },
+  {
+   "global_index": 597,
+   "section": "06",
+   "index": 72,
+   "word": "Nile.",
+   "start_s": 238.231,
+   "end_s": 238.951
+  },
+  {
+   "global_index": 598,
+   "section": "06",
+   "index": 73,
+   "word": "Papyri",
+   "start_s": 238.991,
+   "end_s": 239.471
+  },
+  {
+   "global_index": 599,
+   "section": "06",
+   "index": 74,
+   "word": "found",
+   "start_s": 239.551,
+   "end_s": 239.791
+  },
+  {
+   "global_index": 600,
+   "section": "06",
+   "index": 75,
+   "word": "at",
+   "start_s": 239.871,
+   "end_s": 239.951
+  },
+  {
+   "global_index": 601,
+   "section": "06",
+   "index": 76,
+   "word": "Wadi",
+   "start_s": 240.031,
+   "end_s": 240.311
+  },
+  {
+   "global_index": 602,
+   "section": "06",
+   "index": 77,
+   "word": "al-Jarf",
+   "start_s": 240.351,
+   "end_s": 240.991
+  },
+  {
+   "global_index": 603,
+   "section": "06",
+   "index": 78,
+   "word": "include",
+   "start_s": 241.071,
+   "end_s": 241.391
+  },
+  {
+   "global_index": 604,
+   "section": "06",
+   "index": 79,
+   "word": "the",
+   "start_s": 241.471,
+   "end_s": 241.551
+  },
+  {
+   "global_index": 605,
+   "section": "06",
+   "index": 80,
+   "word": "logbook",
+   "start_s": 241.711,
+   "end_s": 242.031
+  },
+  {
+   "global_index": 606,
+   "section": "06",
+   "index": 81,
+   "word": "of",
+   "start_s": 242.111,
+   "end_s": 242.191
+  },
+  {
+   "global_index": 607,
+   "section": "06",
+   "index": 82,
+   "word": "an",
+   "start_s": 242.231,
+   "end_s": 242.271
+  },
+  {
+   "global_index": 608,
+   "section": "06",
+   "index": 83,
+   "word": "official",
+   "start_s": 242.511,
+   "end_s": 242.751
+  },
+  {
+   "global_index": 609,
+   "section": "06",
+   "index": 84,
+   "word": "named",
+   "start_s": 242.831,
+   "end_s": 243.151
+  },
+  {
+   "global_index": 610,
+   "section": "06",
+   "index": 85,
+   "word": "Merer,",
+   "start_s": 243.231,
+   "end_s": 243.831
+  },
+  {
+   "global_index": 611,
+   "section": "06",
+   "index": 86,
+   "word": "recording",
+   "start_s": 243.871,
+   "end_s": 244.271
+  },
+  {
+   "global_index": 612,
+   "section": "06",
+   "index": 87,
+   "word": "his",
+   "start_s": 244.351,
+   "end_s": 244.511
+  },
+  {
+   "global_index": 613,
+   "section": "06",
+   "index": 88,
+   "word": "crew",
+   "start_s": 244.591,
+   "end_s": 244.911
+  },
+  {
+   "global_index": 614,
+   "section": "06",
+   "index": 89,
+   "word": "shipping",
+   "start_s": 245.071,
+   "end_s": 245.231
+  },
+  {
+   "global_index": 615,
+   "section": "06",
+   "index": 90,
+   "word": "that",
+   "start_s": 245.311,
+   "end_s": 245.471
+  },
+  {
+   "global_index": 616,
+   "section": "06",
+   "index": 91,
+   "word": "limestone",
+   "start_s": 245.511,
+   "end_s": 246.031
+  },
+  {
+   "global_index": 617,
+   "section": "06",
+   "index": 92,
+   "word": "to",
+   "start_s": 246.111,
+   "end_s": 246.191
+  },
+  {
+   "global_index": 618,
+   "section": "06",
+   "index": 93,
+   "word": "Giza",
+   "start_s": 246.231,
+   "end_s": 246.591
+  },
+  {
+   "global_index": 619,
+   "section": "06",
+   "index": 94,
+   "word": "by",
+   "start_s": 246.711,
+   "end_s": 246.831
+  },
+  {
+   "global_index": 620,
+   "section": "06",
+   "index": 95,
+   "word": "boat.",
+   "start_s": 247.151,
+   "end_s": 247.511
+  },
+  {
+   "global_index": 621,
+   "section": "06",
+   "index": 96,
+   "word": "Egyptian",
+   "start_s": 247.551,
+   "end_s": 248.031
+  },
+  {
+   "global_index": 622,
+   "section": "06",
+   "index": 97,
+   "word": "art",
+   "start_s": 248.111,
+   "end_s": 248.431
+  },
+  {
+   "global_index": 623,
+   "section": "06",
+   "index": 98,
+   "word": "shows",
+   "start_s": 248.591,
+   "end_s": 248.751
+  },
+  {
+   "global_index": 624,
+   "section": "06",
+   "index": 99,
+   "word": "loads",
+   "start_s": 248.831,
+   "end_s": 249.231
+  },
+  {
+   "global_index": 625,
+   "section": "06",
+   "index": 100,
+   "word": "dragged",
+   "start_s": 249.351,
+   "end_s": 249.551
+  },
+  {
+   "global_index": 626,
+   "section": "06",
+   "index": 101,
+   "word": "on",
+   "start_s": 249.631,
+   "end_s": 249.791
+  },
+  {
+   "global_index": 627,
+   "section": "06",
+   "index": 102,
+   "word": "sledges,",
+   "start_s": 249.871,
+   "end_s": 250.538
+  },
+  {
+   "global_index": 628,
+   "section": "06",
+   "index": 103,
+   "word": "and",
+   "start_s": 250.564,
+   "end_s": 250.591
+  },
+  {
+   "global_index": 629,
+   "section": "06",
+   "index": 104,
+   "word": "a",
+   "start_s": 250.671,
+   "end_s": 250.751
+  },
+  {
+   "global_index": 630,
+   "section": "06",
+   "index": 105,
+   "word": "workers'",
+   "start_s": 250.831,
+   "end_s": 251.191
+  },
+  {
+   "global_index": 631,
+   "section": "06",
+   "index": 106,
+   "word": "town",
+   "start_s": 251.231,
+   "end_s": 251.471
+  },
+  {
+   "global_index": 632,
+   "section": "06",
+   "index": 107,
+   "word": "has",
+   "start_s": 251.551,
+   "end_s": 251.631
+  },
+  {
+   "global_index": 633,
+   "section": "06",
+   "index": 108,
+   "word": "been",
+   "start_s": 251.671,
+   "end_s": 251.711
+  },
+  {
+   "global_index": 634,
+   "section": "06",
+   "index": 109,
+   "word": "excavated",
+   "start_s": 251.791,
+   "end_s": 252.351
+  },
+  {
+   "global_index": 635,
+   "section": "06",
+   "index": 110,
+   "word": "nearby.",
+   "start_s": 252.471,
+   "end_s": 253.271
+  },
+  {
+   "global_index": 636,
+   "section": "06",
+   "index": 111,
+   "word": "What",
+   "start_s": 253.311,
+   "end_s": 253.471
+  },
+  {
+   "global_index": 637,
+   "section": "06",
+   "index": 112,
+   "word": "we",
+   "start_s": 253.591,
+   "end_s": 253.711
+  },
+  {
+   "global_index": 638,
+   "section": "06",
+   "index": 113,
+   "word": "don't",
+   "start_s": 253.751,
+   "end_s": 253.951
+  },
+  {
+   "global_index": 639,
+   "section": "06",
+   "index": 114,
+   "word": "know",
+   "start_s": 254.031,
+   "end_s": 254.351
+  },
+  {
+   "global_index": 640,
+   "section": "06",
+   "index": 115,
+   "word": "is",
+   "start_s": 254.431,
+   "end_s": 254.511
+  },
+  {
+   "global_index": 641,
+   "section": "06",
+   "index": 116,
+   "word": "the",
+   "start_s": 254.591,
+   "end_s": 254.751
+  },
+  {
+   "global_index": 642,
+   "section": "06",
+   "index": 117,
+   "word": "ramp",
+   "start_s": 254.791,
+   "end_s": 254.991
+  },
+  {
+   "global_index": 643,
+   "section": "06",
+   "index": 118,
+   "word": "system.",
+   "start_s": 255.071,
+   "end_s": 255.871
+  },
+  {
+   "global_index": 644,
+   "section": "06",
+   "index": 119,
+   "word": "Straight,",
+   "start_s": 255.951,
+   "end_s": 256.631
+  },
+  {
+   "global_index": 645,
+   "section": "06",
+   "index": 120,
+   "word": "zigzag,",
+   "start_s": 256.671,
+   "end_s": 257.431
+  },
+  {
+   "global_index": 646,
+   "section": "06",
+   "index": 121,
+   "word": "spiralling:",
+   "start_s": 257.471,
+   "end_s": 258.391
+  },
+  {
+   "global_index": 647,
+   "section": "06",
+   "index": 122,
+   "word": "each",
+   "start_s": 258.431,
+   "end_s": 258.671
+  },
+  {
+   "global_index": 648,
+   "section": "06",
+   "index": 123,
+   "word": "has",
+   "start_s": 258.751,
+   "end_s": 258.831
+  },
+  {
+   "global_index": 649,
+   "section": "06",
+   "index": 124,
+   "word": "supporters.",
+   "start_s": 258.911,
+   "end_s": 259.911
+  },
+  {
+   "global_index": 650,
+   "section": "06",
+   "index": 125,
+   "word": "None",
+   "start_s": 259.951,
+   "end_s": 260.271
+  },
+  {
+   "global_index": 651,
+   "section": "06",
+   "index": 126,
+   "word": "is",
+   "start_s": 260.351,
+   "end_s": 260.431
+  },
+  {
+   "global_index": 652,
+   "section": "06",
+   "index": 127,
+   "word": "proven.",
+   "start_s": 260.511,
+   "end_s": 261.191
+  },
+  {
+   "global_index": 653,
+   "section": "06",
+   "index": 128,
+   "word": "But",
+   "start_s": 261.231,
+   "end_s": 261.311
+  },
+  {
+   "global_index": 654,
+   "section": "06",
+   "index": 129,
+   "word": "so",
+   "start_s": 261.391,
+   "end_s": 261.551
+  },
+  {
+   "global_index": 655,
+   "section": "06",
+   "index": 130,
+   "word": "far,",
+   "start_s": 261.631,
+   "end_s": 262.151
+  },
+  {
+   "global_index": 656,
+   "section": "06",
+   "index": 131,
+   "word": "every",
+   "start_s": 262.191,
+   "end_s": 262.511
+  },
+  {
+   "global_index": 657,
+   "section": "06",
+   "index": 132,
+   "word": "builder",
+   "start_s": 262.711,
+   "end_s": 262.911
+  },
+  {
+   "global_index": 658,
+   "section": "06",
+   "index": 133,
+   "word": "had",
+   "start_s": 263.031,
+   "end_s": 263.151
+  },
+  {
+   "global_index": 659,
+   "section": "06",
+   "index": 134,
+   "word": "farming",
+   "start_s": 263.231,
+   "end_s": 263.551
+  },
+  {
+   "global_index": 660,
+   "section": "06",
+   "index": 135,
+   "word": "behind",
+   "start_s": 263.671,
+   "end_s": 263.951
+  },
+  {
+   "global_index": 661,
+   "section": "06",
+   "index": 136,
+   "word": "them.",
+   "start_s": 264.231,
+   "end_s": 264.551
+  },
+  {
+   "global_index": 662,
+   "section": "06",
+   "index": 137,
+   "word": "The",
+   "start_s": 264.591,
+   "end_s": 264.751
+  },
+  {
+   "global_index": 663,
+   "section": "06",
+   "index": 138,
+   "word": "next",
+   "start_s": 264.831,
+   "end_s": 264.991
+  },
+  {
+   "global_index": 664,
+   "section": "06",
+   "index": 139,
+   "word": "site",
+   "start_s": 265.071,
+   "end_s": 265.471
+  },
+  {
+   "global_index": 665,
+   "section": "06",
+   "index": 140,
+   "word": "breaks",
+   "start_s": 265.631,
+   "end_s": 265.871
+  },
+  {
+   "global_index": 666,
+   "section": "06",
+   "index": 141,
+   "word": "that",
+   "start_s": 265.951,
+   "end_s": 266.031
+  },
+  {
+   "global_index": 667,
+   "section": "06",
+   "index": 142,
+   "word": "rule.",
+   "start_s": 266.431,
+   "end_s": 266.373
+  },
+  {
+   "global_index": 668,
+   "section": "07",
+   "index": 0,
+   "word": "Number",
+   "start_s": 266.973,
+   "end_s": 267.213
+  },
+  {
+   "global_index": 669,
+   "section": "07",
+   "index": 1,
+   "word": "five:",
+   "start_s": 267.373,
+   "end_s": 268.173
+  },
+  {
+   "global_index": 670,
+   "section": "07",
+   "index": 2,
+   "word": "Göbekli",
+   "start_s": 268.213,
+   "end_s": 268.733
+  },
+  {
+   "global_index": 671,
+   "section": "07",
+   "index": 3,
+   "word": "Tepe,",
+   "start_s": 268.813,
+   "end_s": 269.453
+  },
+  {
+   "global_index": 672,
+   "section": "07",
+   "index": 4,
+   "word": "in",
+   "start_s": 269.533,
+   "end_s": 269.693
+  },
+  {
+   "global_index": 673,
+   "section": "07",
+   "index": 5,
+   "word": "south-eastern",
+   "start_s": 269.813,
+   "end_s": 270.333
+  },
+  {
+   "global_index": 674,
+   "section": "07",
+   "index": 6,
+   "word": "Türkiye.",
+   "start_s": 270.413,
+   "end_s": 271.373
+  },
+  {
+   "global_index": 675,
+   "section": "07",
+   "index": 7,
+   "word": "Its",
+   "start_s": 271.453,
+   "end_s": 271.613
+  },
+  {
+   "global_index": 676,
+   "section": "07",
+   "index": 8,
+   "word": "monumental",
+   "start_s": 271.693,
+   "end_s": 272.253
+  },
+  {
+   "global_index": 677,
+   "section": "07",
+   "index": 9,
+   "word": "enclosures",
+   "start_s": 272.333,
+   "end_s": 273.053
+  },
+  {
+   "global_index": 678,
+   "section": "07",
+   "index": 10,
+   "word": "date",
+   "start_s": 273.133,
+   "end_s": 273.293
+  },
+  {
+   "global_index": 679,
+   "section": "07",
+   "index": 11,
+   "word": "to",
+   "start_s": 273.373,
+   "end_s": 273.453
+  },
+  {
+   "global_index": 680,
+   "section": "07",
+   "index": 12,
+   "word": "roughly",
+   "start_s": 273.573,
+   "end_s": 273.933
+  },
+  {
+   "global_index": 681,
+   "section": "07",
+   "index": 13,
+   "word": "ninety-six",
+   "start_s": 274.013,
+   "end_s": 274.493
+  },
+  {
+   "global_index": 682,
+   "section": "07",
+   "index": 14,
+   "word": "hundred",
+   "start_s": 274.573,
+   "end_s": 274.893
+  },
+  {
+   "global_index": 683,
+   "section": "07",
+   "index": 15,
+   "word": "to",
+   "start_s": 274.973,
+   "end_s": 275.133
+  },
+  {
+   "global_index": 684,
+   "section": "07",
+   "index": 16,
+   "word": "eighty-two",
+   "start_s": 275.213,
+   "end_s": 275.693
+  },
+  {
+   "global_index": 685,
+   "section": "07",
+   "index": 17,
+   "word": "hundred",
+   "start_s": 275.773,
+   "end_s": 276.093
+  },
+  {
+   "global_index": 686,
+   "section": "07",
+   "index": 18,
+   "word": "B.C.E.,",
+   "start_s": 276.173,
+   "end_s": 277.253
+  },
+  {
+   "global_index": 687,
+   "section": "07",
+   "index": 19,
+   "word": "around",
+   "start_s": 277.293,
+   "end_s": 277.693
+  },
+  {
+   "global_index": 688,
+   "section": "07",
+   "index": 20,
+   "word": "seven",
+   "start_s": 277.853,
+   "end_s": 278.013
+  },
+  {
+   "global_index": 689,
+   "section": "07",
+   "index": 21,
+   "word": "thousand",
+   "start_s": 278.093,
+   "end_s": 278.493
+  },
+  {
+   "global_index": 690,
+   "section": "07",
+   "index": 22,
+   "word": "years",
+   "start_s": 278.573,
+   "end_s": 278.893
+  },
+  {
+   "global_index": 691,
+   "section": "07",
+   "index": 23,
+   "word": "before",
+   "start_s": 279.133,
+   "end_s": 279.373
+  },
+  {
+   "global_index": 692,
+   "section": "07",
+   "index": 24,
+   "word": "the",
+   "start_s": 279.453,
+   "end_s": 279.533
+  },
+  {
+   "global_index": 693,
+   "section": "07",
+   "index": 25,
+   "word": "Great",
+   "start_s": 279.653,
+   "end_s": 279.773
+  },
+  {
+   "global_index": 694,
+   "section": "07",
+   "index": 26,
+   "word": "Pyramid.",
+   "start_s": 279.853,
+   "end_s": 280.733
+  },
+  {
+   "global_index": 695,
+   "section": "07",
+   "index": 27,
+   "word": "Giant",
+   "start_s": 280.813,
+   "end_s": 281.293
+  },
+  {
+   "global_index": 696,
+   "section": "07",
+   "index": 28,
+   "word": "T-shaped",
+   "start_s": 281.373,
+   "end_s": 281.933
+  },
+  {
+   "global_index": 697,
+   "section": "07",
+   "index": 29,
+   "word": "limestone",
+   "start_s": 282.013,
+   "end_s": 282.573
+  },
+  {
+   "global_index": 698,
+   "section": "07",
+   "index": 30,
+   "word": "pillars,",
+   "start_s": 282.693,
+   "end_s": 283.253
+  },
+  {
+   "global_index": 699,
+   "section": "07",
+   "index": 31,
+   "word": "some",
+   "start_s": 283.293,
+   "end_s": 283.453
+  },
+  {
+   "global_index": 700,
+   "section": "07",
+   "index": 32,
+   "word": "over",
+   "start_s": 283.533,
+   "end_s": 283.853
+  },
+  {
+   "global_index": 701,
+   "section": "07",
+   "index": 33,
+   "word": "five",
+   "start_s": 284.013,
+   "end_s": 284.173
+  },
+  {
+   "global_index": 702,
+   "section": "07",
+   "index": 34,
+   "word": "metres",
+   "start_s": 284.253,
+   "end_s": 284.573
+  },
+  {
+   "global_index": 703,
+   "section": "07",
+   "index": 35,
+   "word": "tall,",
+   "start_s": 284.613,
+   "end_s": 285.253
+  },
+  {
+   "global_index": 704,
+   "section": "07",
+   "index": 36,
+   "word": "stand",
+   "start_s": 285.293,
+   "end_s": 285.533
+  },
+  {
+   "global_index": 705,
+   "section": "07",
+   "index": 37,
+   "word": "in",
+   "start_s": 285.613,
+   "end_s": 285.773
+  },
+  {
+   "global_index": 706,
+   "section": "07",
+   "index": 38,
+   "word": "rings,",
+   "start_s": 285.853,
+   "end_s": 286.453
+  },
+  {
+   "global_index": 707,
+   "section": "07",
+   "index": 39,
+   "word": "carved",
+   "start_s": 286.493,
+   "end_s": 286.813
+  },
+  {
+   "global_index": 708,
+   "section": "07",
+   "index": 40,
+   "word": "with",
+   "start_s": 286.933,
+   "end_s": 287.053
+  },
+  {
+   "global_index": 709,
+   "section": "07",
+   "index": 41,
+   "word": "foxes,",
+   "start_s": 287.213,
+   "end_s": 287.813
+  },
+  {
+   "global_index": 710,
+   "section": "07",
+   "index": 42,
+   "word": "boars,",
+   "start_s": 287.853,
+   "end_s": 288.453
+  },
+  {
+   "global_index": 711,
+   "section": "07",
+   "index": 43,
+   "word": "snakes",
+   "start_s": 288.493,
+   "end_s": 289.053
+  },
+  {
+   "global_index": 712,
+   "section": "07",
+   "index": 44,
+   "word": "and",
+   "start_s": 289.133,
+   "end_s": 289.213
+  },
+  {
+   "global_index": 713,
+   "section": "07",
+   "index": 45,
+   "word": "vultures.",
+   "start_s": 289.253,
+   "end_s": 290.093
+  },
+  {
+   "global_index": 714,
+   "section": "07",
+   "index": 46,
+   "word": "Some",
+   "start_s": 290.173,
+   "end_s": 290.493
+  },
+  {
+   "global_index": 715,
+   "section": "07",
+   "index": 47,
+   "word": "even",
+   "start_s": 290.573,
+   "end_s": 290.733
+  },
+  {
+   "global_index": 716,
+   "section": "07",
+   "index": 48,
+   "word": "have",
+   "start_s": 290.813,
+   "end_s": 290.973
+  },
+  {
+   "global_index": 717,
+   "section": "07",
+   "index": 49,
+   "word": "arms",
+   "start_s": 291.133,
+   "end_s": 291.373
+  },
+  {
+   "global_index": 718,
+   "section": "07",
+   "index": 50,
+   "word": "and",
+   "start_s": 291.453,
+   "end_s": 291.613
+  },
+  {
+   "global_index": 719,
+   "section": "07",
+   "index": 51,
+   "word": "hands.",
+   "start_s": 292.053,
+   "end_s": 292.546
+  },
+  {
+   "global_index": 720,
+   "section": "07",
+   "index": 52,
+   "word": "The",
+   "start_s": 292.6,
+   "end_s": 292.653
+  },
+  {
+   "global_index": 721,
+   "section": "07",
+   "index": 53,
+   "word": "builders",
+   "start_s": 292.853,
+   "end_s": 293.053
+  },
+  {
+   "global_index": 722,
+   "section": "07",
+   "index": 54,
+   "word": "were",
+   "start_s": 293.133,
+   "end_s": 293.293
+  },
+  {
+   "global_index": 723,
+   "section": "07",
+   "index": 55,
+   "word": "hunter-gatherer",
+   "start_s": 293.373,
+   "end_s": 294.173
+  },
+  {
+   "global_index": 724,
+   "section": "07",
+   "index": 56,
+   "word": "communities,",
+   "start_s": 294.253,
+   "end_s": 295.106
+  },
+  {
+   "global_index": 725,
+   "section": "07",
+   "index": 57,
+   "word": "before",
+   "start_s": 295.24,
+   "end_s": 295.373
+  },
+  {
+   "global_index": 726,
+   "section": "07",
+   "index": 58,
+   "word": "fully",
+   "start_s": 295.493,
+   "end_s": 295.613
+  },
+  {
+   "global_index": 727,
+   "section": "07",
+   "index": 59,
+   "word": "established",
+   "start_s": 295.693,
+   "end_s": 296.253
+  },
+  {
+   "global_index": 728,
+   "section": "07",
+   "index": 60,
+   "word": "farming",
+   "start_s": 296.333,
+   "end_s": 296.573
+  },
+  {
+   "global_index": 729,
+   "section": "07",
+   "index": 61,
+   "word": "in",
+   "start_s": 296.653,
+   "end_s": 296.733
+  },
+  {
+   "global_index": 730,
+   "section": "07",
+   "index": 62,
+   "word": "the",
+   "start_s": 296.773,
+   "end_s": 296.813
+  },
+  {
+   "global_index": 731,
+   "section": "07",
+   "index": 63,
+   "word": "region.",
+   "start_s": 297.173,
+   "end_s": 297.573
+  },
+  {
+   "global_index": 732,
+   "section": "07",
+   "index": 64,
+   "word": "They",
+   "start_s": 297.613,
+   "end_s": 297.773
+  },
+  {
+   "global_index": 733,
+   "section": "07",
+   "index": 65,
+   "word": "quarried",
+   "start_s": 297.813,
+   "end_s": 298.093
+  },
+  {
+   "global_index": 734,
+   "section": "07",
+   "index": 66,
+   "word": "the",
+   "start_s": 298.173,
+   "end_s": 298.253
+  },
+  {
+   "global_index": 735,
+   "section": "07",
+   "index": 67,
+   "word": "pillars",
+   "start_s": 298.333,
+   "end_s": 298.653
+  },
+  {
+   "global_index": 736,
+   "section": "07",
+   "index": 68,
+   "word": "with",
+   "start_s": 298.733,
+   "end_s": 298.893
+  },
+  {
+   "global_index": 737,
+   "section": "07",
+   "index": 69,
+   "word": "stone",
+   "start_s": 298.973,
+   "end_s": 299.293
+  },
+  {
+   "global_index": 738,
+   "section": "07",
+   "index": 70,
+   "word": "tools.",
+   "start_s": 299.373,
+   "end_s": 300.213
+  },
+  {
+   "global_index": 739,
+   "section": "07",
+   "index": 71,
+   "word": "One",
+   "start_s": 300.253,
+   "end_s": 300.493
+  },
+  {
+   "global_index": 740,
+   "section": "07",
+   "index": 72,
+   "word": "unfinished",
+   "start_s": 300.573,
+   "end_s": 301.053
+  },
+  {
+   "global_index": 741,
+   "section": "07",
+   "index": 73,
+   "word": "pillar",
+   "start_s": 301.133,
+   "end_s": 301.453
+  },
+  {
+   "global_index": 742,
+   "section": "07",
+   "index": 74,
+   "word": "still",
+   "start_s": 301.613,
+   "end_s": 301.853
+  },
+  {
+   "global_index": 743,
+   "section": "07",
+   "index": 75,
+   "word": "lies",
+   "start_s": 302.013,
+   "end_s": 302.173
+  },
+  {
+   "global_index": 744,
+   "section": "07",
+   "index": 76,
+   "word": "in",
+   "start_s": 302.253,
+   "end_s": 302.333
+  },
+  {
+   "global_index": 745,
+   "section": "07",
+   "index": 77,
+   "word": "the",
+   "start_s": 302.373,
+   "end_s": 302.413
+  },
+  {
+   "global_index": 746,
+   "section": "07",
+   "index": 78,
+   "word": "bedrock.",
+   "start_s": 302.533,
+   "end_s": 303.373
+  },
+  {
+   "global_index": 747,
+   "section": "07",
+   "index": 79,
+   "word": "Why",
+   "start_s": 303.493,
+   "end_s": 303.613
+  },
+  {
+   "global_index": 748,
+   "section": "07",
+   "index": 80,
+   "word": "build",
+   "start_s": 303.733,
+   "end_s": 303.853
+  },
+  {
+   "global_index": 749,
+   "section": "07",
+   "index": 81,
+   "word": "it?",
+   "start_s": 304.133,
+   "end_s": 304.453
+  },
+  {
+   "global_index": 750,
+   "section": "07",
+   "index": 82,
+   "word": "Ritual",
+   "start_s": 304.493,
+   "end_s": 304.973
+  },
+  {
+   "global_index": 751,
+   "section": "07",
+   "index": 83,
+   "word": "and",
+   "start_s": 305.053,
+   "end_s": 305.133
+  },
+  {
+   "global_index": 752,
+   "section": "07",
+   "index": 84,
+   "word": "communal",
+   "start_s": 305.253,
+   "end_s": 305.613
+  },
+  {
+   "global_index": 753,
+   "section": "07",
+   "index": 85,
+   "word": "gathering",
+   "start_s": 305.693,
+   "end_s": 306.093
+  },
+  {
+   "global_index": 754,
+   "section": "07",
+   "index": 86,
+   "word": "are",
+   "start_s": 306.173,
+   "end_s": 306.253
+  },
+  {
+   "global_index": 755,
+   "section": "07",
+   "index": 87,
+   "word": "the",
+   "start_s": 306.333,
+   "end_s": 306.413
+  },
+  {
+   "global_index": 756,
+   "section": "07",
+   "index": 88,
+   "word": "leading",
+   "start_s": 306.533,
+   "end_s": 306.653
+  },
+  {
+   "global_index": 757,
+   "section": "07",
+   "index": 89,
+   "word": "interpretations,",
+   "start_s": 306.733,
+   "end_s": 307.893
+  },
+  {
+   "global_index": 758,
+   "section": "07",
+   "index": 90,
+   "word": "but",
+   "start_s": 307.933,
+   "end_s": 308.093
+  },
+  {
+   "global_index": 759,
+   "section": "07",
+   "index": 91,
+   "word": "the",
+   "start_s": 308.173,
+   "end_s": 308.253
+  },
+  {
+   "global_index": 760,
+   "section": "07",
+   "index": 92,
+   "word": "debate",
+   "start_s": 308.373,
+   "end_s": 308.653
+  },
+  {
+   "global_index": 761,
+   "section": "07",
+   "index": 93,
+   "word": "is",
+   "start_s": 308.693,
+   "end_s": 308.733
+  },
+  {
+   "global_index": 762,
+   "section": "07",
+   "index": 94,
+   "word": "open.",
+   "start_s": 308.813,
+   "end_s": 309.493
+  },
+  {
+   "global_index": 763,
+   "section": "07",
+   "index": 95,
+   "word": "Some",
+   "start_s": 309.533,
+   "end_s": 309.693
+  },
+  {
+   "global_index": 764,
+   "section": "07",
+   "index": 96,
+   "word": "researchers",
+   "start_s": 309.773,
+   "end_s": 310.333
+  },
+  {
+   "global_index": 765,
+   "section": "07",
+   "index": 97,
+   "word": "even",
+   "start_s": 310.413,
+   "end_s": 310.653
+  },
+  {
+   "global_index": 766,
+   "section": "07",
+   "index": 98,
+   "word": "suggest",
+   "start_s": 310.893,
+   "end_s": 311.133
+  },
+  {
+   "global_index": 767,
+   "section": "07",
+   "index": 99,
+   "word": "gatherings",
+   "start_s": 311.293,
+   "end_s": 311.613
+  },
+  {
+   "global_index": 768,
+   "section": "07",
+   "index": 100,
+   "word": "like",
+   "start_s": 311.693,
+   "end_s": 311.853
+  },
+  {
+   "global_index": 769,
+   "section": "07",
+   "index": 101,
+   "word": "these",
+   "start_s": 311.933,
+   "end_s": 312.333
+  },
+  {
+   "global_index": 770,
+   "section": "07",
+   "index": 102,
+   "word": "helped",
+   "start_s": 312.413,
+   "end_s": 312.733
+  },
+  {
+   "global_index": 771,
+   "section": "07",
+   "index": 103,
+   "word": "push",
+   "start_s": 312.813,
+   "end_s": 313.053
+  },
+  {
+   "global_index": 772,
+   "section": "07",
+   "index": 104,
+   "word": "people",
+   "start_s": 313.213,
+   "end_s": 313.373
+  },
+  {
+   "global_index": 773,
+   "section": "07",
+   "index": 105,
+   "word": "toward",
+   "start_s": 313.453,
+   "end_s": 313.773
+  },
+  {
+   "global_index": 774,
+   "section": "07",
+   "index": 106,
+   "word": "farming.",
+   "start_s": 313.813,
+   "end_s": 314.533
+  },
+  {
+   "global_index": 775,
+   "section": "07",
+   "index": 107,
+   "word": "Göbekli",
+   "start_s": 314.573,
+   "end_s": 315.053
+  },
+  {
+   "global_index": 776,
+   "section": "07",
+   "index": 108,
+   "word": "Tepe",
+   "start_s": 315.133,
+   "end_s": 315.533
+  },
+  {
+   "global_index": 777,
+   "section": "07",
+   "index": 109,
+   "word": "shows",
+   "start_s": 315.613,
+   "end_s": 315.933
+  },
+  {
+   "global_index": 778,
+   "section": "07",
+   "index": 110,
+   "word": "ambition.",
+   "start_s": 316.013,
+   "end_s": 316.933
+  },
+  {
+   "global_index": 779,
+   "section": "07",
+   "index": 111,
+   "word": "The",
+   "start_s": 316.973,
+   "end_s": 317.053
+  },
+  {
+   "global_index": 780,
+   "section": "07",
+   "index": 112,
+   "word": "next",
+   "start_s": 317.133,
+   "end_s": 317.293
+  },
+  {
+   "global_index": 781,
+   "section": "07",
+   "index": 113,
+   "word": "site",
+   "start_s": 317.373,
+   "end_s": 317.693
+  },
+  {
+   "global_index": 782,
+   "section": "07",
+   "index": 114,
+   "word": "shows",
+   "start_s": 317.853,
+   "end_s": 318.013
+  },
+  {
+   "global_index": 783,
+   "section": "07",
+   "index": 115,
+   "word": "precision,",
+   "start_s": 318.493,
+   "end_s": 319.013
+  },
+  {
+   "global_index": 784,
+   "section": "07",
+   "index": 116,
+   "word": "and",
+   "start_s": 319.053,
+   "end_s": 319.453
+  },
+  {
+   "global_index": 785,
+   "section": "07",
+   "index": 117,
+   "word": "more",
+   "start_s": 319.533,
+   "end_s": 319.773
+  },
+  {
+   "global_index": 786,
+   "section": "07",
+   "index": 118,
+   "word": "wild",
+   "start_s": 319.853,
+   "end_s": 320.173
+  },
+  {
+   "global_index": 787,
+   "section": "07",
+   "index": 119,
+   "word": "theories",
+   "start_s": 320.253,
+   "end_s": 320.653
+  },
+  {
+   "global_index": 788,
+   "section": "07",
+   "index": 120,
+   "word": "than",
+   "start_s": 320.733,
+   "end_s": 320.813
+  },
+  {
+   "global_index": 789,
+   "section": "07",
+   "index": 121,
+   "word": "almost",
+   "start_s": 321.053,
+   "end_s": 321.293
+  },
+  {
+   "global_index": 790,
+   "section": "07",
+   "index": 122,
+   "word": "anywhere",
+   "start_s": 321.373,
+   "end_s": 321.773
+  },
+  {
+   "global_index": 791,
+   "section": "07",
+   "index": 123,
+   "word": "on",
+   "start_s": 321.853,
+   "end_s": 321.933
+  },
+  {
+   "global_index": 792,
+   "section": "07",
+   "index": 124,
+   "word": "Earth.",
+   "start_s": 322.013,
+   "end_s": 322.362
+  },
+  {
+   "global_index": 793,
+   "section": "08",
+   "index": 0,
+   "word": "Number",
+   "start_s": 322.962,
+   "end_s": 323.202
+  },
+  {
+   "global_index": 794,
+   "section": "08",
+   "index": 1,
+   "word": "four:",
+   "start_s": 323.362,
+   "end_s": 324.082
+  },
+  {
+   "global_index": 795,
+   "section": "08",
+   "index": 2,
+   "word": "Puma",
+   "start_s": 324.162,
+   "end_s": 324.442
+  },
+  {
+   "global_index": 796,
+   "section": "08",
+   "index": 3,
+   "word": "Punku,",
+   "start_s": 324.562,
+   "end_s": 325.362
+  },
+  {
+   "global_index": 797,
+   "section": "08",
+   "index": 4,
+   "word": "part",
+   "start_s": 325.442,
+   "end_s": 325.522
+  },
+  {
+   "global_index": 798,
+   "section": "08",
+   "index": 5,
+   "word": "of",
+   "start_s": 325.562,
+   "end_s": 325.602
+  },
+  {
+   "global_index": 799,
+   "section": "08",
+   "index": 6,
+   "word": "the",
+   "start_s": 325.682,
+   "end_s": 325.762
+  },
+  {
+   "global_index": 800,
+   "section": "08",
+   "index": 7,
+   "word": "larger",
+   "start_s": 325.842,
+   "end_s": 326.242
+  },
+  {
+   "global_index": 801,
+   "section": "08",
+   "index": 8,
+   "word": "Tiwanaku",
+   "start_s": 326.322,
+   "end_s": 327.042
+  },
+  {
+   "global_index": 802,
+   "section": "08",
+   "index": 9,
+   "word": "complex",
+   "start_s": 327.122,
+   "end_s": 327.682
+  },
+  {
+   "global_index": 803,
+   "section": "08",
+   "index": 10,
+   "word": "near",
+   "start_s": 327.762,
+   "end_s": 327.922
+  },
+  {
+   "global_index": 804,
+   "section": "08",
+   "index": 11,
+   "word": "Lake",
+   "start_s": 328.042,
+   "end_s": 328.162
+  },
+  {
+   "global_index": 805,
+   "section": "08",
+   "index": 12,
+   "word": "Titicaca,",
+   "start_s": 328.242,
+   "end_s": 328.922
+  },
+  {
+   "global_index": 806,
+   "section": "08",
+   "index": 13,
+   "word": "in",
+   "start_s": 328.962,
+   "end_s": 329.042
+  },
+  {
+   "global_index": 807,
+   "section": "08",
+   "index": 14,
+   "word": "Bolivia.",
+   "start_s": 329.122,
+   "end_s": 330.162
+  },
+  {
+   "global_index": 808,
+   "section": "08",
+   "index": 15,
+   "word": "Its",
+   "start_s": 330.242,
+   "end_s": 330.322
+  },
+  {
+   "global_index": 809,
+   "section": "08",
+   "index": 16,
+   "word": "stones",
+   "start_s": 330.402,
+   "end_s": 330.882
+  },
+  {
+   "global_index": 810,
+   "section": "08",
+   "index": 17,
+   "word": "now",
+   "start_s": 330.962,
+   "end_s": 331.122
+  },
+  {
+   "global_index": 811,
+   "section": "08",
+   "index": 18,
+   "word": "lie",
+   "start_s": 331.202,
+   "end_s": 331.442
+  },
+  {
+   "global_index": 812,
+   "section": "08",
+   "index": 19,
+   "word": "toppled.",
+   "start_s": 331.522,
+   "end_s": 332.375
+  },
+  {
+   "global_index": 813,
+   "section": "08",
+   "index": 20,
+   "word": "But",
+   "start_s": 332.429,
+   "end_s": 332.482
+  },
+  {
+   "global_index": 814,
+   "section": "08",
+   "index": 21,
+   "word": "look",
+   "start_s": 332.602,
+   "end_s": 332.722
+  },
+  {
+   "global_index": 815,
+   "section": "08",
+   "index": 22,
+   "word": "closely:",
+   "start_s": 332.762,
+   "end_s": 333.709
+  },
+  {
+   "global_index": 816,
+   "section": "08",
+   "index": 23,
+   "word": "flat",
+   "start_s": 333.815,
+   "end_s": 333.922
+  },
+  {
+   "global_index": 817,
+   "section": "08",
+   "index": 24,
+   "word": "faces,",
+   "start_s": 334.362,
+   "end_s": 334.855
+  },
+  {
+   "global_index": 818,
+   "section": "08",
+   "index": 25,
+   "word": "crisp",
+   "start_s": 334.909,
+   "end_s": 335.122
+  },
+  {
+   "global_index": 819,
+   "section": "08",
+   "index": 26,
+   "word": "interior",
+   "start_s": 335.202,
+   "end_s": 335.762
+  },
+  {
+   "global_index": 820,
+   "section": "08",
+   "index": 27,
+   "word": "angles,",
+   "start_s": 335.842,
+   "end_s": 336.522
+  },
+  {
+   "global_index": 821,
+   "section": "08",
+   "index": 28,
+   "word": "and",
+   "start_s": 336.562,
+   "end_s": 336.642
+  },
+  {
+   "global_index": 822,
+   "section": "08",
+   "index": 29,
+   "word": "the",
+   "start_s": 336.722,
+   "end_s": 336.802
+  },
+  {
+   "global_index": 823,
+   "section": "08",
+   "index": 30,
+   "word": "famous",
+   "start_s": 336.842,
+   "end_s": 337.282
+  },
+  {
+   "global_index": 824,
+   "section": "08",
+   "index": 31,
+   "word": "H-shaped",
+   "start_s": 337.522,
+   "end_s": 337.922
+  },
+  {
+   "global_index": 825,
+   "section": "08",
+   "index": 32,
+   "word": "blocks,",
+   "start_s": 338.002,
+   "end_s": 338.775
+  },
+  {
+   "global_index": 826,
+   "section": "08",
+   "index": 33,
+   "word": "repeated",
+   "start_s": 338.829,
+   "end_s": 339.202
+  },
+  {
+   "global_index": 827,
+   "section": "08",
+   "index": 34,
+   "word": "so",
+   "start_s": 339.282,
+   "end_s": 339.442
+  },
+  {
+   "global_index": 828,
+   "section": "08",
+   "index": 35,
+   "word": "consistently",
+   "start_s": 339.522,
+   "end_s": 340.402
+  },
+  {
+   "global_index": 829,
+   "section": "08",
+   "index": 36,
+   "word": "they",
+   "start_s": 340.482,
+   "end_s": 340.562
+  },
+  {
+   "global_index": 830,
+   "section": "08",
+   "index": 37,
+   "word": "look",
+   "start_s": 340.642,
+   "end_s": 340.722
+  },
+  {
+   "global_index": 831,
+   "section": "08",
+   "index": 38,
+   "word": "standardised.",
+   "start_s": 340.802,
+   "end_s": 342.029
+  },
+  {
+   "global_index": 832,
+   "section": "08",
+   "index": 39,
+   "word": "It's",
+   "start_s": 342.055,
+   "end_s": 342.242
+  },
+  {
+   "global_index": 833,
+   "section": "08",
+   "index": 40,
+   "word": "tempting",
+   "start_s": 342.402,
+   "end_s": 342.642
+  },
+  {
+   "global_index": 834,
+   "section": "08",
+   "index": 41,
+   "word": "to",
+   "start_s": 342.722,
+   "end_s": 342.802
+  },
+  {
+   "global_index": 835,
+   "section": "08",
+   "index": 42,
+   "word": "jump",
+   "start_s": 342.882,
+   "end_s": 343.042
+  },
+  {
+   "global_index": 836,
+   "section": "08",
+   "index": 43,
+   "word": "to",
+   "start_s": 343.122,
+   "end_s": 343.202
+  },
+  {
+   "global_index": 837,
+   "section": "08",
+   "index": 44,
+   "word": "lasers.",
+   "start_s": 343.322,
+   "end_s": 344.122
+  },
+  {
+   "global_index": 838,
+   "section": "08",
+   "index": 45,
+   "word": "The",
+   "start_s": 344.162,
+   "end_s": 344.242
+  },
+  {
+   "global_index": 839,
+   "section": "08",
+   "index": 46,
+   "word": "evidence",
+   "start_s": 344.322,
+   "end_s": 344.882
+  },
+  {
+   "global_index": 840,
+   "section": "08",
+   "index": 47,
+   "word": "points",
+   "start_s": 345.042,
+   "end_s": 345.202
+  },
+  {
+   "global_index": 841,
+   "section": "08",
+   "index": 48,
+   "word": "elsewhere.",
+   "start_s": 345.282,
+   "end_s": 346.202
+  },
+  {
+   "global_index": 842,
+   "section": "08",
+   "index": 49,
+   "word": "The",
+   "start_s": 346.242,
+   "end_s": 346.322
+  },
+  {
+   "global_index": 843,
+   "section": "08",
+   "index": 50,
+   "word": "largest",
+   "start_s": 346.402,
+   "end_s": 346.802
+  },
+  {
+   "global_index": 844,
+   "section": "08",
+   "index": 51,
+   "word": "slabs",
+   "start_s": 346.882,
+   "end_s": 347.202
+  },
+  {
+   "global_index": 845,
+   "section": "08",
+   "index": 52,
+   "word": "are",
+   "start_s": 347.282,
+   "end_s": 347.442
+  },
+  {
+   "global_index": 846,
+   "section": "08",
+   "index": 53,
+   "word": "red",
+   "start_s": 347.602,
+   "end_s": 347.762
+  },
+  {
+   "global_index": 847,
+   "section": "08",
+   "index": 54,
+   "word": "sandstone,",
+   "start_s": 347.922,
+   "end_s": 348.602
+  },
+  {
+   "global_index": 848,
+   "section": "08",
+   "index": 55,
+   "word": "traced",
+   "start_s": 348.642,
+   "end_s": 348.882
+  },
+  {
+   "global_index": 849,
+   "section": "08",
+   "index": 56,
+   "word": "to",
+   "start_s": 348.962,
+   "end_s": 349.042
+  },
+  {
+   "global_index": 850,
+   "section": "08",
+   "index": 57,
+   "word": "a",
+   "start_s": 349.082,
+   "end_s": 349.122
+  },
+  {
+   "global_index": 851,
+   "section": "08",
+   "index": 58,
+   "word": "quarry",
+   "start_s": 349.202,
+   "end_s": 349.522
+  },
+  {
+   "global_index": 852,
+   "section": "08",
+   "index": 59,
+   "word": "about",
+   "start_s": 349.602,
+   "end_s": 349.922
+  },
+  {
+   "global_index": 853,
+   "section": "08",
+   "index": 60,
+   "word": "ten",
+   "start_s": 350.002,
+   "end_s": 350.082
+  },
+  {
+   "global_index": 854,
+   "section": "08",
+   "index": 61,
+   "word": "kilometres",
+   "start_s": 350.162,
+   "end_s": 350.642
+  },
+  {
+   "global_index": 855,
+   "section": "08",
+   "index": 62,
+   "word": "away.",
+   "start_s": 350.722,
+   "end_s": 351.482
+  },
+  {
+   "global_index": 856,
+   "section": "08",
+   "index": 63,
+   "word": "Andesite",
+   "start_s": 351.522,
+   "end_s": 352.162
+  },
+  {
+   "global_index": 857,
+   "section": "08",
+   "index": 64,
+   "word": "came",
+   "start_s": 352.282,
+   "end_s": 352.402
+  },
+  {
+   "global_index": 858,
+   "section": "08",
+   "index": 65,
+   "word": "from",
+   "start_s": 352.482,
+   "end_s": 352.562
+  },
+  {
+   "global_index": 859,
+   "section": "08",
+   "index": 66,
+   "word": "volcanic",
+   "start_s": 352.682,
+   "end_s": 353.122
+  },
+  {
+   "global_index": 860,
+   "section": "08",
+   "index": 67,
+   "word": "sources",
+   "start_s": 353.202,
+   "end_s": 353.602
+  },
+  {
+   "global_index": 861,
+   "section": "08",
+   "index": 68,
+   "word": "across",
+   "start_s": 353.762,
+   "end_s": 354.082
+  },
+  {
+   "global_index": 862,
+   "section": "08",
+   "index": 69,
+   "word": "the",
+   "start_s": 354.162,
+   "end_s": 354.242
+  },
+  {
+   "global_index": 863,
+   "section": "08",
+   "index": 70,
+   "word": "lake.",
+   "start_s": 354.562,
+   "end_s": 354.962
+  },
+  {
+   "global_index": 864,
+   "section": "08",
+   "index": 71,
+   "word": "Researchers",
+   "start_s": 355.042,
+   "end_s": 355.522
+  },
+  {
+   "global_index": 865,
+   "section": "08",
+   "index": 72,
+   "word": "have",
+   "start_s": 355.602,
+   "end_s": 355.682
+  },
+  {
+   "global_index": 866,
+   "section": "08",
+   "index": 73,
+   "word": "found",
+   "start_s": 355.762,
+   "end_s": 356.002
+  },
+  {
+   "global_index": 867,
+   "section": "08",
+   "index": 74,
+   "word": "hammerstones",
+   "start_s": 356.082,
+   "end_s": 356.802
+  },
+  {
+   "global_index": 868,
+   "section": "08",
+   "index": 75,
+   "word": "and",
+   "start_s": 356.882,
+   "end_s": 357.042
+  },
+  {
+   "global_index": 869,
+   "section": "08",
+   "index": 76,
+   "word": "studied",
+   "start_s": 357.122,
+   "end_s": 357.442
+  },
+  {
+   "global_index": 870,
+   "section": "08",
+   "index": 77,
+   "word": "tool",
+   "start_s": 357.562,
+   "end_s": 357.682
+  },
+  {
+   "global_index": 871,
+   "section": "08",
+   "index": 78,
+   "word": "marks",
+   "start_s": 357.762,
+   "end_s": 358.082
+  },
+  {
+   "global_index": 872,
+   "section": "08",
+   "index": 79,
+   "word": "consistent",
+   "start_s": 358.162,
+   "end_s": 358.722
+  },
+  {
+   "global_index": 873,
+   "section": "08",
+   "index": 80,
+   "word": "with",
+   "start_s": 358.842,
+   "end_s": 358.962
+  },
+  {
+   "global_index": 874,
+   "section": "08",
+   "index": 81,
+   "word": "pecking,",
+   "start_s": 359.002,
+   "end_s": 359.642
+  },
+  {
+   "global_index": 875,
+   "section": "08",
+   "index": 82,
+   "word": "grinding",
+   "start_s": 359.682,
+   "end_s": 360.162
+  },
+  {
+   "global_index": 876,
+   "section": "08",
+   "index": 83,
+   "word": "and",
+   "start_s": 360.242,
+   "end_s": 360.322
+  },
+  {
+   "global_index": 877,
+   "section": "08",
+   "index": 84,
+   "word": "polishing.",
+   "start_s": 360.442,
+   "end_s": 361.389
+  },
+  {
+   "global_index": 878,
+   "section": "08",
+   "index": 85,
+   "word": "Repeated",
+   "start_s": 361.575,
+   "end_s": 361.762
+  },
+  {
+   "global_index": 879,
+   "section": "08",
+   "index": 86,
+   "word": "shapes",
+   "start_s": 361.962,
+   "end_s": 362.162
+  },
+  {
+   "global_index": 880,
+   "section": "08",
+   "index": 87,
+   "word": "suggest",
+   "start_s": 362.402,
+   "end_s": 362.642
+  },
+  {
+   "global_index": 881,
+   "section": "08",
+   "index": 88,
+   "word": "templates",
+   "start_s": 362.922,
+   "end_s": 363.202
+  },
+  {
+   "global_index": 882,
+   "section": "08",
+   "index": 89,
+   "word": "and",
+   "start_s": 363.282,
+   "end_s": 363.442
+  },
+  {
+   "global_index": 883,
+   "section": "08",
+   "index": 90,
+   "word": "skilled",
+   "start_s": 363.522,
+   "end_s": 363.842
+  },
+  {
+   "global_index": 884,
+   "section": "08",
+   "index": 91,
+   "word": "specialists.",
+   "start_s": 363.922,
+   "end_s": 365.002
+  },
+  {
+   "global_index": 885,
+   "section": "08",
+   "index": 92,
+   "word": "What's",
+   "start_s": 365.042,
+   "end_s": 365.282
+  },
+  {
+   "global_index": 886,
+   "section": "08",
+   "index": 93,
+   "word": "uncertain",
+   "start_s": 365.362,
+   "end_s": 366.002
+  },
+  {
+   "global_index": 887,
+   "section": "08",
+   "index": 94,
+   "word": "is",
+   "start_s": 366.082,
+   "end_s": 366.162
+  },
+  {
+   "global_index": 888,
+   "section": "08",
+   "index": 95,
+   "word": "exactly",
+   "start_s": 366.282,
+   "end_s": 366.802
+  },
+  {
+   "global_index": 889,
+   "section": "08",
+   "index": 96,
+   "word": "how",
+   "start_s": 366.882,
+   "end_s": 367.122
+  },
+  {
+   "global_index": 890,
+   "section": "08",
+   "index": 97,
+   "word": "such",
+   "start_s": 367.242,
+   "end_s": 367.362
+  },
+  {
+   "global_index": 891,
+   "section": "08",
+   "index": 98,
+   "word": "consistent",
+   "start_s": 367.682,
+   "end_s": 368.002
+  },
+  {
+   "global_index": 892,
+   "section": "08",
+   "index": 99,
+   "word": "angles",
+   "start_s": 368.082,
+   "end_s": 368.402
+  },
+  {
+   "global_index": 893,
+   "section": "08",
+   "index": 100,
+   "word": "were",
+   "start_s": 368.442,
+   "end_s": 368.482
+  },
+  {
+   "global_index": 894,
+   "section": "08",
+   "index": 101,
+   "word": "achieved,",
+   "start_s": 368.562,
+   "end_s": 369.322
+  },
+  {
+   "global_index": 895,
+   "section": "08",
+   "index": 102,
+   "word": "and",
+   "start_s": 369.362,
+   "end_s": 369.522
+  },
+  {
+   "global_index": 896,
+   "section": "08",
+   "index": 103,
+   "word": "how",
+   "start_s": 369.602,
+   "end_s": 369.682
+  },
+  {
+   "global_index": 897,
+   "section": "08",
+   "index": 104,
+   "word": "the",
+   "start_s": 369.762,
+   "end_s": 369.842
+  },
+  {
+   "global_index": 898,
+   "section": "08",
+   "index": 105,
+   "word": "complex",
+   "start_s": 370.082,
+   "end_s": 370.322
+  },
+  {
+   "global_index": 899,
+   "section": "08",
+   "index": 106,
+   "word": "looked",
+   "start_s": 370.482,
+   "end_s": 370.802
+  },
+  {
+   "global_index": 900,
+   "section": "08",
+   "index": 107,
+   "word": "before",
+   "start_s": 371.002,
+   "end_s": 371.202
+  },
+  {
+   "global_index": 901,
+   "section": "08",
+   "index": 108,
+   "word": "collapse",
+   "start_s": 371.282,
+   "end_s": 371.762
+  },
+  {
+   "global_index": 902,
+   "section": "08",
+   "index": 109,
+   "word": "and",
+   "start_s": 371.842,
+   "end_s": 371.922
+  },
+  {
+   "global_index": 903,
+   "section": "08",
+   "index": 110,
+   "word": "looting.",
+   "start_s": 371.962,
+   "end_s": 372.682
+  },
+  {
+   "global_index": 904,
+   "section": "08",
+   "index": 111,
+   "word": "These",
+   "start_s": 372.722,
+   "end_s": 372.882
+  },
+  {
+   "global_index": 905,
+   "section": "08",
+   "index": 112,
+   "word": "stones",
+   "start_s": 372.962,
+   "end_s": 373.362
+  },
+  {
+   "global_index": 906,
+   "section": "08",
+   "index": 113,
+   "word": "don't",
+   "start_s": 373.402,
+   "end_s": 373.602
+  },
+  {
+   "global_index": 907,
+   "section": "08",
+   "index": 114,
+   "word": "need",
+   "start_s": 373.682,
+   "end_s": 373.922
+  },
+  {
+   "global_index": 908,
+   "section": "08",
+   "index": 115,
+   "word": "lost",
+   "start_s": 374.002,
+   "end_s": 374.242
+  },
+  {
+   "global_index": 909,
+   "section": "08",
+   "index": 116,
+   "word": "technology.",
+   "start_s": 374.322,
+   "end_s": 375.402
+  },
+  {
+   "global_index": 910,
+   "section": "08",
+   "index": 117,
+   "word": "They",
+   "start_s": 375.442,
+   "end_s": 375.522
+  },
+  {
+   "global_index": 911,
+   "section": "08",
+   "index": 118,
+   "word": "needed",
+   "start_s": 375.602,
+   "end_s": 375.922
+  },
+  {
+   "global_index": 912,
+   "section": "08",
+   "index": 119,
+   "word": "extraordinary",
+   "start_s": 376.162,
+   "end_s": 376.882
+  },
+  {
+   "global_index": 913,
+   "section": "08",
+   "index": 120,
+   "word": "skill.",
+   "start_s": 377.322,
+   "end_s": 377.802
+  },
+  {
+   "global_index": 914,
+   "section": "08",
+   "index": 121,
+   "word": "Centuries",
+   "start_s": 377.842,
+   "end_s": 378.322
+  },
+  {
+   "global_index": 915,
+   "section": "08",
+   "index": 122,
+   "word": "later,",
+   "start_s": 378.402,
+   "end_s": 379.015
+  },
+  {
+   "global_index": 916,
+   "section": "08",
+   "index": 123,
+   "word": "the",
+   "start_s": 379.069,
+   "end_s": 379.122
+  },
+  {
+   "global_index": 917,
+   "section": "08",
+   "index": 124,
+   "word": "Inca",
+   "start_s": 379.202,
+   "end_s": 379.522
+  },
+  {
+   "global_index": 918,
+   "section": "08",
+   "index": 125,
+   "word": "took",
+   "start_s": 379.682,
+   "end_s": 379.842
+  },
+  {
+   "global_index": 919,
+   "section": "08",
+   "index": 126,
+   "word": "fitted",
+   "start_s": 379.882,
+   "end_s": 380.162
+  },
+  {
+   "global_index": 920,
+   "section": "08",
+   "index": 127,
+   "word": "stone",
+   "start_s": 380.242,
+   "end_s": 380.722
+  },
+  {
+   "global_index": 921,
+   "section": "08",
+   "index": 128,
+   "word": "to",
+   "start_s": 380.762,
+   "end_s": 380.802
+  },
+  {
+   "global_index": 922,
+   "section": "08",
+   "index": 129,
+   "word": "an",
+   "start_s": 380.882,
+   "end_s": 380.962
+  },
+  {
+   "global_index": 923,
+   "section": "08",
+   "index": 130,
+   "word": "extreme.",
+   "start_s": 381.122,
+   "end_s": 381.699
+  },
+  {
+   "global_index": 924,
+   "section": "09",
+   "index": 0,
+   "word": "Number",
+   "start_s": 382.299,
+   "end_s": 382.539
+  },
+  {
+   "global_index": 925,
+   "section": "09",
+   "index": 1,
+   "word": "three:",
+   "start_s": 382.699,
+   "end_s": 383.419
+  },
+  {
+   "global_index": 926,
+   "section": "09",
+   "index": 2,
+   "word": "Sacsayhuamán,",
+   "start_s": 383.499,
+   "end_s": 384.699
+  },
+  {
+   "global_index": 927,
+   "section": "09",
+   "index": 3,
+   "word": "the",
+   "start_s": 384.779,
+   "end_s": 384.939
+  },
+  {
+   "global_index": 928,
+   "section": "09",
+   "index": 4,
+   "word": "Inca",
+   "start_s": 385.019,
+   "end_s": 385.259
+  },
+  {
+   "global_index": 929,
+   "section": "09",
+   "index": 5,
+   "word": "complex",
+   "start_s": 385.339,
+   "end_s": 385.819
+  },
+  {
+   "global_index": 930,
+   "section": "09",
+   "index": 6,
+   "word": "above",
+   "start_s": 385.899,
+   "end_s": 386.139
+  },
+  {
+   "global_index": 931,
+   "section": "09",
+   "index": 7,
+   "word": "Cusco.",
+   "start_s": 386.219,
+   "end_s": 387.259
+  },
+  {
+   "global_index": 932,
+   "section": "09",
+   "index": 8,
+   "word": "Its",
+   "start_s": 387.379,
+   "end_s": 387.499
+  },
+  {
+   "global_index": 933,
+   "section": "09",
+   "index": 9,
+   "word": "zigzag",
+   "start_s": 387.579,
+   "end_s": 388.059
+  },
+  {
+   "global_index": 934,
+   "section": "09",
+   "index": 10,
+   "word": "walls",
+   "start_s": 388.139,
+   "end_s": 388.459
+  },
+  {
+   "global_index": 935,
+   "section": "09",
+   "index": 11,
+   "word": "are",
+   "start_s": 388.539,
+   "end_s": 388.619
+  },
+  {
+   "global_index": 936,
+   "section": "09",
+   "index": 12,
+   "word": "built",
+   "start_s": 388.699,
+   "end_s": 388.859
+  },
+  {
+   "global_index": 937,
+   "section": "09",
+   "index": 13,
+   "word": "from",
+   "start_s": 388.939,
+   "end_s": 389.099
+  },
+  {
+   "global_index": 938,
+   "section": "09",
+   "index": 14,
+   "word": "enormous",
+   "start_s": 389.219,
+   "end_s": 389.739
+  },
+  {
+   "global_index": 939,
+   "section": "09",
+   "index": 15,
+   "word": "polygonal",
+   "start_s": 389.819,
+   "end_s": 390.379
+  },
+  {
+   "global_index": 940,
+   "section": "09",
+   "index": 16,
+   "word": "stones,",
+   "start_s": 390.819,
+   "end_s": 391.312
+  },
+  {
+   "global_index": 941,
+   "section": "09",
+   "index": 17,
+   "word": "the",
+   "start_s": 391.366,
+   "end_s": 391.419
+  },
+  {
+   "global_index": 942,
+   "section": "09",
+   "index": 18,
+   "word": "largest",
+   "start_s": 391.539,
+   "end_s": 391.979
+  },
+  {
+   "global_index": 943,
+   "section": "09",
+   "index": 19,
+   "word": "with",
+   "start_s": 392.059,
+   "end_s": 392.139
+  },
+  {
+   "global_index": 944,
+   "section": "09",
+   "index": 20,
+   "word": "weight",
+   "start_s": 392.219,
+   "end_s": 392.379
+  },
+  {
+   "global_index": 945,
+   "section": "09",
+   "index": 21,
+   "word": "estimates",
+   "start_s": 392.459,
+   "end_s": 392.859
+  },
+  {
+   "global_index": 946,
+   "section": "09",
+   "index": 22,
+   "word": "ranging",
+   "start_s": 392.939,
+   "end_s": 393.259
+  },
+  {
+   "global_index": 947,
+   "section": "09",
+   "index": 23,
+   "word": "from",
+   "start_s": 393.339,
+   "end_s": 393.499
+  },
+  {
+   "global_index": 948,
+   "section": "09",
+   "index": 24,
+   "word": "about",
+   "start_s": 393.579,
+   "end_s": 393.819
+  },
+  {
+   "global_index": 949,
+   "section": "09",
+   "index": 25,
+   "word": "one",
+   "start_s": 393.899,
+   "end_s": 394.059
+  },
+  {
+   "global_index": 950,
+   "section": "09",
+   "index": 26,
+   "word": "hundred",
+   "start_s": 394.139,
+   "end_s": 394.459
+  },
+  {
+   "global_index": 951,
+   "section": "09",
+   "index": 27,
+   "word": "to",
+   "start_s": 394.579,
+   "end_s": 394.699
+  },
+  {
+   "global_index": 952,
+   "section": "09",
+   "index": 28,
+   "word": "two",
+   "start_s": 394.779,
+   "end_s": 394.939
+  },
+  {
+   "global_index": 953,
+   "section": "09",
+   "index": 29,
+   "word": "hundred",
+   "start_s": 395.019,
+   "end_s": 395.259
+  },
+  {
+   "global_index": 954,
+   "section": "09",
+   "index": 30,
+   "word": "tonnes,",
+   "start_s": 395.419,
+   "end_s": 396.259
+  },
+  {
+   "global_index": 955,
+   "section": "09",
+   "index": 31,
+   "word": "fitted",
+   "start_s": 396.299,
+   "end_s": 396.699
+  },
+  {
+   "global_index": 956,
+   "section": "09",
+   "index": 32,
+   "word": "without",
+   "start_s": 396.899,
+   "end_s": 397.099
+  },
+  {
+   "global_index": 957,
+   "section": "09",
+   "index": 33,
+   "word": "mortar.",
+   "start_s": 397.219,
+   "end_s": 398.099
+  },
+  {
+   "global_index": 958,
+   "section": "09",
+   "index": 34,
+   "word": "One",
+   "start_s": 398.139,
+   "end_s": 398.299
+  },
+  {
+   "global_index": 959,
+   "section": "09",
+   "index": 35,
+   "word": "leading",
+   "start_s": 398.459,
+   "end_s": 398.619
+  },
+  {
+   "global_index": 960,
+   "section": "09",
+   "index": 36,
+   "word": "explanation",
+   "start_s": 398.739,
+   "end_s": 399.339
+  },
+  {
+   "global_index": 961,
+   "section": "09",
+   "index": 37,
+   "word": "for",
+   "start_s": 399.419,
+   "end_s": 399.499
+  },
+  {
+   "global_index": 962,
+   "section": "09",
+   "index": 38,
+   "word": "the",
+   "start_s": 399.579,
+   "end_s": 399.659
+  },
+  {
+   "global_index": 963,
+   "section": "09",
+   "index": 39,
+   "word": "tight",
+   "start_s": 399.819,
+   "end_s": 399.979
+  },
+  {
+   "global_index": 964,
+   "section": "09",
+   "index": 40,
+   "word": "joints",
+   "start_s": 400.059,
+   "end_s": 400.459
+  },
+  {
+   "global_index": 965,
+   "section": "09",
+   "index": 41,
+   "word": "is",
+   "start_s": 400.539,
+   "end_s": 400.779
+  },
+  {
+   "global_index": 966,
+   "section": "09",
+   "index": 42,
+   "word": "patient",
+   "start_s": 400.979,
+   "end_s": 401.179
+  },
+  {
+   "global_index": 967,
+   "section": "09",
+   "index": 43,
+   "word": "repetition:",
+   "start_s": 401.259,
+   "end_s": 402.419
+  },
+  {
+   "global_index": 968,
+   "section": "09",
+   "index": 44,
+   "word": "shape",
+   "start_s": 402.459,
+   "end_s": 402.619
+  },
+  {
+   "global_index": 969,
+   "section": "09",
+   "index": 45,
+   "word": "a",
+   "start_s": 402.699,
+   "end_s": 402.779
+  },
+  {
+   "global_index": 970,
+   "section": "09",
+   "index": 46,
+   "word": "stone,",
+   "start_s": 402.859,
+   "end_s": 403.739
+  },
+  {
+   "global_index": 971,
+   "section": "09",
+   "index": 47,
+   "word": "test",
+   "start_s": 403.819,
+   "end_s": 403.899
+  },
+  {
+   "global_index": 972,
+   "section": "09",
+   "index": 48,
+   "word": "it",
+   "start_s": 403.979,
+   "end_s": 404.059
+  },
+  {
+   "global_index": 973,
+   "section": "09",
+   "index": 49,
+   "word": "against",
+   "start_s": 404.219,
+   "end_s": 404.379
+  },
+  {
+   "global_index": 974,
+   "section": "09",
+   "index": 50,
+   "word": "its",
+   "start_s": 404.459,
+   "end_s": 404.619
+  },
+  {
+   "global_index": 975,
+   "section": "09",
+   "index": 51,
+   "word": "neighbour,",
+   "start_s": 404.659,
+   "end_s": 405.459
+  },
+  {
+   "global_index": 976,
+   "section": "09",
+   "index": 52,
+   "word": "mark",
+   "start_s": 405.499,
+   "end_s": 405.739
+  },
+  {
+   "global_index": 977,
+   "section": "09",
+   "index": 53,
+   "word": "where",
+   "start_s": 405.819,
+   "end_s": 405.899
+  },
+  {
+   "global_index": 978,
+   "section": "09",
+   "index": 54,
+   "word": "it",
+   "start_s": 405.939,
+   "end_s": 405.979
+  },
+  {
+   "global_index": 979,
+   "section": "09",
+   "index": 55,
+   "word": "touches,",
+   "start_s": 406.059,
+   "end_s": 406.819
+  },
+  {
+   "global_index": 980,
+   "section": "09",
+   "index": 56,
+   "word": "adjust,",
+   "start_s": 406.859,
+   "end_s": 407.712
+  },
+  {
+   "global_index": 981,
+   "section": "09",
+   "index": 57,
+   "word": "and",
+   "start_s": 407.766,
+   "end_s": 407.819
+  },
+  {
+   "global_index": 982,
+   "section": "09",
+   "index": 58,
+   "word": "test",
+   "start_s": 407.939,
+   "end_s": 408.059
+  },
+  {
+   "global_index": 983,
+   "section": "09",
+   "index": 59,
+   "word": "again.",
+   "start_s": 408.139,
+   "end_s": 408.979
+  },
+  {
+   "global_index": 984,
+   "section": "09",
+   "index": 60,
+   "word": "Experiments",
+   "start_s": 409.019,
+   "end_s": 409.579
+  },
+  {
+   "global_index": 985,
+   "section": "09",
+   "index": 61,
+   "word": "with",
+   "start_s": 409.659,
+   "end_s": 409.819
+  },
+  {
+   "global_index": 986,
+   "section": "09",
+   "index": 62,
+   "word": "hammerstones",
+   "start_s": 409.979,
+   "end_s": 410.619
+  },
+  {
+   "global_index": 987,
+   "section": "09",
+   "index": 63,
+   "word": "show",
+   "start_s": 410.739,
+   "end_s": 410.859
+  },
+  {
+   "global_index": 988,
+   "section": "09",
+   "index": 64,
+   "word": "how",
+   "start_s": 410.939,
+   "end_s": 411.019
+  },
+  {
+   "global_index": 989,
+   "section": "09",
+   "index": 65,
+   "word": "effective",
+   "start_s": 411.099,
+   "end_s": 411.579
+  },
+  {
+   "global_index": 990,
+   "section": "09",
+   "index": 66,
+   "word": "that",
+   "start_s": 411.659,
+   "end_s": 411.739
+  },
+  {
+   "global_index": 991,
+   "section": "09",
+   "index": 67,
+   "word": "can",
+   "start_s": 411.819,
+   "end_s": 411.899
+  },
+  {
+   "global_index": 992,
+   "section": "09",
+   "index": 68,
+   "word": "be.",
+   "start_s": 411.979,
+   "end_s": 412.659
+  },
+  {
+   "global_index": 993,
+   "section": "09",
+   "index": 69,
+   "word": "How",
+   "start_s": 412.699,
+   "end_s": 412.859
+  },
+  {
+   "global_index": 994,
+   "section": "09",
+   "index": 70,
+   "word": "the",
+   "start_s": 412.939,
+   "end_s": 413.099
+  },
+  {
+   "global_index": 995,
+   "section": "09",
+   "index": 71,
+   "word": "largest",
+   "start_s": 413.219,
+   "end_s": 413.579
+  },
+  {
+   "global_index": 996,
+   "section": "09",
+   "index": 72,
+   "word": "blocks",
+   "start_s": 413.739,
+   "end_s": 413.899
+  },
+  {
+   "global_index": 997,
+   "section": "09",
+   "index": 73,
+   "word": "were",
+   "start_s": 413.979,
+   "end_s": 414.059
+  },
+  {
+   "global_index": 998,
+   "section": "09",
+   "index": 74,
+   "word": "moved",
+   "start_s": 414.139,
+   "end_s": 414.379
+  },
+  {
+   "global_index": 999,
+   "section": "09",
+   "index": 75,
+   "word": "and",
+   "start_s": 414.459,
+   "end_s": 414.539
+  },
+  {
+   "global_index": 1000,
+   "section": "09",
+   "index": 76,
+   "word": "lifted",
+   "start_s": 414.619,
+   "end_s": 415.179
+  },
+  {
+   "global_index": 1001,
+   "section": "09",
+   "index": 77,
+   "word": "is",
+   "start_s": 415.259,
+   "end_s": 415.339
+  },
+  {
+   "global_index": 1002,
+   "section": "09",
+   "index": 78,
+   "word": "still",
+   "start_s": 415.499,
+   "end_s": 415.659
+  },
+  {
+   "global_index": 1003,
+   "section": "09",
+   "index": 79,
+   "word": "uncertain.",
+   "start_s": 415.739,
+   "end_s": 416.739
+  },
+  {
+   "global_index": 1004,
+   "section": "09",
+   "index": 80,
+   "word": "And",
+   "start_s": 416.779,
+   "end_s": 416.859
+  },
+  {
+   "global_index": 1005,
+   "section": "09",
+   "index": 81,
+   "word": "earthquakes?",
+   "start_s": 416.939,
+   "end_s": 418.019
+  },
+  {
+   "global_index": 1006,
+   "section": "09",
+   "index": 82,
+   "word": "Interlocking",
+   "start_s": 418.059,
+   "end_s": 418.619
+  },
+  {
+   "global_index": 1007,
+   "section": "09",
+   "index": 83,
+   "word": "walls",
+   "start_s": 418.699,
+   "end_s": 419.019
+  },
+  {
+   "global_index": 1008,
+   "section": "09",
+   "index": 84,
+   "word": "have",
+   "start_s": 419.099,
+   "end_s": 419.179
+  },
+  {
+   "global_index": 1009,
+   "section": "09",
+   "index": 85,
+   "word": "helped",
+   "start_s": 419.259,
+   "end_s": 419.499
+  },
+  {
+   "global_index": 1010,
+   "section": "09",
+   "index": 86,
+   "word": "many",
+   "start_s": 419.579,
+   "end_s": 419.819
+  },
+  {
+   "global_index": 1011,
+   "section": "09",
+   "index": 87,
+   "word": "Inca",
+   "start_s": 419.899,
+   "end_s": 420.139
+  },
+  {
+   "global_index": 1012,
+   "section": "09",
+   "index": 88,
+   "word": "structures",
+   "start_s": 420.219,
+   "end_s": 420.619
+  },
+  {
+   "global_index": 1013,
+   "section": "09",
+   "index": 89,
+   "word": "survive",
+   "start_s": 420.699,
+   "end_s": 421.179
+  },
+  {
+   "global_index": 1014,
+   "section": "09",
+   "index": 90,
+   "word": "centuries",
+   "start_s": 421.259,
+   "end_s": 421.739
+  },
+  {
+   "global_index": 1015,
+   "section": "09",
+   "index": 91,
+   "word": "of",
+   "start_s": 421.819,
+   "end_s": 421.899
+  },
+  {
+   "global_index": 1016,
+   "section": "09",
+   "index": 92,
+   "word": "tremors,",
+   "start_s": 421.939,
+   "end_s": 422.779
+  },
+  {
+   "global_index": 1017,
+   "section": "09",
+   "index": 93,
+   "word": "but",
+   "start_s": 422.859,
+   "end_s": 422.939
+  },
+  {
+   "global_index": 1018,
+   "section": "09",
+   "index": 94,
+   "word": "they",
+   "start_s": 423.019,
+   "end_s": 423.179
+  },
+  {
+   "global_index": 1019,
+   "section": "09",
+   "index": 95,
+   "word": "aren't",
+   "start_s": 423.259,
+   "end_s": 423.499
+  },
+  {
+   "global_index": 1020,
+   "section": "09",
+   "index": 96,
+   "word": "indestructible.",
+   "start_s": 423.579,
+   "end_s": 424.779
+  },
+  {
+   "global_index": 1021,
+   "section": "09",
+   "index": 97,
+   "word": "Much",
+   "start_s": 424.899,
+   "end_s": 425.019
+  },
+  {
+   "global_index": 1022,
+   "section": "09",
+   "index": 98,
+   "word": "of",
+   "start_s": 425.099,
+   "end_s": 425.179
+  },
+  {
+   "global_index": 1023,
+   "section": "09",
+   "index": 99,
+   "word": "Sacsayhuamán",
+   "start_s": 425.219,
+   "end_s": 425.979
+  },
+  {
+   "global_index": 1024,
+   "section": "09",
+   "index": 100,
+   "word": "was",
+   "start_s": 426.059,
+   "end_s": 426.219
+  },
+  {
+   "global_index": 1025,
+   "section": "09",
+   "index": 101,
+   "word": "dismantled",
+   "start_s": 426.326,
+   "end_s": 426.859
+  },
+  {
+   "global_index": 1026,
+   "section": "09",
+   "index": 102,
+   "word": "by",
+   "start_s": 426.899,
+   "end_s": 426.939
+  },
+  {
+   "global_index": 1027,
+   "section": "09",
+   "index": 103,
+   "word": "the",
+   "start_s": 427.019,
+   "end_s": 427.099
+  },
+  {
+   "global_index": 1028,
+   "section": "09",
+   "index": 104,
+   "word": "Spanish",
+   "start_s": 427.179,
+   "end_s": 427.659
+  },
+  {
+   "global_index": 1029,
+   "section": "09",
+   "index": 105,
+   "word": "to",
+   "start_s": 427.739,
+   "end_s": 427.819
+  },
+  {
+   "global_index": 1030,
+   "section": "09",
+   "index": 106,
+   "word": "build",
+   "start_s": 427.939,
+   "end_s": 428.059
+  },
+  {
+   "global_index": 1031,
+   "section": "09",
+   "index": 107,
+   "word": "colonial",
+   "start_s": 428.219,
+   "end_s": 428.619
+  },
+  {
+   "global_index": 1032,
+   "section": "09",
+   "index": 108,
+   "word": "Cusco.",
+   "start_s": 428.699,
+   "end_s": 429.539
+  },
+  {
+   "global_index": 1033,
+   "section": "09",
+   "index": 109,
+   "word": "The",
+   "start_s": 429.579,
+   "end_s": 429.739
+  },
+  {
+   "global_index": 1034,
+   "section": "09",
+   "index": 110,
+   "word": "biggest",
+   "start_s": 429.819,
+   "end_s": 430.059
+  },
+  {
+   "global_index": 1035,
+   "section": "09",
+   "index": 111,
+   "word": "stones",
+   "start_s": 430.259,
+   "end_s": 430.459
+  },
+  {
+   "global_index": 1036,
+   "section": "09",
+   "index": 112,
+   "word": "stayed,",
+   "start_s": 430.539,
+   "end_s": 431.219
+  },
+  {
+   "global_index": 1037,
+   "section": "09",
+   "index": 113,
+   "word": "too",
+   "start_s": 431.259,
+   "end_s": 431.499
+  },
+  {
+   "global_index": 1038,
+   "section": "09",
+   "index": 114,
+   "word": "heavy",
+   "start_s": 431.619,
+   "end_s": 431.739
+  },
+  {
+   "global_index": 1039,
+   "section": "09",
+   "index": 115,
+   "word": "to",
+   "start_s": 431.819,
+   "end_s": 431.899
+  },
+  {
+   "global_index": 1040,
+   "section": "09",
+   "index": 116,
+   "word": "take.",
+   "start_s": 431.979,
+   "end_s": 432.779
+  },
+  {
+   "global_index": 1041,
+   "section": "09",
+   "index": 117,
+   "word": "So",
+   "start_s": 432.899,
+   "end_s": 433.019
+  },
+  {
+   "global_index": 1042,
+   "section": "09",
+   "index": 118,
+   "word": "far,",
+   "start_s": 433.299,
+   "end_s": 433.619
+  },
+  {
+   "global_index": 1043,
+   "section": "09",
+   "index": 119,
+   "word": "everything",
+   "start_s": 433.659,
+   "end_s": 434.059
+  },
+  {
+   "global_index": 1044,
+   "section": "09",
+   "index": 120,
+   "word": "went",
+   "start_s": 434.139,
+   "end_s": 434.219
+  },
+  {
+   "global_index": 1045,
+   "section": "09",
+   "index": 121,
+   "word": "up.",
+   "start_s": 434.299,
+   "end_s": 434.899
+  },
+  {
+   "global_index": 1046,
+   "section": "09",
+   "index": 122,
+   "word": "Number",
+   "start_s": 434.939,
+   "end_s": 435.259
+  },
+  {
+   "global_index": 1047,
+   "section": "09",
+   "index": 123,
+   "word": "two",
+   "start_s": 435.339,
+   "end_s": 435.819
+  },
+  {
+   "global_index": 1048,
+   "section": "09",
+   "index": 124,
+   "word": "goes",
+   "start_s": 435.899,
+   "end_s": 436.139
+  },
+  {
+   "global_index": 1049,
+   "section": "09",
+   "index": 125,
+   "word": "down.",
+   "start_s": 436.539,
+   "end_s": 436.611
+  },
+  {
+   "global_index": 1050,
+   "section": "10",
+   "index": 0,
+   "word": "Number",
+   "start_s": 437.211,
+   "end_s": 437.451
+  },
+  {
+   "global_index": 1051,
+   "section": "10",
+   "index": 1,
+   "word": "two:",
+   "start_s": 437.611,
+   "end_s": 438.331
+  },
+  {
+   "global_index": 1052,
+   "section": "10",
+   "index": 2,
+   "word": "Derinkuyu,",
+   "start_s": 438.411,
+   "end_s": 439.371
+  },
+  {
+   "global_index": 1053,
+   "section": "10",
+   "index": 3,
+   "word": "in",
+   "start_s": 439.451,
+   "end_s": 439.531
+  },
+  {
+   "global_index": 1054,
+   "section": "10",
+   "index": 4,
+   "word": "Cappadocia.",
+   "start_s": 439.611,
+   "end_s": 440.811
+  },
+  {
+   "global_index": 1055,
+   "section": "10",
+   "index": 5,
+   "word": "Beneath",
+   "start_s": 440.851,
+   "end_s": 441.131
+  },
+  {
+   "global_index": 1056,
+   "section": "10",
+   "index": 6,
+   "word": "the",
+   "start_s": 441.211,
+   "end_s": 441.291
+  },
+  {
+   "global_index": 1057,
+   "section": "10",
+   "index": 7,
+   "word": "town",
+   "start_s": 441.371,
+   "end_s": 441.691
+  },
+  {
+   "global_index": 1058,
+   "section": "10",
+   "index": 8,
+   "word": "lies",
+   "start_s": 441.811,
+   "end_s": 441.931
+  },
+  {
+   "global_index": 1059,
+   "section": "10",
+   "index": 9,
+   "word": "an",
+   "start_s": 442.011,
+   "end_s": 442.091
+  },
+  {
+   "global_index": 1060,
+   "section": "10",
+   "index": 10,
+   "word": "underground",
+   "start_s": 442.171,
+   "end_s": 442.651
+  },
+  {
+   "global_index": 1061,
+   "section": "10",
+   "index": 11,
+   "word": "complex",
+   "start_s": 442.731,
+   "end_s": 443.291
+  },
+  {
+   "global_index": 1062,
+   "section": "10",
+   "index": 12,
+   "word": "of",
+   "start_s": 443.411,
+   "end_s": 443.531
+  },
+  {
+   "global_index": 1063,
+   "section": "10",
+   "index": 13,
+   "word": "multiple",
+   "start_s": 443.771,
+   "end_s": 444.011
+  },
+  {
+   "global_index": 1064,
+   "section": "10",
+   "index": 14,
+   "word": "levels.",
+   "start_s": 444.451,
+   "end_s": 444.944
+  },
+  {
+   "global_index": 1065,
+   "section": "10",
+   "index": 15,
+   "word": "The",
+   "start_s": 444.998,
+   "end_s": 445.051
+  },
+  {
+   "global_index": 1066,
+   "section": "10",
+   "index": 16,
+   "word": "parts",
+   "start_s": 445.171,
+   "end_s": 445.291
+  },
+  {
+   "global_index": 1067,
+   "section": "10",
+   "index": 17,
+   "word": "open",
+   "start_s": 445.371,
+   "end_s": 445.611
+  },
+  {
+   "global_index": 1068,
+   "section": "10",
+   "index": 18,
+   "word": "today",
+   "start_s": 445.691,
+   "end_s": 446.091
+  },
+  {
+   "global_index": 1069,
+   "section": "10",
+   "index": 19,
+   "word": "go",
+   "start_s": 446.171,
+   "end_s": 446.251
+  },
+  {
+   "global_index": 1070,
+   "section": "10",
+   "index": 20,
+   "word": "down",
+   "start_s": 446.371,
+   "end_s": 446.491
+  },
+  {
+   "global_index": 1071,
+   "section": "10",
+   "index": 21,
+   "word": "more",
+   "start_s": 446.571,
+   "end_s": 446.651
+  },
+  {
+   "global_index": 1072,
+   "section": "10",
+   "index": 22,
+   "word": "than",
+   "start_s": 446.731,
+   "end_s": 446.971
+  },
+  {
+   "global_index": 1073,
+   "section": "10",
+   "index": 23,
+   "word": "fifty",
+   "start_s": 447.051,
+   "end_s": 447.291
+  },
+  {
+   "global_index": 1074,
+   "section": "10",
+   "index": 24,
+   "word": "metres,",
+   "start_s": 447.371,
+   "end_s": 448.038
+  },
+  {
+   "global_index": 1075,
+   "section": "10",
+   "index": 25,
+   "word": "and",
+   "start_s": 448.064,
+   "end_s": 448.091
+  },
+  {
+   "global_index": 1076,
+   "section": "10",
+   "index": 26,
+   "word": "the",
+   "start_s": 448.171,
+   "end_s": 448.331
+  },
+  {
+   "global_index": 1077,
+   "section": "10",
+   "index": 27,
+   "word": "full",
+   "start_s": 448.451,
+   "end_s": 448.571
+  },
+  {
+   "global_index": 1078,
+   "section": "10",
+   "index": 28,
+   "word": "complex",
+   "start_s": 448.851,
+   "end_s": 449.131
+  },
+  {
+   "global_index": 1079,
+   "section": "10",
+   "index": 29,
+   "word": "is",
+   "start_s": 449.211,
+   "end_s": 449.291
+  },
+  {
+   "global_index": 1080,
+   "section": "10",
+   "index": 30,
+   "word": "estimated",
+   "start_s": 449.371,
+   "end_s": 449.851
+  },
+  {
+   "global_index": 1081,
+   "section": "10",
+   "index": 31,
+   "word": "to",
+   "start_s": 449.891,
+   "end_s": 449.931
+  },
+  {
+   "global_index": 1082,
+   "section": "10",
+   "index": 32,
+   "word": "reach",
+   "start_s": 450.011,
+   "end_s": 450.171
+  },
+  {
+   "global_index": 1083,
+   "section": "10",
+   "index": 33,
+   "word": "around",
+   "start_s": 450.251,
+   "end_s": 450.571
+  },
+  {
+   "global_index": 1084,
+   "section": "10",
+   "index": 34,
+   "word": "eighty-five.",
+   "start_s": 450.651,
+   "end_s": 451.851
+  },
+  {
+   "global_index": 1085,
+   "section": "10",
+   "index": 35,
+   "word": "Rooms,",
+   "start_s": 452.131,
+   "end_s": 452.651
+  },
+  {
+   "global_index": 1086,
+   "section": "10",
+   "index": 36,
+   "word": "stables,",
+   "start_s": 452.731,
+   "end_s": 453.451
+  },
+  {
+   "global_index": 1087,
+   "section": "10",
+   "index": 37,
+   "word": "storage",
+   "start_s": 453.531,
+   "end_s": 453.851
+  },
+  {
+   "global_index": 1088,
+   "section": "10",
+   "index": 38,
+   "word": "areas,",
+   "start_s": 453.931,
+   "end_s": 454.531
+  },
+  {
+   "global_index": 1089,
+   "section": "10",
+   "index": 39,
+   "word": "wells,",
+   "start_s": 454.571,
+   "end_s": 455.011
+  },
+  {
+   "global_index": 1090,
+   "section": "10",
+   "index": 40,
+   "word": "and",
+   "start_s": 455.051,
+   "end_s": 455.211
+  },
+  {
+   "global_index": 1091,
+   "section": "10",
+   "index": 41,
+   "word": "ventilation",
+   "start_s": 455.291,
+   "end_s": 455.851
+  },
+  {
+   "global_index": 1092,
+   "section": "10",
+   "index": 42,
+   "word": "shafts",
+   "start_s": 455.931,
+   "end_s": 456.331
+  },
+  {
+   "global_index": 1093,
+   "section": "10",
+   "index": 43,
+   "word": "carrying",
+   "start_s": 456.411,
+   "end_s": 456.811
+  },
+  {
+   "global_index": 1094,
+   "section": "10",
+   "index": 44,
+   "word": "air",
+   "start_s": 456.891,
+   "end_s": 457.051
+  },
+  {
+   "global_index": 1095,
+   "section": "10",
+   "index": 45,
+   "word": "to",
+   "start_s": 457.131,
+   "end_s": 457.211
+  },
+  {
+   "global_index": 1096,
+   "section": "10",
+   "index": 46,
+   "word": "the",
+   "start_s": 457.331,
+   "end_s": 457.451
+  },
+  {
+   "global_index": 1097,
+   "section": "10",
+   "index": 47,
+   "word": "deepest",
+   "start_s": 457.531,
+   "end_s": 457.851
+  },
+  {
+   "global_index": 1098,
+   "section": "10",
+   "index": 48,
+   "word": "levels.",
+   "start_s": 458.251,
+   "end_s": 458.731
+  },
+  {
+   "global_index": 1099,
+   "section": "10",
+   "index": 49,
+   "word": "Huge",
+   "start_s": 458.811,
+   "end_s": 459.211
+  },
+  {
+   "global_index": 1100,
+   "section": "10",
+   "index": 50,
+   "word": "round",
+   "start_s": 459.291,
+   "end_s": 459.611
+  },
+  {
+   "global_index": 1101,
+   "section": "10",
+   "index": 51,
+   "word": "stone",
+   "start_s": 459.691,
+   "end_s": 460.011
+  },
+  {
+   "global_index": 1102,
+   "section": "10",
+   "index": 52,
+   "word": "doors",
+   "start_s": 460.211,
+   "end_s": 460.411
+  },
+  {
+   "global_index": 1103,
+   "section": "10",
+   "index": 53,
+   "word": "could",
+   "start_s": 460.491,
+   "end_s": 460.571
+  },
+  {
+   "global_index": 1104,
+   "section": "10",
+   "index": 54,
+   "word": "be",
+   "start_s": 460.651,
+   "end_s": 460.731
+  },
+  {
+   "global_index": 1105,
+   "section": "10",
+   "index": 55,
+   "word": "rolled",
+   "start_s": 460.811,
+   "end_s": 461.131
+  },
+  {
+   "global_index": 1106,
+   "section": "10",
+   "index": 56,
+   "word": "shut",
+   "start_s": 461.171,
+   "end_s": 461.371
+  },
+  {
+   "global_index": 1107,
+   "section": "10",
+   "index": 57,
+   "word": "from",
+   "start_s": 461.451,
+   "end_s": 461.531
+  },
+  {
+   "global_index": 1108,
+   "section": "10",
+   "index": 58,
+   "word": "inside.",
+   "start_s": 461.611,
+   "end_s": 462.611
+  },
+  {
+   "global_index": 1109,
+   "section": "10",
+   "index": 59,
+   "word": "The",
+   "start_s": 462.651,
+   "end_s": 462.731
+  },
+  {
+   "global_index": 1110,
+   "section": "10",
+   "index": 60,
+   "word": "rock",
+   "start_s": 462.891,
+   "end_s": 463.051
+  },
+  {
+   "global_index": 1111,
+   "section": "10",
+   "index": 61,
+   "word": "is",
+   "start_s": 463.131,
+   "end_s": 463.291
+  },
+  {
+   "global_index": 1112,
+   "section": "10",
+   "index": 62,
+   "word": "soft",
+   "start_s": 463.371,
+   "end_s": 463.611
+  },
+  {
+   "global_index": 1113,
+   "section": "10",
+   "index": 63,
+   "word": "volcanic",
+   "start_s": 463.691,
+   "end_s": 464.251
+  },
+  {
+   "global_index": 1114,
+   "section": "10",
+   "index": 64,
+   "word": "tuff,",
+   "start_s": 464.331,
+   "end_s": 464.851
+  },
+  {
+   "global_index": 1115,
+   "section": "10",
+   "index": 65,
+   "word": "carved",
+   "start_s": 464.891,
+   "end_s": 465.211
+  },
+  {
+   "global_index": 1116,
+   "section": "10",
+   "index": 66,
+   "word": "by",
+   "start_s": 465.331,
+   "end_s": 465.451
+  },
+  {
+   "global_index": 1117,
+   "section": "10",
+   "index": 67,
+   "word": "hand.",
+   "start_s": 465.851,
+   "end_s": 466.291
+  },
+  {
+   "global_index": 1118,
+   "section": "10",
+   "index": 68,
+   "word": "The",
+   "start_s": 466.331,
+   "end_s": 466.411
+  },
+  {
+   "global_index": 1119,
+   "section": "10",
+   "index": 69,
+   "word": "complex",
+   "start_s": 466.691,
+   "end_s": 466.971
+  },
+  {
+   "global_index": 1120,
+   "section": "10",
+   "index": 70,
+   "word": "grew",
+   "start_s": 467.011,
+   "end_s": 467.211
+  },
+  {
+   "global_index": 1121,
+   "section": "10",
+   "index": 71,
+   "word": "over",
+   "start_s": 467.291,
+   "end_s": 467.531
+  },
+  {
+   "global_index": 1122,
+   "section": "10",
+   "index": 72,
+   "word": "centuries",
+   "start_s": 467.611,
+   "end_s": 468.251
+  },
+  {
+   "global_index": 1123,
+   "section": "10",
+   "index": 73,
+   "word": "and",
+   "start_s": 468.291,
+   "end_s": 468.331
+  },
+  {
+   "global_index": 1124,
+   "section": "10",
+   "index": 74,
+   "word": "was",
+   "start_s": 468.411,
+   "end_s": 468.571
+  },
+  {
+   "global_index": 1125,
+   "section": "10",
+   "index": 75,
+   "word": "greatly",
+   "start_s": 468.691,
+   "end_s": 468.971
+  },
+  {
+   "global_index": 1126,
+   "section": "10",
+   "index": 76,
+   "word": "expanded",
+   "start_s": 469.251,
+   "end_s": 469.531
+  },
+  {
+   "global_index": 1127,
+   "section": "10",
+   "index": 77,
+   "word": "in",
+   "start_s": 469.571,
+   "end_s": 469.611
+  },
+  {
+   "global_index": 1128,
+   "section": "10",
+   "index": 78,
+   "word": "the",
+   "start_s": 469.691,
+   "end_s": 469.771
+  },
+  {
+   "global_index": 1129,
+   "section": "10",
+   "index": 79,
+   "word": "Byzantine",
+   "start_s": 469.811,
+   "end_s": 470.251
+  },
+  {
+   "global_index": 1130,
+   "section": "10",
+   "index": 80,
+   "word": "era",
+   "start_s": 470.331,
+   "end_s": 470.651
+  },
+  {
+   "global_index": 1131,
+   "section": "10",
+   "index": 81,
+   "word": "as",
+   "start_s": 470.731,
+   "end_s": 470.891
+  },
+  {
+   "global_index": 1132,
+   "section": "10",
+   "index": 82,
+   "word": "shelter",
+   "start_s": 470.931,
+   "end_s": 471.291
+  },
+  {
+   "global_index": 1133,
+   "section": "10",
+   "index": 83,
+   "word": "in",
+   "start_s": 471.371,
+   "end_s": 471.451
+  },
+  {
+   "global_index": 1134,
+   "section": "10",
+   "index": 84,
+   "word": "dangerous",
+   "start_s": 471.531,
+   "end_s": 472.011
+  },
+  {
+   "global_index": 1135,
+   "section": "10",
+   "index": 85,
+   "word": "times.",
+   "start_s": 472.451,
+   "end_s": 472.931
+  },
+  {
+   "global_index": 1136,
+   "section": "10",
+   "index": 86,
+   "word": "You'll",
+   "start_s": 472.971,
+   "end_s": 473.051
+  },
+  {
+   "global_index": 1137,
+   "section": "10",
+   "index": 87,
+   "word": "often",
+   "start_s": 473.131,
+   "end_s": 473.371
+  },
+  {
+   "global_index": 1138,
+   "section": "10",
+   "index": 88,
+   "word": "hear",
+   "start_s": 473.451,
+   "end_s": 473.531
+  },
+  {
+   "global_index": 1139,
+   "section": "10",
+   "index": 89,
+   "word": "it",
+   "start_s": 473.611,
+   "end_s": 473.691
+  },
+  {
+   "global_index": 1140,
+   "section": "10",
+   "index": 90,
+   "word": "held",
+   "start_s": 473.851,
+   "end_s": 474.011
+  },
+  {
+   "global_index": 1141,
+   "section": "10",
+   "index": 91,
+   "word": "twenty",
+   "start_s": 474.091,
+   "end_s": 474.411
+  },
+  {
+   "global_index": 1142,
+   "section": "10",
+   "index": 92,
+   "word": "thousand",
+   "start_s": 474.491,
+   "end_s": 474.891
+  },
+  {
+   "global_index": 1143,
+   "section": "10",
+   "index": 93,
+   "word": "people.",
+   "start_s": 475.251,
+   "end_s": 475.651
+  },
+  {
+   "global_index": 1144,
+   "section": "10",
+   "index": 94,
+   "word": "That",
+   "start_s": 475.691,
+   "end_s": 475.851
+  },
+  {
+   "global_index": 1145,
+   "section": "10",
+   "index": 95,
+   "word": "number",
+   "start_s": 476.011,
+   "end_s": 476.171
+  },
+  {
+   "global_index": 1146,
+   "section": "10",
+   "index": 96,
+   "word": "isn't",
+   "start_s": 476.251,
+   "end_s": 476.491
+  },
+  {
+   "global_index": 1147,
+   "section": "10",
+   "index": 97,
+   "word": "securely",
+   "start_s": 476.691,
+   "end_s": 476.971
+  },
+  {
+   "global_index": 1148,
+   "section": "10",
+   "index": 98,
+   "word": "established,",
+   "start_s": 477.051,
+   "end_s": 477.891
+  },
+  {
+   "global_index": 1149,
+   "section": "10",
+   "index": 99,
+   "word": "and",
+   "start_s": 477.931,
+   "end_s": 478.091
+  },
+  {
+   "global_index": 1150,
+   "section": "10",
+   "index": 100,
+   "word": "it",
+   "start_s": 478.171,
+   "end_s": 478.251
+  },
+  {
+   "global_index": 1151,
+   "section": "10",
+   "index": 101,
+   "word": "isn't",
+   "start_s": 478.331,
+   "end_s": 478.491
+  },
+  {
+   "global_index": 1152,
+   "section": "10",
+   "index": 102,
+   "word": "a",
+   "start_s": 478.651,
+   "end_s": 478.704
+  },
+  {
+   "global_index": 1153,
+   "section": "10",
+   "index": 103,
+   "word": "proven",
+   "start_s": 478.758,
+   "end_s": 479.051
+  },
+  {
+   "global_index": 1154,
+   "section": "10",
+   "index": 104,
+   "word": "population",
+   "start_s": 479.411,
+   "end_s": 479.771
+  },
+  {
+   "global_index": 1155,
+   "section": "10",
+   "index": 105,
+   "word": "living",
+   "start_s": 479.891,
+   "end_s": 480.011
+  },
+  {
+   "global_index": 1156,
+   "section": "10",
+   "index": 106,
+   "word": "here",
+   "start_s": 480.091,
+   "end_s": 480.171
+  },
+  {
+   "global_index": 1157,
+   "section": "10",
+   "index": 107,
+   "word": "at",
+   "start_s": 480.251,
+   "end_s": 480.331
+  },
+  {
+   "global_index": 1158,
+   "section": "10",
+   "index": 108,
+   "word": "once.",
+   "start_s": 480.411,
+   "end_s": 481.171
+  },
+  {
+   "global_index": 1159,
+   "section": "10",
+   "index": 109,
+   "word": "Derinkuyu",
+   "start_s": 481.211,
+   "end_s": 481.931
+  },
+  {
+   "global_index": 1160,
+   "section": "10",
+   "index": 110,
+   "word": "was",
+   "start_s": 482.051,
+   "end_s": 482.171
+  },
+  {
+   "global_index": 1161,
+   "section": "10",
+   "index": 111,
+   "word": "carved",
+   "start_s": 482.291,
+   "end_s": 482.491
+  },
+  {
+   "global_index": 1162,
+   "section": "10",
+   "index": 112,
+   "word": "out",
+   "start_s": 482.571,
+   "end_s": 482.811
+  },
+  {
+   "global_index": 1163,
+   "section": "10",
+   "index": 113,
+   "word": "a",
+   "start_s": 482.931,
+   "end_s": 483.051
+  },
+  {
+   "global_index": 1164,
+   "section": "10",
+   "index": 114,
+   "word": "basket",
+   "start_s": 483.251,
+   "end_s": 483.451
+  },
+  {
+   "global_index": 1165,
+   "section": "10",
+   "index": 115,
+   "word": "at",
+   "start_s": 483.531,
+   "end_s": 483.571
+  },
+  {
+   "global_index": 1166,
+   "section": "10",
+   "index": 116,
+   "word": "a",
+   "start_s": 483.611,
+   "end_s": 483.691
+  },
+  {
+   "global_index": 1167,
+   "section": "10",
+   "index": 117,
+   "word": "time.",
+   "start_s": 483.771,
+   "end_s": 484.451
+  },
+  {
+   "global_index": 1168,
+   "section": "10",
+   "index": 118,
+   "word": "Number",
+   "start_s": 484.491,
+   "end_s": 484.731
+  },
+  {
+   "global_index": 1169,
+   "section": "10",
+   "index": 119,
+   "word": "one",
+   "start_s": 484.891,
+   "end_s": 485.211
+  },
+  {
+   "global_index": 1170,
+   "section": "10",
+   "index": 120,
+   "word": "went",
+   "start_s": 485.291,
+   "end_s": 485.371
+  },
+  {
+   "global_index": 1171,
+   "section": "10",
+   "index": 121,
+   "word": "the",
+   "start_s": 485.451,
+   "end_s": 485.531
+  },
+  {
+   "global_index": 1172,
+   "section": "10",
+   "index": 122,
+   "word": "other",
+   "start_s": 485.651,
+   "end_s": 485.771
+  },
+  {
+   "global_index": 1173,
+   "section": "10",
+   "index": 123,
+   "word": "way:",
+   "start_s": 486.051,
+   "end_s": 486.371
+  },
+  {
+   "global_index": 1174,
+   "section": "10",
+   "index": 124,
+   "word": "single",
+   "start_s": 486.411,
+   "end_s": 486.811
+  },
+  {
+   "global_index": 1175,
+   "section": "10",
+   "index": 125,
+   "word": "stones",
+   "start_s": 486.891,
+   "end_s": 487.211
+  },
+  {
+   "global_index": 1176,
+   "section": "10",
+   "index": 126,
+   "word": "of",
+   "start_s": 487.291,
+   "end_s": 487.371
+  },
+  {
+   "global_index": 1177,
+   "section": "10",
+   "index": 127,
+   "word": "almost",
+   "start_s": 487.451,
+   "end_s": 487.851
+  },
+  {
+   "global_index": 1178,
+   "section": "10",
+   "index": 128,
+   "word": "unbelievable",
+   "start_s": 487.931,
+   "end_s": 488.811
+  },
+  {
+   "global_index": 1179,
+   "section": "10",
+   "index": 129,
+   "word": "size.",
+   "start_s": 488.891,
+   "end_s": 489.397
+  },
+  {
+   "global_index": 1180,
+   "section": "11",
+   "index": 0,
+   "word": "Number",
+   "start_s": 490.397,
+   "end_s": 490.637
+  },
+  {
+   "global_index": 1181,
+   "section": "11",
+   "index": 1,
+   "word": "one:",
+   "start_s": 490.797,
+   "end_s": 491.517
+  },
+  {
+   "global_index": 1182,
+   "section": "11",
+   "index": 2,
+   "word": "Baalbek,",
+   "start_s": 491.597,
+   "end_s": 492.397
+  },
+  {
+   "global_index": 1183,
+   "section": "11",
+   "index": 3,
+   "word": "in",
+   "start_s": 492.477,
+   "end_s": 492.557
+  },
+  {
+   "global_index": 1184,
+   "section": "11",
+   "index": 4,
+   "word": "Lebanon's",
+   "start_s": 492.637,
+   "end_s": 493.197
+  },
+  {
+   "global_index": 1185,
+   "section": "11",
+   "index": 5,
+   "word": "Beqaa",
+   "start_s": 493.277,
+   "end_s": 493.597
+  },
+  {
+   "global_index": 1186,
+   "section": "11",
+   "index": 6,
+   "word": "Valley.",
+   "start_s": 493.717,
+   "end_s": 494.477
+  },
+  {
+   "global_index": 1187,
+   "section": "11",
+   "index": 7,
+   "word": "Beneath",
+   "start_s": 494.517,
+   "end_s": 494.797
+  },
+  {
+   "global_index": 1188,
+   "section": "11",
+   "index": 8,
+   "word": "the",
+   "start_s": 494.877,
+   "end_s": 495.037
+  },
+  {
+   "global_index": 1189,
+   "section": "11",
+   "index": 9,
+   "word": "Roman",
+   "start_s": 495.197,
+   "end_s": 495.357
+  },
+  {
+   "global_index": 1190,
+   "section": "11",
+   "index": 10,
+   "word": "Temple",
+   "start_s": 495.437,
+   "end_s": 495.677
+  },
+  {
+   "global_index": 1191,
+   "section": "11",
+   "index": 11,
+   "word": "of",
+   "start_s": 495.757,
+   "end_s": 495.837
+  },
+  {
+   "global_index": 1192,
+   "section": "11",
+   "index": 12,
+   "word": "Jupiter",
+   "start_s": 495.917,
+   "end_s": 496.477
+  },
+  {
+   "global_index": 1193,
+   "section": "11",
+   "index": 13,
+   "word": "lies",
+   "start_s": 496.557,
+   "end_s": 496.797
+  },
+  {
+   "global_index": 1194,
+   "section": "11",
+   "index": 14,
+   "word": "a",
+   "start_s": 496.877,
+   "end_s": 496.957
+  },
+  {
+   "global_index": 1195,
+   "section": "11",
+   "index": 15,
+   "word": "stone",
+   "start_s": 497.157,
+   "end_s": 497.357
+  },
+  {
+   "global_index": 1196,
+   "section": "11",
+   "index": 16,
+   "word": "platform.",
+   "start_s": 497.837,
+   "end_s": 498.357
+  },
+  {
+   "global_index": 1197,
+   "section": "11",
+   "index": 17,
+   "word": "In",
+   "start_s": 498.397,
+   "end_s": 498.557
+  },
+  {
+   "global_index": 1198,
+   "section": "11",
+   "index": 18,
+   "word": "one",
+   "start_s": 498.677,
+   "end_s": 498.797
+  },
+  {
+   "global_index": 1199,
+   "section": "11",
+   "index": 19,
+   "word": "course",
+   "start_s": 498.917,
+   "end_s": 499.037
+  },
+  {
+   "global_index": 1200,
+   "section": "11",
+   "index": 20,
+   "word": "of",
+   "start_s": 499.117,
+   "end_s": 499.157
+  },
+  {
+   "global_index": 1201,
+   "section": "11",
+   "index": 21,
+   "word": "its",
+   "start_s": 499.197,
+   "end_s": 499.357
+  },
+  {
+   "global_index": 1202,
+   "section": "11",
+   "index": 22,
+   "word": "wall",
+   "start_s": 499.437,
+   "end_s": 499.837
+  },
+  {
+   "global_index": 1203,
+   "section": "11",
+   "index": 23,
+   "word": "sit",
+   "start_s": 499.957,
+   "end_s": 500.077
+  },
+  {
+   "global_index": 1204,
+   "section": "11",
+   "index": 24,
+   "word": "three",
+   "start_s": 500.157,
+   "end_s": 500.477
+  },
+  {
+   "global_index": 1205,
+   "section": "11",
+   "index": 25,
+   "word": "limestone",
+   "start_s": 500.517,
+   "end_s": 501.037
+  },
+  {
+   "global_index": 1206,
+   "section": "11",
+   "index": 26,
+   "word": "blocks",
+   "start_s": 501.117,
+   "end_s": 501.517
+  },
+  {
+   "global_index": 1207,
+   "section": "11",
+   "index": 27,
+   "word": "side",
+   "start_s": 501.637,
+   "end_s": 501.757
+  },
+  {
+   "global_index": 1208,
+   "section": "11",
+   "index": 28,
+   "word": "by",
+   "start_s": 501.877,
+   "end_s": 501.997
+  },
+  {
+   "global_index": 1209,
+   "section": "11",
+   "index": 29,
+   "word": "side:",
+   "start_s": 502.357,
+   "end_s": 502.757
+  },
+  {
+   "global_index": 1210,
+   "section": "11",
+   "index": 30,
+   "word": "the",
+   "start_s": 502.797,
+   "end_s": 502.877
+  },
+  {
+   "global_index": 1211,
+   "section": "11",
+   "index": 31,
+   "word": "Trilithon.",
+   "start_s": 502.957,
+   "end_s": 504.037
+  },
+  {
+   "global_index": 1212,
+   "section": "11",
+   "index": 32,
+   "word": "Each",
+   "start_s": 504.077,
+   "end_s": 504.317
+  },
+  {
+   "global_index": 1213,
+   "section": "11",
+   "index": 33,
+   "word": "is",
+   "start_s": 504.357,
+   "end_s": 504.397
+  },
+  {
+   "global_index": 1214,
+   "section": "11",
+   "index": 34,
+   "word": "about",
+   "start_s": 504.477,
+   "end_s": 504.797
+  },
+  {
+   "global_index": 1215,
+   "section": "11",
+   "index": 35,
+   "word": "nineteen",
+   "start_s": 504.877,
+   "end_s": 505.277
+  },
+  {
+   "global_index": 1216,
+   "section": "11",
+   "index": 36,
+   "word": "metres",
+   "start_s": 505.357,
+   "end_s": 505.677
+  },
+  {
+   "global_index": 1217,
+   "section": "11",
+   "index": 37,
+   "word": "long,",
+   "start_s": 505.757,
+   "end_s": 506.29
+  },
+  {
+   "global_index": 1218,
+   "section": "11",
+   "index": 38,
+   "word": "and",
+   "start_s": 506.344,
+   "end_s": 506.397
+  },
+  {
+   "global_index": 1219,
+   "section": "11",
+   "index": 39,
+   "word": "commonly",
+   "start_s": 506.557,
+   "end_s": 506.877
+  },
+  {
+   "global_index": 1220,
+   "section": "11",
+   "index": 40,
+   "word": "estimated",
+   "start_s": 507.157,
+   "end_s": 507.437
+  },
+  {
+   "global_index": 1221,
+   "section": "11",
+   "index": 41,
+   "word": "at",
+   "start_s": 507.517,
+   "end_s": 507.597
+  },
+  {
+   "global_index": 1222,
+   "section": "11",
+   "index": 42,
+   "word": "around",
+   "start_s": 507.677,
+   "end_s": 507.997
+  },
+  {
+   "global_index": 1223,
+   "section": "11",
+   "index": 43,
+   "word": "eight",
+   "start_s": 508.077,
+   "end_s": 508.317
+  },
+  {
+   "global_index": 1224,
+   "section": "11",
+   "index": 44,
+   "word": "hundred",
+   "start_s": 508.397,
+   "end_s": 508.797
+  },
+  {
+   "global_index": 1225,
+   "section": "11",
+   "index": 45,
+   "word": "tonnes.",
+   "start_s": 508.877,
+   "end_s": 509.637
+  },
+  {
+   "global_index": 1226,
+   "section": "11",
+   "index": 46,
+   "word": "They",
+   "start_s": 509.677,
+   "end_s": 509.757
+  },
+  {
+   "global_index": 1227,
+   "section": "11",
+   "index": 47,
+   "word": "were",
+   "start_s": 509.837,
+   "end_s": 509.917
+  },
+  {
+   "global_index": 1228,
+   "section": "11",
+   "index": 48,
+   "word": "cut",
+   "start_s": 509.997,
+   "end_s": 510.157
+  },
+  {
+   "global_index": 1229,
+   "section": "11",
+   "index": 49,
+   "word": "about",
+   "start_s": 510.357,
+   "end_s": 510.557
+  },
+  {
+   "global_index": 1230,
+   "section": "11",
+   "index": 50,
+   "word": "two",
+   "start_s": 510.677,
+   "end_s": 510.797
+  },
+  {
+   "global_index": 1231,
+   "section": "11",
+   "index": 51,
+   "word": "thousand",
+   "start_s": 510.877,
+   "end_s": 511.197
+  },
+  {
+   "global_index": 1232,
+   "section": "11",
+   "index": 52,
+   "word": "years",
+   "start_s": 511.277,
+   "end_s": 511.437
+  },
+  {
+   "global_index": 1233,
+   "section": "11",
+   "index": 53,
+   "word": "ago,",
+   "start_s": 511.517,
+   "end_s": 511.97
+  },
+  {
+   "global_index": 1234,
+   "section": "11",
+   "index": 54,
+   "word": "from",
+   "start_s": 512.024,
+   "end_s": 512.077
+  },
+  {
+   "global_index": 1235,
+   "section": "11",
+   "index": 55,
+   "word": "a",
+   "start_s": 512.117,
+   "end_s": 512.157
+  },
+  {
+   "global_index": 1236,
+   "section": "11",
+   "index": 56,
+   "word": "limestone",
+   "start_s": 512.237,
+   "end_s": 512.717
+  },
+  {
+   "global_index": 1237,
+   "section": "11",
+   "index": 57,
+   "word": "quarry",
+   "start_s": 512.797,
+   "end_s": 513.117
+  },
+  {
+   "global_index": 1238,
+   "section": "11",
+   "index": 58,
+   "word": "nearby.",
+   "start_s": 513.237,
+   "end_s": 513.997
+  },
+  {
+   "global_index": 1239,
+   "section": "11",
+   "index": 59,
+   "word": "Many",
+   "start_s": 514.077,
+   "end_s": 514.237
+  },
+  {
+   "global_index": 1240,
+   "section": "11",
+   "index": 60,
+   "word": "researchers",
+   "start_s": 514.317,
+   "end_s": 514.877
+  },
+  {
+   "global_index": 1241,
+   "section": "11",
+   "index": 61,
+   "word": "believe",
+   "start_s": 514.957,
+   "end_s": 515.277
+  },
+  {
+   "global_index": 1242,
+   "section": "11",
+   "index": 62,
+   "word": "they",
+   "start_s": 515.317,
+   "end_s": 515.357
+  },
+  {
+   "global_index": 1243,
+   "section": "11",
+   "index": 63,
+   "word": "were",
+   "start_s": 515.437,
+   "end_s": 515.597
+  },
+  {
+   "global_index": 1244,
+   "section": "11",
+   "index": 64,
+   "word": "moved",
+   "start_s": 515.717,
+   "end_s": 515.837
+  },
+  {
+   "global_index": 1245,
+   "section": "11",
+   "index": 65,
+   "word": "on",
+   "start_s": 515.917,
+   "end_s": 516.077
+  },
+  {
+   "global_index": 1246,
+   "section": "11",
+   "index": 66,
+   "word": "timber",
+   "start_s": 516.157,
+   "end_s": 516.477
+  },
+  {
+   "global_index": 1247,
+   "section": "11",
+   "index": 67,
+   "word": "tracks",
+   "start_s": 516.677,
+   "end_s": 516.877
+  },
+  {
+   "global_index": 1248,
+   "section": "11",
+   "index": 68,
+   "word": "or",
+   "start_s": 516.957,
+   "end_s": 517.117
+  },
+  {
+   "global_index": 1249,
+   "section": "11",
+   "index": 69,
+   "word": "rollers",
+   "start_s": 517.397,
+   "end_s": 517.677
+  },
+  {
+   "global_index": 1250,
+   "section": "11",
+   "index": 70,
+   "word": "by",
+   "start_s": 517.757,
+   "end_s": 517.837
+  },
+  {
+   "global_index": 1251,
+   "section": "11",
+   "index": 71,
+   "word": "enormous",
+   "start_s": 517.997,
+   "end_s": 518.557
+  },
+  {
+   "global_index": 1252,
+   "section": "11",
+   "index": 72,
+   "word": "teams,",
+   "start_s": 518.877,
+   "end_s": 519.237
+  },
+  {
+   "global_index": 1253,
+   "section": "11",
+   "index": 73,
+   "word": "using",
+   "start_s": 519.277,
+   "end_s": 519.517
+  },
+  {
+   "global_index": 1254,
+   "section": "11",
+   "index": 74,
+   "word": "levers",
+   "start_s": 519.597,
+   "end_s": 519.997
+  },
+  {
+   "global_index": 1255,
+   "section": "11",
+   "index": 75,
+   "word": "and",
+   "start_s": 520.077,
+   "end_s": 520.157
+  },
+  {
+   "global_index": 1256,
+   "section": "11",
+   "index": 76,
+   "word": "capstans,",
+   "start_s": 520.237,
+   "end_s": 521.077
+  },
+  {
+   "global_index": 1257,
+   "section": "11",
+   "index": 77,
+   "word": "giant",
+   "start_s": 521.117,
+   "end_s": 521.437
+  },
+  {
+   "global_index": 1258,
+   "section": "11",
+   "index": 78,
+   "word": "winches",
+   "start_s": 521.517,
+   "end_s": 521.997
+  },
+  {
+   "global_index": 1259,
+   "section": "11",
+   "index": 79,
+   "word": "turned",
+   "start_s": 522.117,
+   "end_s": 522.237
+  },
+  {
+   "global_index": 1260,
+   "section": "11",
+   "index": 80,
+   "word": "by",
+   "start_s": 522.317,
+   "end_s": 522.477
+  },
+  {
+   "global_index": 1261,
+   "section": "11",
+   "index": 81,
+   "word": "people",
+   "start_s": 522.557,
+   "end_s": 522.877
+  },
+  {
+   "global_index": 1262,
+   "section": "11",
+   "index": 82,
+   "word": "or",
+   "start_s": 522.957,
+   "end_s": 523.037
+  },
+  {
+   "global_index": 1263,
+   "section": "11",
+   "index": 83,
+   "word": "animals.",
+   "start_s": 523.117,
+   "end_s": 523.957
+  },
+  {
+   "global_index": 1264,
+   "section": "11",
+   "index": 84,
+   "word": "And",
+   "start_s": 523.997,
+   "end_s": 524.077
+  },
+  {
+   "global_index": 1265,
+   "section": "11",
+   "index": 85,
+   "word": "the",
+   "start_s": 524.157,
+   "end_s": 524.237
+  },
+  {
+   "global_index": 1266,
+   "section": "11",
+   "index": 86,
+   "word": "strangest",
+   "start_s": 524.317,
+   "end_s": 524.797
+  },
+  {
+   "global_index": 1267,
+   "section": "11",
+   "index": 87,
+   "word": "part",
+   "start_s": 524.957,
+   "end_s": 525.117
+  },
+  {
+   "global_index": 1268,
+   "section": "11",
+   "index": 88,
+   "word": "is",
+   "start_s": 525.237,
+   "end_s": 525.357
+  },
+  {
+   "global_index": 1269,
+   "section": "11",
+   "index": 89,
+   "word": "waiting",
+   "start_s": 525.517,
+   "end_s": 525.677
+  },
+  {
+   "global_index": 1270,
+   "section": "11",
+   "index": 90,
+   "word": "in",
+   "start_s": 525.717,
+   "end_s": 525.757
+  },
+  {
+   "global_index": 1271,
+   "section": "11",
+   "index": 91,
+   "word": "that",
+   "start_s": 525.837,
+   "end_s": 525.997
+  },
+  {
+   "global_index": 1272,
+   "section": "11",
+   "index": 92,
+   "word": "quarry:",
+   "start_s": 526.077,
+   "end_s": 526.757
+  },
+  {
+   "global_index": 1273,
+   "section": "11",
+   "index": 93,
+   "word": "even",
+   "start_s": 526.797,
+   "end_s": 527.117
+  },
+  {
+   "global_index": 1274,
+   "section": "11",
+   "index": 94,
+   "word": "larger",
+   "start_s": 527.197,
+   "end_s": 527.597
+  },
+  {
+   "global_index": 1275,
+   "section": "11",
+   "index": 95,
+   "word": "blocks,",
+   "start_s": 527.957,
+   "end_s": 528.357
+  },
+  {
+   "global_index": 1276,
+   "section": "11",
+   "index": 96,
+   "word": "never",
+   "start_s": 528.397,
+   "end_s": 528.717
+  },
+  {
+   "global_index": 1277,
+   "section": "11",
+   "index": 97,
+   "word": "finished.",
+   "start_s": 529.077,
+   "end_s": 529.517
+  },
+  {
+   "global_index": 1278,
+   "section": "11",
+   "index": 98,
+   "word": "One,",
+   "start_s": 529.597,
+   "end_s": 530.037
+  },
+  {
+   "global_index": 1279,
+   "section": "11",
+   "index": 99,
+   "word": "the",
+   "start_s": 530.077,
+   "end_s": 530.157
+  },
+  {
+   "global_index": 1280,
+   "section": "11",
+   "index": 100,
+   "word": "Stone",
+   "start_s": 530.237,
+   "end_s": 530.477
+  },
+  {
+   "global_index": 1281,
+   "section": "11",
+   "index": 101,
+   "word": "of",
+   "start_s": 530.517,
+   "end_s": 530.557
+  },
+  {
+   "global_index": 1282,
+   "section": "11",
+   "index": 102,
+   "word": "the",
+   "start_s": 530.637,
+   "end_s": 530.717
+  },
+  {
+   "global_index": 1283,
+   "section": "11",
+   "index": 103,
+   "word": "Pregnant",
+   "start_s": 530.757,
+   "end_s": 531.117
+  },
+  {
+   "global_index": 1284,
+   "section": "11",
+   "index": 104,
+   "word": "Woman,",
+   "start_s": 531.357,
+   "end_s": 531.637
+  },
+  {
+   "global_index": 1285,
+   "section": "11",
+   "index": 105,
+   "word": "is",
+   "start_s": 531.677,
+   "end_s": 531.757
+  },
+  {
+   "global_index": 1286,
+   "section": "11",
+   "index": 106,
+   "word": "estimated",
+   "start_s": 531.837,
+   "end_s": 532.317
+  },
+  {
+   "global_index": 1287,
+   "section": "11",
+   "index": 107,
+   "word": "at",
+   "start_s": 532.397,
+   "end_s": 532.477
+  },
+  {
+   "global_index": 1288,
+   "section": "11",
+   "index": 108,
+   "word": "around",
+   "start_s": 532.557,
+   "end_s": 532.797
+  },
+  {
+   "global_index": 1289,
+   "section": "11",
+   "index": 109,
+   "word": "a",
+   "start_s": 532.957,
+   "end_s": 532.997
+  },
+  {
+   "global_index": 1290,
+   "section": "11",
+   "index": 110,
+   "word": "thousand",
+   "start_s": 533.037,
+   "end_s": 533.437
+  },
+  {
+   "global_index": 1291,
+   "section": "11",
+   "index": 111,
+   "word": "tonnes.",
+   "start_s": 533.517,
+   "end_s": 534.277
+  },
+  {
+   "global_index": 1292,
+   "section": "11",
+   "index": 112,
+   "word": "In",
+   "start_s": 534.317,
+   "end_s": 534.397
+  },
+  {
+   "global_index": 1293,
+   "section": "11",
+   "index": 113,
+   "word": "twenty",
+   "start_s": 534.477,
+   "end_s": 534.717
+  },
+  {
+   "global_index": 1294,
+   "section": "11",
+   "index": 114,
+   "word": "fourteen,",
+   "start_s": 534.837,
+   "end_s": 535.624
+  },
+  {
+   "global_index": 1295,
+   "section": "11",
+   "index": 115,
+   "word": "German",
+   "start_s": 535.73,
+   "end_s": 535.837
+  },
+  {
+   "global_index": 1296,
+   "section": "11",
+   "index": 116,
+   "word": "archaeologists",
+   "start_s": 535.917,
+   "end_s": 536.637
+  },
+  {
+   "global_index": 1297,
+   "section": "11",
+   "index": 117,
+   "word": "exposed",
+   "start_s": 536.717,
+   "end_s": 537.117
+  },
+  {
+   "global_index": 1298,
+   "section": "11",
+   "index": 118,
+   "word": "another,",
+   "start_s": 537.197,
+   "end_s": 537.797
+  },
+  {
+   "global_index": 1299,
+   "section": "11",
+   "index": 119,
+   "word": "estimated",
+   "start_s": 537.837,
+   "end_s": 538.317
+  },
+  {
+   "global_index": 1300,
+   "section": "11",
+   "index": 120,
+   "word": "at",
+   "start_s": 538.397,
+   "end_s": 538.477
+  },
+  {
+   "global_index": 1301,
+   "section": "11",
+   "index": 121,
+   "word": "around",
+   "start_s": 538.677,
+   "end_s": 538.877
+  },
+  {
+   "global_index": 1302,
+   "section": "11",
+   "index": 122,
+   "word": "sixteen",
+   "start_s": 538.997,
+   "end_s": 539.277
+  },
+  {
+   "global_index": 1303,
+   "section": "11",
+   "index": 123,
+   "word": "hundred",
+   "start_s": 539.357,
+   "end_s": 539.597
+  },
+  {
+   "global_index": 1304,
+   "section": "11",
+   "index": 124,
+   "word": "and",
+   "start_s": 539.677,
+   "end_s": 539.757
+  },
+  {
+   "global_index": 1305,
+   "section": "11",
+   "index": 125,
+   "word": "fifty.",
+   "start_s": 539.837,
+   "end_s": 540.517
+  },
+  {
+   "global_index": 1306,
+   "section": "11",
+   "index": 126,
+   "word": "Modern",
+   "start_s": 540.557,
+   "end_s": 540.877
+  },
+  {
+   "global_index": 1307,
+   "section": "11",
+   "index": 127,
+   "word": "cranes",
+   "start_s": 540.957,
+   "end_s": 541.357
+  },
+  {
+   "global_index": 1308,
+   "section": "11",
+   "index": 128,
+   "word": "can",
+   "start_s": 541.437,
+   "end_s": 541.517
+  },
+  {
+   "global_index": 1309,
+   "section": "11",
+   "index": 129,
+   "word": "lift",
+   "start_s": 541.637,
+   "end_s": 541.757
+  },
+  {
+   "global_index": 1310,
+   "section": "11",
+   "index": 130,
+   "word": "heavier",
+   "start_s": 541.837,
+   "end_s": 542.157
+  },
+  {
+   "global_index": 1311,
+   "section": "11",
+   "index": 131,
+   "word": "loads.",
+   "start_s": 542.237,
+   "end_s": 542.917
+  },
+  {
+   "global_index": 1312,
+   "section": "11",
+   "index": 132,
+   "word": "The",
+   "start_s": 542.957,
+   "end_s": 543.037
+  },
+  {
+   "global_index": 1313,
+   "section": "11",
+   "index": 133,
+   "word": "real",
+   "start_s": 543.117,
+   "end_s": 543.277
+  },
+  {
+   "global_index": 1314,
+   "section": "11",
+   "index": 134,
+   "word": "question",
+   "start_s": 543.357,
+   "end_s": 543.837
+  },
+  {
+   "global_index": 1315,
+   "section": "11",
+   "index": 135,
+   "word": "is",
+   "start_s": 543.917,
+   "end_s": 544.077
+  },
+  {
+   "global_index": 1316,
+   "section": "11",
+   "index": 136,
+   "word": "how",
+   "start_s": 544.157,
+   "end_s": 544.397
+  },
+  {
+   "global_index": 1317,
+   "section": "11",
+   "index": 137,
+   "word": "Roman-era",
+   "start_s": 544.557,
+   "end_s": 545.037
+  },
+  {
+   "global_index": 1318,
+   "section": "11",
+   "index": 138,
+   "word": "engineers",
+   "start_s": 545.237,
+   "end_s": 545.677
+  },
+  {
+   "global_index": 1319,
+   "section": "11",
+   "index": 139,
+   "word": "did",
+   "start_s": 545.757,
+   "end_s": 545.837
+  },
+  {
+   "global_index": 1320,
+   "section": "11",
+   "index": 140,
+   "word": "it",
+   "start_s": 545.917,
+   "end_s": 545.997
+  },
+  {
+   "global_index": 1321,
+   "section": "11",
+   "index": 141,
+   "word": "with",
+   "start_s": 546.117,
+   "end_s": 546.237
+  },
+  {
+   "global_index": 1322,
+   "section": "11",
+   "index": 142,
+   "word": "rope,",
+   "start_s": 546.317,
+   "end_s": 546.837
+  },
+  {
+   "global_index": 1323,
+   "section": "11",
+   "index": 143,
+   "word": "timber,",
+   "start_s": 546.877,
+   "end_s": 547.477
+  },
+  {
+   "global_index": 1324,
+   "section": "11",
+   "index": 144,
+   "word": "muscle",
+   "start_s": 547.517,
+   "end_s": 547.917
+  },
+  {
+   "global_index": 1325,
+   "section": "11",
+   "index": 145,
+   "word": "and",
+   "start_s": 547.997,
+   "end_s": 548.077
+  },
+  {
+   "global_index": 1326,
+   "section": "11",
+   "index": 146,
+   "word": "mechanical",
+   "start_s": 548.157,
+   "end_s": 548.637
+  },
+  {
+   "global_index": 1327,
+   "section": "11",
+   "index": 147,
+   "word": "advantage,",
+   "start_s": 548.757,
+   "end_s": 549.49
+  },
+  {
+   "global_index": 1328,
+   "section": "11",
+   "index": 148,
+   "word": "and",
+   "start_s": 549.544,
+   "end_s": 549.597
+  },
+  {
+   "global_index": 1329,
+   "section": "11",
+   "index": 149,
+   "word": "why",
+   "start_s": 549.677,
+   "end_s": 549.837
+  },
+  {
+   "global_index": 1330,
+   "section": "11",
+   "index": 150,
+   "word": "they",
+   "start_s": 549.917,
+   "end_s": 549.997
+  },
+  {
+   "global_index": 1331,
+   "section": "11",
+   "index": 151,
+   "word": "left",
+   "start_s": 550.117,
+   "end_s": 550.237
+  },
+  {
+   "global_index": 1332,
+   "section": "11",
+   "index": 152,
+   "word": "the",
+   "start_s": 550.317,
+   "end_s": 550.397
+  },
+  {
+   "global_index": 1333,
+   "section": "11",
+   "index": 153,
+   "word": "biggest",
+   "start_s": 550.477,
+   "end_s": 550.717
+  },
+  {
+   "global_index": 1334,
+   "section": "11",
+   "index": 154,
+   "word": "stones",
+   "start_s": 550.797,
+   "end_s": 551.117
+  },
+  {
+   "global_index": 1335,
+   "section": "11",
+   "index": 155,
+   "word": "behind.",
+   "start_s": 551.237,
+   "end_s": 551.748
+  },
+  {
+   "global_index": 1336,
+   "section": "12",
+   "index": 0,
+   "word": "Nine",
+   "start_s": 552.548,
+   "end_s": 552.868
+  },
+  {
+   "global_index": 1337,
+   "section": "12",
+   "index": 1,
+   "word": "sites,",
+   "start_s": 552.948,
+   "end_s": 553.668
+  },
+  {
+   "global_index": 1338,
+   "section": "12",
+   "index": 2,
+   "word": "thousands",
+   "start_s": 553.748,
+   "end_s": 554.228
+  },
+  {
+   "global_index": 1339,
+   "section": "12",
+   "index": 3,
+   "word": "of",
+   "start_s": 554.268,
+   "end_s": 554.308
+  },
+  {
+   "global_index": 1340,
+   "section": "12",
+   "index": 4,
+   "word": "years",
+   "start_s": 554.388,
+   "end_s": 554.628
+  },
+  {
+   "global_index": 1341,
+   "section": "12",
+   "index": 5,
+   "word": "apart.",
+   "start_s": 554.748,
+   "end_s": 555.508
+  },
+  {
+   "global_index": 1342,
+   "section": "12",
+   "index": 6,
+   "word": "No",
+   "start_s": 555.588,
+   "end_s": 555.748
+  },
+  {
+   "global_index": 1343,
+   "section": "12",
+   "index": 7,
+   "word": "lost",
+   "start_s": 555.828,
+   "end_s": 556.068
+  },
+  {
+   "global_index": 1344,
+   "section": "12",
+   "index": 8,
+   "word": "civilisation",
+   "start_s": 556.148,
+   "end_s": 556.788
+  },
+  {
+   "global_index": 1345,
+   "section": "12",
+   "index": 9,
+   "word": "required.",
+   "start_s": 556.868,
+   "end_s": 557.748
+  },
+  {
+   "global_index": 1346,
+   "section": "12",
+   "index": 10,
+   "word": "Just",
+   "start_s": 557.828,
+   "end_s": 558.068
+  },
+  {
+   "global_index": 1347,
+   "section": "12",
+   "index": 11,
+   "word": "people",
+   "start_s": 558.228,
+   "end_s": 558.388
+  },
+  {
+   "global_index": 1348,
+   "section": "12",
+   "index": 12,
+   "word": "who",
+   "start_s": 558.508,
+   "end_s": 558.628
+  },
+  {
+   "global_index": 1349,
+   "section": "12",
+   "index": 13,
+   "word": "understood",
+   "start_s": 558.708,
+   "end_s": 559.188
+  },
+  {
+   "global_index": 1350,
+   "section": "12",
+   "index": 14,
+   "word": "their",
+   "start_s": 559.228,
+   "end_s": 559.268
+  },
+  {
+   "global_index": 1351,
+   "section": "12",
+   "index": 15,
+   "word": "materials,",
+   "start_s": 559.348,
+   "end_s": 560.415
+  },
+  {
+   "global_index": 1352,
+   "section": "12",
+   "index": 16,
+   "word": "organised",
+   "start_s": 560.521,
+   "end_s": 560.868
+  },
+  {
+   "global_index": 1353,
+   "section": "12",
+   "index": 17,
+   "word": "enormous",
+   "start_s": 560.948,
+   "end_s": 561.508
+  },
+  {
+   "global_index": 1354,
+   "section": "12",
+   "index": 18,
+   "word": "workforces,",
+   "start_s": 561.588,
+   "end_s": 562.508
+  },
+  {
+   "global_index": 1355,
+   "section": "12",
+   "index": 19,
+   "word": "and",
+   "start_s": 562.548,
+   "end_s": 562.628
+  },
+  {
+   "global_index": 1356,
+   "section": "12",
+   "index": 20,
+   "word": "refused",
+   "start_s": 562.708,
+   "end_s": 563.348
+  },
+  {
+   "global_index": 1357,
+   "section": "12",
+   "index": 21,
+   "word": "to",
+   "start_s": 563.428,
+   "end_s": 563.508
+  },
+  {
+   "global_index": 1358,
+   "section": "12",
+   "index": 22,
+   "word": "build",
+   "start_s": 563.668,
+   "end_s": 563.828
+  },
+  {
+   "global_index": 1359,
+   "section": "12",
+   "index": 23,
+   "word": "small.",
+   "start_s": 564.228,
+   "end_s": 564.668
+  },
+  {
+   "global_index": 1360,
+   "section": "12",
+   "index": 24,
+   "word": "That",
+   "start_s": 564.708,
+   "end_s": 564.948
+  },
+  {
+   "global_index": 1361,
+   "section": "12",
+   "index": 25,
+   "word": "might",
+   "start_s": 565.028,
+   "end_s": 565.108
+  },
+  {
+   "global_index": 1362,
+   "section": "12",
+   "index": 26,
+   "word": "be",
+   "start_s": 565.188,
+   "end_s": 565.268
+  },
+  {
+   "global_index": 1363,
+   "section": "12",
+   "index": 27,
+   "word": "the",
+   "start_s": 565.308,
+   "end_s": 565.348
+  },
+  {
+   "global_index": 1364,
+   "section": "12",
+   "index": 28,
+   "word": "most",
+   "start_s": 565.428,
+   "end_s": 565.588
+  },
+  {
+   "global_index": 1365,
+   "section": "12",
+   "index": 29,
+   "word": "remarkable",
+   "start_s": 565.668,
+   "end_s": 566.308
+  },
+  {
+   "global_index": 1366,
+   "section": "12",
+   "index": 30,
+   "word": "answer",
+   "start_s": 566.388,
+   "end_s": 566.628
+  },
+  {
+   "global_index": 1367,
+   "section": "12",
+   "index": 31,
+   "word": "of",
+   "start_s": 566.708,
+   "end_s": 566.788
+  },
+  {
+   "global_index": 1368,
+   "section": "12",
+   "index": 32,
+   "word": "all.",
+   "start_s": 566.868,
+   "end_s": 567.628
+  },
+  {
+   "global_index": 1369,
+   "section": "12",
+   "index": 33,
+   "word": "Which",
+   "start_s": 567.668,
+   "end_s": 567.828
+  },
+  {
+   "global_index": 1370,
+   "section": "12",
+   "index": 34,
+   "word": "one",
+   "start_s": 567.908,
+   "end_s": 568.068
+  },
+  {
+   "global_index": 1371,
+   "section": "12",
+   "index": 35,
+   "word": "still",
+   "start_s": 568.148,
+   "end_s": 568.388
+  },
+  {
+   "global_index": 1372,
+   "section": "12",
+   "index": 36,
+   "word": "puzzles",
+   "start_s": 568.428,
+   "end_s": 568.868
+  },
+  {
+   "global_index": 1373,
+   "section": "12",
+   "index": 37,
+   "word": "you",
+   "start_s": 568.948,
+   "end_s": 569.028
+  },
+  {
+   "global_index": 1374,
+   "section": "12",
+   "index": 38,
+   "word": "most?",
+   "start_s": 569.108,
+   "end_s": 569.868
+  },
+  {
+   "global_index": 1375,
+   "section": "12",
+   "index": 39,
+   "word": "Tell",
+   "start_s": 569.908,
+   "end_s": 570.068
+  },
+  {
+   "global_index": 1376,
+   "section": "12",
+   "index": 40,
+   "word": "us",
+   "start_s": 570.108,
+   "end_s": 570.148
+  },
+  {
+   "global_index": 1377,
+   "section": "12",
+   "index": 41,
+   "word": "in",
+   "start_s": 570.228,
+   "end_s": 570.308
+  },
+  {
+   "global_index": 1378,
+   "section": "12",
+   "index": 42,
+   "word": "the",
+   "start_s": 570.348,
+   "end_s": 570.388
+  },
+  {
+   "global_index": 1379,
+   "section": "12",
+   "index": 43,
+   "word": "comments.",
+   "start_s": 570.868,
+   "end_s": 571.388
+  },
+  {
+   "global_index": 1380,
+   "section": "12",
+   "index": 44,
+   "word": "This",
+   "start_s": 571.428,
+   "end_s": 571.828
+  },
+  {
+   "global_index": 1381,
+   "section": "12",
+   "index": 45,
+   "word": "is",
+   "start_s": 571.908,
+   "end_s": 572.068
+  },
+  {
+   "global_index": 1382,
+   "section": "12",
+   "index": 46,
+   "word": "The",
+   "start_s": 572.108,
+   "end_s": 572.148
+  },
+  {
+   "global_index": 1383,
+   "section": "12",
+   "index": 47,
+   "word": "Knowverse.",
+   "start_s": 572.228,
+   "end_s": 572.907
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "audio": "audio/ancient-megastructures-narration-full.mp3",
+ "timeline": "full file, seconds",
+ "duration_s": 572.907,
+ "note": "Word times come from ElevenLabs character alignment, offset by each section's placement after trimming. Last-word end times are capped at the section end.",
+ "sections": [
+  {
+   "section": "01",
+   "slug": "01-hook",
+   "heading": "## 01 — HOOK",
+   "start_s": 0.0,
+   "end_s": 28.435,
+   "speech_onset_s": 0.02,
+   "speech_offset_s": 28.385,
+   "gap_after_s": 1.0,
+   "source_trim_s": [
+    0.0,
+    28.435
+   ],
+   "source_duration_s": 28.48,
+   "words": 74
+  },
+  {
+   "section": "02",
+   "slug": "02-introduction",
+   "heading": "## 02 — INTRODUCTION",
+   "start_s": 29.435,
+   "end_s": 43.264,
+   "speech_onset_s": 29.46,
+   "speech_offset_s": 43.214,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    13.829
+   ],
+   "source_duration_s": 14.08,
+   "words": 38
+  },
+  {
+   "section": "03",
+   "slug": "03-09-nan-madol",
+   "heading": "## 03 — #9 NAN MADOL, MICRONESIA",
+   "start_s": 43.864,
+   "end_s": 98.859,
+   "speech_onset_s": 43.879,
+   "speech_offset_s": 98.809,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    54.995
+   ],
+   "source_duration_s": 55.36,
+   "words": 138
+  },
+  {
+   "section": "04",
+   "slug": "04-08-stonehenge",
+   "heading": "## 04 — #8 STONEHENGE, ENGLAND",
+   "start_s": 99.459,
+   "end_s": 151.87,
+   "speech_onset_s": 99.489,
+   "speech_offset_s": 151.82,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    52.411
+   ],
+   "source_duration_s": 52.88,
+   "words": 129
+  },
+  {
+   "section": "05",
+   "slug": "05-07-moai",
+   "heading": "## 05 — #7 THE MOAI, RAPA NUI (CHILE)",
+   "start_s": 152.47,
+   "end_s": 209.511,
+   "speech_onset_s": 152.47,
+   "speech_offset_s": 209.461,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    57.04
+   ],
+   "source_duration_s": 57.52,
+   "words": 146
+  },
+  {
+   "section": "06",
+   "slug": "06-06-great-pyramid",
+   "heading": "## 06 — #6 THE GREAT PYRAMID OF GIZA, EGYPT",
+   "start_s": 210.111,
+   "end_s": 266.373,
+   "speech_onset_s": 210.136,
+   "speech_offset_s": 266.323,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    56.262
+   ],
+   "source_duration_s": 56.72,
+   "words": 143
+  },
+  {
+   "section": "07",
+   "slug": "07-05-gobekli-tepe",
+   "heading": "## 07 — #5 GÖBEKLI TEPE, TÜRKIYE",
+   "start_s": 266.973,
+   "end_s": 322.362,
+   "speech_onset_s": 267.008,
+   "speech_offset_s": 322.312,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    55.389
+   ],
+   "source_duration_s": 55.68,
+   "words": 125
+  },
+  {
+   "section": "08",
+   "slug": "08-04-puma-punku",
+   "heading": "## 08 — #4 PUMA PUNKU, BOLIVIA",
+   "start_s": 322.962,
+   "end_s": 381.699,
+   "speech_onset_s": 322.987,
+   "speech_offset_s": 381.649,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    58.737
+   ],
+   "source_duration_s": 59.12,
+   "words": 131
+  },
+  {
+   "section": "09",
+   "slug": "09-03-sacsayhuaman",
+   "heading": "## 09 — #3 SACSAYHUAMÁN, PERU",
+   "start_s": 382.299,
+   "end_s": 436.611,
+   "speech_onset_s": 382.324,
+   "speech_offset_s": 436.561,
+   "gap_after_s": 0.6,
+   "source_trim_s": [
+    0.0,
+    54.312
+   ],
+   "source_duration_s": 54.8,
+   "words": 126
+  },
+  {
+   "section": "10",
+   "slug": "10-02-derinkuyu",
+   "heading": "## 10 — #2 DERINKUYU, TÜRKIYE",
+   "start_s": 437.211,
+   "end_s": 489.397,
+   "speech_onset_s": 437.221,
+   "speech_offset_s": 489.347,
+   "gap_after_s": 1.0,
+   "source_trim_s": [
+    0.0,
+    52.187
+   ],
+   "source_duration_s": 52.56,
+   "words": 130
+  },
+  {
+   "section": "11",
+   "slug": "11-01-baalbek",
+   "heading": "## 11 — #1 BAALBEK, LEBANON",
+   "start_s": 490.397,
+   "end_s": 551.748,
+   "speech_onset_s": 490.417,
+   "speech_offset_s": 551.698,
+   "gap_after_s": 0.8,
+   "source_trim_s": [
+    0.0,
+    61.351
+   ],
+   "source_duration_s": 61.52,
+   "words": 156
+  },
+  {
+   "section": "12",
+   "slug": "12-closing",
+   "heading": "## 12 — CLOSING",
+   "start_s": 552.548,
+   "end_s": 572.907,
+   "speech_onset_s": 552.553,
+   "speech_offset_s": 572.857,
+   "gap_after_s": null,
+   "source_trim_s": [
+    0.0,
+    20.359
+   ],
+   "source_duration_s": 20.56,
+   "words": 48
+  }
+ ]
+}
