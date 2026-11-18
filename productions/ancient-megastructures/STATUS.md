@@ -1,6 +1,6 @@
 # Production Status: 9 Ancient Megastructures
 
-**Last checkpoint:** 2026-11-18 · v1.2: all accuracy flags closed · **ready for final review. Waiting for your approval to push**
+**Last checkpoint:** 2026-11-18 · v1.2: all accuracy flags closed · **pushed to GitHub** · ready for final review
 **Running right now:** nothing. No background or cloud task is active for this production.
 
 Any session (local or cloud) resuming this work: read this file first, continue from the first ⏳/⬜ stage, and update this file and commit at the end of every stage.
@@ -27,7 +27,11 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 | v1.1 | 2026-11-18 | Baalbek P-1A → Roman iron tools. Sacsayhuamán P-3B → repeated test fit and adjustment. Research flags R-1 to R-4 resolved. Derinkuyu → 50+ m open / ~85 m total. Sacsayhuamán → 100–200 t estimate range. Puma Punku andesite → volcanic sources across the lake (Mount Ccapia). Thumbnail #3 → "85 M DOWN" |
 | v1.2 | 2026-11-18 | Sacsayhuamán P-3A → rough shaping at quarry, final fit at the wall (F-4). Derinkuyu P-2A cutaway → ~85 m to match the narration (F-7). F-2, F-3 and F-6 closed with no change. QC audit: 0 open accuracy issues |
 
-**Push status:** not pushed to GitHub. Waiting for your explicit approval. Local commits only.
+**Push status:** ✅ **Pushed** to GitHub on 2026-11-18, with your approval.
+- Remote branch: `origin/claude/relaxed-johnson-o8xlkc` (https://github.com/Karanch254/EmpireAtlas/tree/claude/relaxed-johnson-o8xlkc)
+- Production commits pushed: `7e2d377` (v1), `82e2416` (v1.1), `261b298` (v1.2, latest production commit)
+- Only `productions/ancient-megastructures/` was pushed. Uncommitted Caspian work in `app/` stays local.
+- Nothing has been published or uploaded to YouTube.
 
 ## Errors / blockers log
 
