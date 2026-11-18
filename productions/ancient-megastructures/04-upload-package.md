@@ -28,10 +28,10 @@
 - Contrast: dark grey-brown stone against a bright overcast sky. Yellow text.
 - Accuracy note: the question mark matters. The walking hypothesis is strongly supported, not proven for every statue.
 
-**3. "60 M DOWN"**
+**3. "85 M DOWN"**
 - Subject: a vertical cutaway of Derinkuyu's levels with one lamp-lit figure at the bottom.
 - Contrast: black rock with a single warm lamp glow and a cyan depth line down the left edge.
-- Accuracy note: matches the script's "around 60 metres". Don't add "20,000 people".
+- Accuracy note: ~85 m is the estimated depth of the full complex according to Turkey's Ministry of Culture and Tourism, and the script states it. Don't add "20,000 people".
 
 ## Description
 

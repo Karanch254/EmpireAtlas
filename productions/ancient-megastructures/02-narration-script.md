@@ -177,7 +177,7 @@ Its stones now lie toppled. But look closely: flat faces, crisp interior angles,
 
 [3D: P-4A Cutting — "3D Reconstruction" label]
 
-It's tempting to jump to lasers. The evidence points elsewhere. The largest slabs are red sandstone, traced to a quarry about ten kilometres away. Andesite came from across the lake. Researchers have found hammerstones and studied tool marks consistent with pecking, grinding and polishing.
+It's tempting to jump to lasers. The evidence points elsewhere. The largest slabs are red sandstone, traced to a quarry about ten kilometres away. Andesite came from volcanic sources across the lake. Researchers have found hammerstones and studied tool marks consistent with pecking, grinding and polishing.
 
 [3D: P-4B Building]
 
@@ -194,10 +194,10 @@ Centuries later, the Inca took fitted stone to an extreme.
 [TEXT: "#3 — Sacsayhuamán, Cusco · 15th century CE"]
 [REAL: walk along the zigzag walls; close-up of a many-angled joint]
 
-Number three: Sacsayhuamán, the Inca complex above Cusco. Its zigzag walls are built from enormous polygonal stones, the largest estimated at well over a hundred tonnes, fitted without mortar.
+Number three: Sacsayhuamán, the Inca complex above Cusco. Its zigzag walls are built from enormous polygonal stones, the largest with weight estimates ranging from about one hundred to two hundred tonnes, fitted without mortar.
 
 [3D: P-3A Cutting — existing prompt — "3D Reconstruction" label]
-[3D: P-3B Placing — existing prompt]
+[3D: P-3B Placing — revised prompt (test fit → adjust → final fit)]
 
 One leading explanation for the tight joints is patient repetition: shape a stone, test it against its neighbour, mark where it touches, adjust, and test again. Experiments with hammerstones show how effective that can be.
 
@@ -212,7 +212,7 @@ So far, everything went up. Number two goes down.
 [TEXT: "#2 — Derinkuyu, Cappadocia"]
 [REAL: tunnel descent, POV; round rolling-stone door]
 
-Number two: Derinkuyu, in Cappadocia. Beneath the town lies an underground complex of multiple levels, with sections around sixty metres below ground.
+Number two: Derinkuyu, in Cappadocia. Beneath the town lies an underground complex of multiple levels. The parts open today go down more than fifty metres, and the full complex is estimated to reach around eighty-five.
 
 [3D: P-2A Cutaway — existing prompt — "3D Reconstruction" label]
 
@@ -236,7 +236,7 @@ Derinkuyu was carved out a basket at a time. Number one went the other way: sing
 
 Number one: Baalbek, in Lebanon's Beqaa Valley. Beneath the Roman Temple of Jupiter lies a stone platform. In one course of its wall sit three limestone blocks side by side: the Trilithon. Each is about nineteen metres long, and commonly estimated at around eight hundred tonnes.
 
-[3D: P-1A Cutting — existing prompt — "3D Reconstruction" label]
+[3D: P-1A Cutting — revised prompt (Roman iron tools) — "3D Reconstruction" label]
 
 They were cut about two thousand years ago, from a limestone quarry nearby.
 

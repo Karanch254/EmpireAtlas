@@ -2,12 +2,12 @@
 
 | # | Check | Result |
 |---|---|---|
-| 1 | Runtime 8–10 min | ✅ 1,347 narration words → ~9:00 at 150 wpm, ~9:17 at 145 wpm, ~9:35 with end card |
+| 1 | Runtime 8–10 min | ✅ 1,367 narration words (v1.1) → ~9:07 at 150 wpm, ~9:26 at 145 wpm, ~9:40 with end card |
 | 2 | All nine in order (#9 Nan Madol → #1 Baalbek) | ✅ |
-| 3 | Claims and measurements verified | ✅ See `01-research-and-sources.md`. Four ⚠ items say exactly what to double-check. |
+| 3 | Claims and measurements verified | ✅ All four v1 ⚠ items rechecked and resolved in v1.1 (R-1 to R-4 in `01-research-and-sources.md`) |
 | 4 | Theories labelled as theories | ✅ "possibly", "proposed", "archaeologists believe", "one leading explanation", "many researchers believe", "strongly supported… not proven" |
 | 5 | No unsupported claims | ✅ The 20,000 Derinkuyu figure is explicitly qualified. No lasers, no "defies modern cranes". Moai walking is not presented as certain. |
-| 6 | Visual prompts match narration | ✅ with flags F-1 to F-7 in `03-shot-list.md`. **F-1 (Baalbek "stone tools") and F-5 (Sacsayhuamán "fits perfectly")** are the two worth fixing. |
+| 6 | Visual prompts match narration | ✅ F-1 (Baalbek → Roman iron tools) and F-5 (Sacsayhuamán → test fit and adjustment) fixed in v1.1. F-2, F-3, F-4, F-6 and F-7 are informational only. |
 | 7 | Hook compelling | ✅ The mandated line opens, followed by three concrete images and a payoff promise. See the hook note below. |
 | 8 | Transitions maintain curiosity | ✅ Every section ends by pointing at the next. Open loops land at 0:40 (#1 tease), 2:19 ("strangest part still coming"), 4:29 (farming rule), 5:19 (wild theories) and 8:42 (quarry reveal). That's roughly one every 60–120 s. |
 | 9 | Retention / packaging skills used | Partly. See the skill report below. |
@@ -51,6 +51,6 @@ yt-script asks for five hooks scored with its `hookscore.py`. The tool **couldn'
 
 ## Before recording
 
-1. Decide on flags F-1 and F-5 (prompt fixes).
-2. Clear the four ⚠ items in the research file, or accept the conservative wording as written.
+1. ~~Decide on flags F-1 and F-5~~ ✅ Fixed in v1.1.
+2. ~~Clear the four ⚠ research items~~ ✅ Resolved in v1.1. Note: the Derinkuyu depth now departs from the brief (~60 m) and uses the official figures (50+ m open, ~85 m total).
 3. Read the script aloud once. Lines that trip you up are the ones to cut.

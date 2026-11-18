@@ -1,6 +1,6 @@
 # Production Status: 9 Ancient Megastructures
 
-**Last checkpoint:** 2026-11-18 · script v1 delivered for review
+**Last checkpoint:** 2026-11-18 · v1.1: prompt fixes and research flags resolved · **ready for your review**
 **Running right now:** nothing. No background or cloud task is active for this production.
 
 Any session (local or cloud) resuming this work: read this file first, continue from the first ⏳/⬜ stage, and update this file and commit at the end of every stage.
@@ -9,22 +9,31 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 
 | # | Stage | Status | Output | Notes / blockers |
 |---|---|---|---|---|
-| 1 | Historical research & fact verification | ✅ Done (v1) | `01-research-and-sources.md` | 4 ⚠ items flagged for a primary-source check |
-| 2 | Scriptwriting | ✅ Done (v1) | `02-narration-script.md` | 1,347 words, ~9:00–9:20 |
+| 1 | Historical research & fact verification | ✅ Done (v1.1) | `01-research-and-sources.md` | All 4 flagged items rechecked and resolved (R-1 to R-4) |
+| 2 | Scriptwriting | ✅ Done (v1.1) | `02-narration-script.md` | 1,367 words, ~9:05–9:25. Puma Punku, Sacsayhuamán and Derinkuyu lines updated |
 | 3 | Script review & retention optimisation | ✅ Done (v1) | `05-quality-control.md` | Awaiting **your review** |
-| 4 | Visual prompt generation | ✅ Done | `03-shot-list.md` | 18 new prompts + 9 preserved. Decide on flags F-1 and F-5 |
+| 4 | Visual prompt generation | ✅ Done (v1.1) | `03-shot-list.md` | Baalbek cutting prompt → Roman iron tools. Sacsayhuamán placing prompt → test fit and adjust. 18 new + 7 unchanged + 2 corrected |
 | 5 | Real-footage research | 🟡 Search terms ready | `03-shot-list.md` | Next: find specific clips and check licences (Pexels free; others may cost money and need your approval) |
 | 6 | Voiceover preparation | ⬜ Not started | — | Blocked on script approval. Any paid TTS or vidIQ voiceover needs your approval |
 | 7 | Video editing & rendering | ⬜ Not started | — | Needs a machine with the editor/Remotion and the footage. **Can't run in the cloud as currently set up** (see below) |
 | 8 | Final quality checks | ⬜ Not started | — | |
 | 9 | YouTube upload package | ✅ Draft done | `04-upload-package.md` | Re-time chapters after voiceover. **Never published without your explicit approval** |
 
+## Changelog
+
+| Version | Date | Change |
+|---|---|---|
+| v1 | 2026-11-18 | Script, shot list, research, upload package, QC (commit 7e2d377) |
+| v1.1 | 2026-11-18 | Baalbek P-1A → Roman iron tools. Sacsayhuamán P-3B → repeated test fit and adjustment. Research flags R-1 to R-4 resolved. Derinkuyu → 50+ m open / ~85 m total. Sacsayhuamán → 100–200 t estimate range. Puma Punku andesite → volcanic sources across the lake (Mount Ccapia). Thumbnail #3 → "85 M DOWN" |
+
+**Push status:** not pushed to GitHub, per your instruction. Local commits only.
+
 ## Errors / blockers log
 
 | Date | Issue | Recovery |
 |---|---|---|
 | 2026-11-18 | `hookscore.py` / `title.py` (YouTube Agent tools) failed: Python isn't installed (only the Windows Store stub) | Hooks and titles assessed manually. Install Python 3 to enable the scoring tools. |
-| 2026-11-18 | `yt-viral` skipped: uses vidIQ, which may consume paid credits | Waiting for your approval |
+| 2026-11-18 | `yt-viral` skipped: uses vidIQ, which may consume paid credits | **You said not to run it.** Not run, and no vidIQ credits used |
 | 2026-11-18 | `~/.claude/youtube/voice.md` missing | Send 3 of your videos to build the voice profile |
 
 ## Cloud continuity: what's actually available
