@@ -1,6 +1,6 @@
 # Production Status: 9 Ancient Megastructures
 
-**Last checkpoint:** 2026-11-18 · Phase 2 voiceover: script approved (1,367 words), configuration proposed · **waiting for your approval and an ElevenLabs connection**
+**Last checkpoint:** 2026-11-18 · Phase 2 voiceover: dictionary upload blocked by an API key permission · **0 credits used · waiting for you to update the key**
 **Running right now:** nothing. No background or cloud task is active for this production.
 
 Any session (local or cloud) resuming this work: read this file first, continue from the first ⏳/⬜ stage, and update this file and commit at the end of every stage.
@@ -14,7 +14,7 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 | 3 | Script review & retention optimisation | ✅ Done (v1.2) | `05-quality-control.md` | 0 unresolved factual or visual issues |
 | 4 | Visual prompt generation | ✅ Done (v1.2) | `03-shot-list.md` | All 7 flags closed. 4 prompts corrected (Baalbek cutting, Sacsayhuamán cutting and placing, Derinkuyu cutaway). 5 existing prompts unchanged. 18 new |
 | 5 | Real-footage research | 🟡 Search terms ready | `03-shot-list.md` | Next: find specific clips and check licences (Pexels free; others may cost money and need your approval) |
-| 6 | Voiceover preparation | 🟡 Step 2 proposed | `voiceover/VOICEOVER-CONFIG.md`, `voiceover/spoken-form-v1.md`, `voiceover/pronunciation-aliases.pls` | Step 1 ✅ you approved the script (1,367 words). Step 2: voice Dan (`fvVBPXuE7f1iX3dZLKFy`), eleven_v4, ≈8,631 chars (≈10,700 credits with preview and retakes). **Blocker:** no ElevenLabs key on this PC (API returned 401). No audio generated, no credits used |
+| 6 | Voiceover preparation | 🟥 Blocked | `voiceover/VOICEOVER-CONFIG.md`, `voiceover/spoken-form-v1.md`, `voiceover/pronunciation-aliases.pls` | ✅ Script approved (1,367 words). ✅ Cloud read-only check: Creator plan, 101,184 credits left, Dan + eleven_v4 OK, ffmpeg OK. ✅ b7d39d2 pushed. ❌ Dictionary upload refused: key lacks `pronunciation_dictionaries_write`. Preview not generated. 0 credits used |
 | 7 | Video editing & rendering | ⬜ Not started | — | Needs a machine with the editor/Remotion and the footage. **Can't run in the cloud as currently set up** (see below) |
 | 8 | Final quality checks | ⬜ Not started | — | |
 | 9 | YouTube upload package | ✅ Draft done | `04-upload-package.md` | Re-time chapters after voiceover. **Never published without your explicit approval** |
@@ -27,6 +27,7 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 | v1.1 | 2026-11-18 | Baalbek P-1A → Roman iron tools. Sacsayhuamán P-3B → repeated test fit and adjustment. Research flags R-1 to R-4 resolved. Derinkuyu → 50+ m open / ~85 m total. Sacsayhuamán → 100–200 t estimate range. Puma Punku andesite → volcanic sources across the lake (Mount Ccapia). Thumbnail #3 → "85 M DOWN" |
 | v1.2 | 2026-11-18 | Sacsayhuamán P-3A → rough shaping at quarry, final fit at the wall (F-4). Derinkuyu P-2A cutaway → ~85 m to match the narration (F-7). F-2, F-3 and F-6 closed with no change. QC audit: 0 open accuracy issues |
 | P2-S2 | 2026-11-18 | Voiceover Step 2 proposal: spoken-form copy (9 number/date/italic changes, wording otherwise identical), 24-entry pronunciation dictionary, settings and credit estimate. Approved script untouched |
+| P2-S3 | 2026-11-18 | Cloud read-only check passed. b7d39d2 pushed. Dictionary upload attempted in the cloud: HTTP 401 missing `pronunciation_dictionaries_write`. Preview not sent, nothing saved or pushed, 0 credits used (21,345 / 122,529 before and after) |
 
 **Push status:** ✅ **Pushed** to GitHub on 2026-11-18, with your approval.
 - Remote branch: `origin/claude/relaxed-johnson-o8xlkc` (https://github.com/Karanch254/EmpireAtlas/tree/claude/relaxed-johnson-o8xlkc)
@@ -42,6 +43,7 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 | 2026-11-18 | `yt-viral` skipped: uses vidIQ, which may consume paid credits | **You said not to run it.** Not run, and no vidIQ credits used |
 | 2026-11-18 | `~/.claude/youtube/voice.md` missing | Send 3 of your videos to build the voice profile |
 | 2026-11-18 | ElevenLabs API: HTTP 401 from this PC. The key was previously supplied by a cloud-environment proxy that this PC doesn't have | Option A: run Step 3 in that cloud environment. Option B: you set the `ELEVENLABS_API_KEY` user environment variable yourself and restart the app |
+| 2026-11-18 | Dictionary upload (cloud): HTTP 401, key missing `pronunciation_dictionaries_write` | You add Pronunciation Dictionaries → Write (and confirm Text to Speech) on the ElevenLabs key, then rerun the same one-upload, one-preview step |
 
 ## Cloud continuity: what's actually available
 
