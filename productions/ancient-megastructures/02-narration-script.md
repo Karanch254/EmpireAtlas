@@ -196,7 +196,7 @@ Centuries later, the Inca took fitted stone to an extreme.
 
 Number three: Sacsayhuamán, the Inca complex above Cusco. Its zigzag walls are built from enormous polygonal stones, the largest with weight estimates ranging from about one hundred to two hundred tonnes, fitted without mortar.
 
-[3D: P-3A Cutting — existing prompt — "3D Reconstruction" label]
+[3D: P-3A Cutting — revised prompt (rough shaping at quarry) — "3D Reconstruction" label]
 [3D: P-3B Placing — revised prompt (test fit → adjust → final fit)]
 
 One leading explanation for the tight joints is patient repetition: shape a stone, test it against its neighbour, mark where it touches, adjust, and test again. Experiments with hammerstones show how effective that can be.
@@ -214,7 +214,7 @@ So far, everything went up. Number two goes down.
 
 Number two: Derinkuyu, in Cappadocia. Beneath the town lies an underground complex of multiple levels. The parts open today go down more than fifty metres, and the full complex is estimated to reach around eighty-five.
 
-[3D: P-2A Cutaway — existing prompt — "3D Reconstruction" label]
+[3D: P-2A Cutaway — revised prompt (~85 m) — "3D Reconstruction" label]
 
 Rooms, stables, storage areas, wells, and ventilation shafts carrying air to the deepest levels. Huge round stone doors could be rolled shut from inside.
 

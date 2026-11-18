@@ -1,4 +1,4 @@
-# Final Quality Control: script v1
+# Final Quality Control: v1.2
 
 | # | Check | Result |
 |---|---|---|
@@ -7,17 +7,26 @@
 | 3 | Claims and measurements verified | ✅ All four v1 ⚠ items rechecked and resolved in v1.1 (R-1 to R-4 in `01-research-and-sources.md`) |
 | 4 | Theories labelled as theories | ✅ "possibly", "proposed", "archaeologists believe", "one leading explanation", "many researchers believe", "strongly supported… not proven" |
 | 5 | No unsupported claims | ✅ The 20,000 Derinkuyu figure is explicitly qualified. No lasers, no "defies modern cranes". Moai walking is not presented as certain. |
-| 6 | Visual prompts match narration | ✅ F-1 (Baalbek → Roman iron tools) and F-5 (Sacsayhuamán → test fit and adjustment) fixed in v1.1. F-2, F-3, F-4, F-6 and F-7 are informational only. |
+| 6 | Visual prompts match narration | ✅ All 7 prompt flags closed. Fixed: F-1 (Baalbek → Roman iron tools), F-5 (Sacsayhuamán → test fit and adjust), F-4 (Sacsayhuamán quarry → rough shaping only, final fit at the wall), F-7 (Derinkuyu cutaway → ~85 m). Reviewed, no change needed: F-2, F-3, F-6. |
 | 7 | Hook compelling | ✅ The mandated line opens, followed by three concrete images and a payoff promise. See the hook note below. |
 | 8 | Transitions maintain curiosity | ✅ Every section ends by pointing at the next. Open loops land at 0:40 (#1 tease), 2:19 ("strangest part still coming"), 4:29 (farming rule), 5:19 (wild theories) and 8:42 (quarry reveal). That's roughly one every 60–120 s. |
 | 9 | Retention / packaging skills used | Partly. See the skill report below. |
 | 10 | Source list | ✅ `01-research-and-sources.md` |
 
+## Open-issue audit (v1.2)
+
+**Unresolved factual issues: 0. Unresolved visual-accuracy issues: 0.**
+
+- Research flags R-1 to R-4: resolved (`01-research-and-sources.md`).
+- Prompt flags F-1 to F-7: all closed (`03-shot-list.md`).
+- Deliberate departure from the brief: Derinkuyu depth uses the official figures (50+ m open, ~85 m total) instead of ~60 m.
+- Production to-dos, not accuracy issues: re-time timestamps and chapters after the voiceover is recorded (Derinkuyu is ~8 s longer than in v1), and check footage licences in stage 5.
+
 ## Accuracy note on the mandated opening line
 
 > "How did people with no cranes, no wheels, and no steel move stones heavier than a blue whale?"
 
-- **"no wheels"**: true for Rapa Nui, the Inca and Neolithic Britain, but Romans at Baalbek certainly had wheels, and Egyptians had them later than Khufu. The next line handles this honestly: *"Some of these builders never had the wheel. Others had it, and it barely helped."*
+- **"no wheels"**: true for Rapa Nui, the Inca and Neolithic Britain. Khufu's builders show no evidence of wheeled transport for stone (sledges and boats). Romans at Baalbek certainly had wheels. The next line handles this honestly: *"Some of these builders never had the wheel. Others had it, and it barely helped."*
 - **"no cranes"**: Romans had treadwheel cranes, but none that could lift 800 t. Read as "no cranes for loads this size", the line is defensible.
 - **"no steel"**: Roman iron tools sometimes contained steel. Read as "no modern steel machinery", it's fine.
 - **"heavier than a blue whale"**: a blue whale is roughly 100–150+ t. Only the Trilithon (~800 t) and the Baalbek quarry blocks clearly exceed that, perhaps also Sacsayhuamán's largest. The line asks about "stones" generally, so it holds, but don't suggest every site's stones are that heavy. The script doesn't.
@@ -51,6 +60,6 @@ yt-script asks for five hooks scored with its `hookscore.py`. The tool **couldn'
 
 ## Before recording
 
-1. ~~Decide on flags F-1 and F-5~~ ✅ Fixed in v1.1.
+1. ~~Decide on flags F-1 and F-5~~ ✅ Fixed in v1.1. F-4 and F-7 fixed in v1.2. F-2, F-3 and F-6 closed with no change.
 2. ~~Clear the four ⚠ research items~~ ✅ Resolved in v1.1. Note: the Derinkuyu depth now departs from the brief (~60 m) and uses the official figures (50+ m open, ~85 m total).
 3. Read the script aloud once. Lines that trip you up are the ones to cut.

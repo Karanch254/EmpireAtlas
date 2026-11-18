@@ -1,6 +1,6 @@
 # Production Status: 9 Ancient Megastructures
 
-**Last checkpoint:** 2026-11-18 · v1.1: prompt fixes and research flags resolved · **ready for your review**
+**Last checkpoint:** 2026-11-18 · v1.2: all accuracy flags closed · **ready for final review. Waiting for your approval to push**
 **Running right now:** nothing. No background or cloud task is active for this production.
 
 Any session (local or cloud) resuming this work: read this file first, continue from the first ⏳/⬜ stage, and update this file and commit at the end of every stage.
@@ -11,8 +11,8 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 |---|---|---|---|---|
 | 1 | Historical research & fact verification | ✅ Done (v1.1) | `01-research-and-sources.md` | All 4 flagged items rechecked and resolved (R-1 to R-4) |
 | 2 | Scriptwriting | ✅ Done (v1.1) | `02-narration-script.md` | 1,367 words, ~9:05–9:25. Puma Punku, Sacsayhuamán and Derinkuyu lines updated |
-| 3 | Script review & retention optimisation | ✅ Done (v1) | `05-quality-control.md` | Awaiting **your review** |
-| 4 | Visual prompt generation | ✅ Done (v1.1) | `03-shot-list.md` | Baalbek cutting prompt → Roman iron tools. Sacsayhuamán placing prompt → test fit and adjust. 18 new + 7 unchanged + 2 corrected |
+| 3 | Script review & retention optimisation | ✅ Done (v1.2) | `05-quality-control.md` | 0 unresolved factual or visual issues |
+| 4 | Visual prompt generation | ✅ Done (v1.2) | `03-shot-list.md` | All 7 flags closed. 4 prompts corrected (Baalbek cutting, Sacsayhuamán cutting and placing, Derinkuyu cutaway). 5 existing prompts unchanged. 18 new |
 | 5 | Real-footage research | 🟡 Search terms ready | `03-shot-list.md` | Next: find specific clips and check licences (Pexels free; others may cost money and need your approval) |
 | 6 | Voiceover preparation | ⬜ Not started | — | Blocked on script approval. Any paid TTS or vidIQ voiceover needs your approval |
 | 7 | Video editing & rendering | ⬜ Not started | — | Needs a machine with the editor/Remotion and the footage. **Can't run in the cloud as currently set up** (see below) |
@@ -25,8 +25,9 @@ Any session (local or cloud) resuming this work: read this file first, continue 
 |---|---|---|
 | v1 | 2026-11-18 | Script, shot list, research, upload package, QC (commit 7e2d377) |
 | v1.1 | 2026-11-18 | Baalbek P-1A → Roman iron tools. Sacsayhuamán P-3B → repeated test fit and adjustment. Research flags R-1 to R-4 resolved. Derinkuyu → 50+ m open / ~85 m total. Sacsayhuamán → 100–200 t estimate range. Puma Punku andesite → volcanic sources across the lake (Mount Ccapia). Thumbnail #3 → "85 M DOWN" |
+| v1.2 | 2026-11-18 | Sacsayhuamán P-3A → rough shaping at quarry, final fit at the wall (F-4). Derinkuyu P-2A cutaway → ~85 m to match the narration (F-7). F-2, F-3 and F-6 closed with no change. QC audit: 0 open accuracy issues |
 
-**Push status:** not pushed to GitHub, per your instruction. Local commits only.
+**Push status:** not pushed to GitHub. Waiting for your explicit approval. Local commits only.
 
 ## Errors / blockers log
 
