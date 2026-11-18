@@ -20,11 +20,11 @@
   },
   "credits": {
     "before": 21345,
-    "after": 21345,
-    "used": 0,
-    "remaining": 101184,
+    "after": 21490,
+    "used": 145,
+    "remaining": 101039,
     "limit": 122529,
-    "note": "Subscription counter showed no change immediately after the request (re-read twice). Billing may appear later; expected ~241 characters."
+    "note": "Corrected. The counter did not move immediately after the request; a later re-read by the cloud session (after its push) showed 21,490 used, so 145 credits were used for 241 characters."
   },
   "duration_seconds": 28.029,
   "name_timings": [
